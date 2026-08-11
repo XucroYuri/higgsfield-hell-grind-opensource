@@ -1,0 +1,18 @@
+.DS_Store
+**/.DS_Store
+
+# 大体量媒体与运行态（不进 Git；元数据与脚本进库）
+_media_blobs/
+folders/
+logs/
+film/*.mp4
+brief/images/
+
+# 下载进行中的进度（本地可变）
+meta/media_download_progress.json
+meta/media_download_stats.json
+
+# Python
+__pycache__/
+*.pyc
+.venv/

@@ -1,0 +1,652 @@
+Project brief
+
+
+
+
+This is the project brief for HELL GRIND, our feature-length AI film.
+
+HELL GRIND is an action-fantasy movie about how far a man will go to save the woman he loves and what that choice costs the people around him. Fantasy as tragedy, action as grief, friendship as the last thing standing between a man and the thing he is becoming.
+About the project
+
+
+
+
+On the night of a museum heist, crew leader Roco brushes off his girlfriend Lulu before she can tell him she's pregnant. The job goes sideways: Roco triggers an ancient artifact that splits into four shards, granting the crew powers they can barely control — and summoning a bone-clad demon that drags Lulu into the underworld.
+
+A stranger from a demon-hunting organization offers a deal: find the two remaining artifacts of the earth realm before the demons do, and they'll help bring Lulu home. In Tibet, Roco crosses a line — he kills the artifact's elderly guardian. A stolen memory reveals Lulu's pregnancy and that his friends hid it from him. Feeling betrayed, he continues alone. The third artifact, in Japan, demands a price no one should ever pay. By the time Roco opens the portal to hell, only one question remains: how much of the man who set out to save her will be left?
+
+An action-fantasy about how far a man will go to save the woman he loves — and what it costs everyone around him. Fantasy as tragedy, action as grief, friendship as the last thing standing.
+
+
+
+The numbers: Hell Grind is a 95-minute feature film created by 15 people. A budget under $500K. 14 days of generation — after the assets were prepared, and before the post work. The film screened in Cannes at the 2026 Marché du Film. Every frame is generated. No cameras, no actors, no sets. Video and speech: Seedance 2.0. Faces and locations: Soul Cinema. Image edits: Nano Banana Pro and Seedream 4.5. Text in frame, props and reverse angles of locations: GPT Image 2. The team: a director group plus prompt engineers, each responsible for their own block of scenes.
+
+
+
+
+HELL GRIND began as a short series and grew into a feature. The process improved from scene to scene; the working formula came together near the end. This brief is that formula — the version we would use from day one.
+
+Making the film meant solving a few big problems: faces that change between shots, spaces that fall apart when the camera moves, voices that drift, scenes that lose their geography. The biggest one is consistency — keeping every character, place and object the same from shot to shot. A video model has no memory. Describe your hero incompletely in one prompt — and in the next shot he has a different face and a different jacket. Below is the system that solved it, problem by problem.
+
+A small spoiler: 
+
+at the end of this brief you will find the CINEDANCE skill — our tool that writes video prompts by all of these rules for you. But for it to work at full strength, you first need to understand the system it stands on.
+
+CINEDANCE HIGGSFIELD SKILL.md
+MD
+
+Before pre-production, one place to see it all: the full asset library is laid out in Canvas — character sheets, location sheets and prop sheets, grouped by zones, with team notes. Open it next to this text.
+
+
+
+
+Canvas preview
+
+
+
+
+Pre-Production: Assets
+
+An asset is a simple pair: text + image. The text is a full description of the character or place — we call it a descriptor. It goes into every prompt, word for word. The image is a reference — the model uses it as an anchor. Together they keep your hero the same person from shot to shot.
+
+
+
+A character sheet is three images:
+
+A close-up of the face, a full body from the front, and a full body from the back. And the front full-body figure has no head. This sounds insane, but it fixed a whole class of broken shots. On wide shots the model kept taking the face from the small full-body figure on the sheet — where the face is tiny and blurry. Remove that head, and the model has only one place to take the face from: the close-up.
+
+
+
+
+Faces were born in Soul Cinema.
+
+It gives the best skin texture, but it is a creative model: one prompt returns several different versions of the face. Pick the most believable one, not the most beautiful one. A "beautiful but fake" face will show its fakeness later, in video — when it is too late to fix. And always check the eyes: even dark eyes need a small light reflection in the pupil (a catch-light). Without it the face looks dead, and no video model can act with a dead face.
+
+
+
+
+
+
+
+Keep the sheet boring on purpose.
+
+Neutral grey background. Flat light. Real skin with visible pores, no retouch. The cinema look does not live in the character sheet — it lives in the locations and in the video prompts. Bake film grain and cinematic lenses into the sheet, and the character will carry that look into every scene and stop reacting to new light. One more thing we learned: the sheets the model understands best have a large portrait in 3/4 view (the face turned slightly, not straight-on).
+
+Clothes, scars and blood were added as point changes.
+
+Our workflow — one of the possible ones, but it kept the quality for us: make the point change on the original character sheet in Nano Banana Pro or Seedream 4.5, then bring it onto the original by hand in any graphics editor that works with masks. The mask places only the changed part (the jacket, the scar, the blood) on top of the original; everything else stays untouched, so the original skin texture survives. The rule behind it: an image never runs through a model twice in full. Every extra pass destroys texture and drifts color — after two passes the face turns symmetrical, plastic and lifeless, and that dead texture later hurts the acting in video.
+
+
+
+
+Every asset passed a stress test before we locked it:
+
+Ten generations in different poses and different light. The character must be recognizable in ten out of ten. And not alone — next to the other assets, and in the light of the real scenes ahead. A hero who looks stable alone often breaks when he shares the frame with someone. If the test fails, the problem is your description, not the model. Rewrite the words, test again.
+
+The voice is not an asset 
+
+ Seedance holds three or four voices per character inside one tonality — enough for a feature film, but only if you manage the voice. Lock every hero's voice in pre-production, before the dialogues: register, tempo, accent, manner. The voice prompt is pasted into the audio field as is, every time the hero speaks, and it never changes:Я
+
+Voice: deep, gravelly bass-baritone; slow, calculated pacing; London street accent; menacing calm — he never raises his voice.
+
+Test how the voice holds between generations — the same way you stress-test the look; if it drifts, go back and lock the wording harder.
+
+The way a character acts is locked the same way as the look and the voice.
+
+Every hero gets one paragraph — a behavior profile written before any shooting: how he moves, what his hands do, his nervous habits, how his eyes behave, how exactly he breaks under pressure. That paragraph is the source of truth: each scene adapts it to the moment's posture and action, but the core never changes. A behavior that is physically impossible in a scene is transferred, not deleted — a pacer sat down on a sofa keeps the same energy in swaying, finger-tapping and jagged gestures.
+
+
+
+
+Every state of a character is a separate asset.
+
+Wet, wounded, changed clothes — that is @roco, @roco_wet, @roco_blood, each with its own description. Mix the states in one text, and the model starts mixing them between shots. Locations work the same way: day, night and rain are three different assets. Even props: our key artifact had three versions — a full one for close-ups, a small bloodied one for a brief reveal in a palm, and a "hidden" one for clenched-fist shots, where the prompt forbids showing the crystal and allows only blue light between the fingers. Splitting states is cheaper than fighting the model.
+
+
+
+
+Generate locations for your future camera angles.
+Shoot the location sheet in 3/4, not frontal. A frontal "pretty picture" becomes flat wallpaper on wides, and past its edges the model invents new surroundings every time. A 3/4 view gives the model depth to read — it places the heroes correctly and covers almost a full circle of angles.
+Leave an anchor in every location — a column, a lamp, a sofa — and tie the staging to it. "The hero at the lamp, facing the door" works; "the hero in the room" is a lottery.
+Keep one light logic: one source, one direction of shadows, never two suns — otherwise every new angle re-invents the lighting.
+Reverse angles, way one: generate a corner of the same room in GPT Image 2 or Nano Banana, matching the soft focus of the original.
+Reverse angles, way two (found late in production): generate a video of the empty location where the camera slowly walks through the space — Seedance draws the other sides consistently with your sheet. Screenshot the angle you need, take it to Seedream or Nano Banana Pro, and prompt it to improve textures and lighting. A full location sheet out of a single image.
+
+
+
+
+When you feed assets to Seedance, name the role of every reference.
+
+References are assets only: characters and locations. Name the role of each one right in the prompt — or the model decides by itself, and decides wrong: it copies the composition instead of the face, or the face instead of the color palette.
+
+@roco for character reference
+@jaxx for character reference
+@loc_cave_front for location reference
+
+Location references get a direct ban on inheritance: "do not use as a starting frame, do not inherit the composition, the angle or the color — take only the space and the texture." All assets live under tags — @roco, @loc_cave_front — and the same tags are used everywhere: in documents, in prompts, in the interface. One dictionary of names for the whole project.
+
+Pre-Production: Preparing prompts for Video
+
+We wrote prompts together with Claude. It held the whole project folder in its context: the script, the asset sheets, the registry, the shotlists with @-tagged assets. Our standards are packed into skills. A skill is a playbook of rules that Claude loads by itself and then works by. There are three systems:
+
+
+
+Lira — image prompts: the same as CINEDANCE, but for images; it knows the weak points of every image model.
+The acting system — the living performance: how to write behavior instead of emotions, the face-and-body prompt hacks, the character acting master format. Its main rules are woven into this brief below; the full version is in the attachments.
+ACTING SKILL.md
+MD
+LIRA SKILL.md
+MD
+
+
+
+
+
+
+
+All of it is attached to this project. Drop it into Claude and prompt the way we did.
+
+The prompt is a rigid skeleton. 
+SCENE CONTEXT — with the header "EXACT N CHARACTERS — NO DUPLICATES": what happens, who is in the shot, how long the take is.
+ACTIVE REFERENCES — character and location tags with their roles named.
+LOCATION MAP — the geography of the place in words.
+FIRST FRAME AND SPATIAL BLOCKING — who stands where in frame one.
+FORMAT MODE — one take or hard cuts, duration, real time.
+OPTICS — the lens and the focus plan.
+CAMERA — how the camera behaves, and what it never does.
+ACTION TIMING — the action beat by beat, in seconds.
+PHYSICS — weight, contact, inertia of everything that moves.
+LIGHTING — one source logic, where it comes from.
+AUDIO — the voice descriptors and the exact lines; SFX only.
+CHARACTER ACTING — state, want, what is hidden, body rhythm, what changes.
+STYLE — the Style Prefix, pasted word for word.
+QUALITY — detail and stability requirements.
+POSITIVE CONSTRAINTS — every count and ban, written as what IS in the frame
+
+The character-count header is not a formality. The model loves to add extra people and to clone furniture. Only those whose references are in the prompt exist in the frame — and furniture gets a direct ban: "exactly ONE mannequin, NEVER render a second one."
+
+    This is the whole skeleton filled in on one real shot of ours — the crew walks in on ROKO training alone:
+
+
+SCENE CONTEXT
+
+EXACT 3 CHARACTERS — NO DUPLICATES: ROCO, JAX, REIN. Underground base, training hall, day. ROCO has
+
+been drilling alone for hours; JAX and REIN come in late with food and find the room wrecked. One
+
+continuous 12-second shot, no cuts.
+
+ACTIVE REFERENCES
+
+@roco for character reference — bare-chested, the crystal sheathing his right arm from wrist to
+
+shoulder, blood dried under his nose.
+
+@jax for character reference — carrying two food trays.
+
+@rein for character reference — tablet in her left hand, screen alive.
+
+@loc_training_room for location reference — take only the space and the texture: raw concrete, black
+
+rock walls, the round mat, the hard light above it. Do not use as a starting frame, do not inherit
+
+the composition, the angle or the grade.
+
+LOCATION MAP
+
+The round training mat sits at the center of the hall under one hard overhead light. The door is in
+
+the far wall at frame-LEFT, about eight metres from the mat. Five smashed mannequins lie scattered
+
+at CENTER-RIGHT, one still rocking on its base. A bench with two trays stands at frame-RIGHT, two
+
+metres off the mat. The camera lives on the door side of the room and never crosses that line.
+
+FIRST FRAME AND SPATIAL BLOCKING
+
+First frame is already the full room: ROCO planted at the center of the mat, torso angled to
+
+frame-LEFT, gaze down on the broken mannequins; the open door at frame-LEFT with JAX and REIN just
+
+inside it, trays in hand, two metres apart. No empty establishing beat, no camera move on frame one.
+
+FORMAT MODE
+
+Single continuous take, 12 seconds, real time, no cuts, no speed ramps.
+
+OPTICS
+
+≈40° wide, camera low at chest height, six metres from the mat, deep enough focus to hold the door
+
+and the mannequins in one read; the crystal arm stays sharp.
+
+CAMERA
+
+Calm breathing handheld that holds its framing — a slow reframe of a few degrees when ROCO turns his
+
+head, nothing more. No push, no zoom, no whip.
+
+ACTION TIMING
+
+0.0–1.0s — the room holds: positions fixed, one mannequin still rocking.
+
+1.0–4.0s — the door swings; JAX and REIN step in and stop at the edge of the mat, trays held.
+
+4.0–8.0s — ROCO's eyes find them before his head turns; chest pumping in short pulls, the blood
+
+untouched, the jaw setting once.
+
+8.0–12.0s — he speaks; the smile cracks on all three at once; nobody steps toward anybody.
+
+PHYSICS
+
+The crystal arm has real weight — it drags the right shoulder low and swings a beat behind the body.
+
+The rocking mannequin loses momentum and settles. Trays carry liquid: the cups tilt and steady when
+
+JAX stops. Breath is audible work, not decoration.
+
+LIGHTING
+
+One hard overhead source above the mat: ROCO lit from above, eye sockets in shadow, the crystal
+
+catching a cold edge; the door area falls two stops darker; no fill from the camera side.
+
+AUDIO
+
+Diegetic only — the hum of the hall, one mannequin creaking to a stop, footsteps and trays. ROCO
+
+voice (verbatim): "A worn-out voice in his twenties, dry and low, humour used as armour." His line,
+
+and nothing else: "You're late." Nobody else speaks. No music.
+
+CHARACTER ACTING
+
+ROCO — burnt out and still going; wants one more clean hit before anyone sees him fail; hides that
+
+the arm is winning; heavy planted rhythm, slow recovery; re-arms his face when the door opens.
+
+JAX — carries the reaction: the grin holds a half-beat too long, then drops as he reads the room.
+
+REIN — reads the damage before the person: eyes sweep the broken mannequins, then the arm, then his
+
+face; the tablet lowers without her noticing.
+
+STYLE
+
+[Style Prefix, pasted word for word]
+
+QUALITY
+
+8K detail, pore-level skin, no jitter, no flicker; the three faces stay exactly their references at
+
+every distance.
+
+POSITIVE CONSTRAINTS
+
+Exactly three people in the hall, and no one else. Exactly ONE crystal arm, on ROCO's right arm,
+
+wrist to shoulder — never on the left, never spreading past the shoulder. FIVE smashed mannequins,
+
+never re-rendered as intact, never multiplied. Two trays, never more. The camera stays on the door
+
+side of the room for all twelve seconds. Photoreal. NON-IP. 16:9. 12s. SFX only. NO CGI. Cinematic.
+Write in present tense. Short sentences. 
+
+The camera is written inside the action. Keep each beat light: up to three sentences per beat — overload a beat, and the model smears it. The prompt itself can be long: ours ran 3,000–4,000 words. Length is not the enemy; an overloaded beat is. Four more wording rules: actions only in positive form — the model ignores "does NOT fall on his back," or does the opposite; write "falls on his stomach." The character is in the frame from the first frame, and never looks into the camera unless you ask. Never write age in any language — the content filter becomes much stricter the moment it reads a minor; instead of age, give the role, the clothes, the action. And keep a ban dictionary of words the model punishes: "dark" becomes "low key," "jolting" becomes "rapid motion."
+
+Here is our Style Prefix — copied word for word into the end of every prompt:
+
+Style: 8K IMAX. Photorealistic — no 3D render, no game engine, no game-cutscene aesthetic.
+Cinematography: floating immersive camera that lives with the actors; natural motivated light; painterly composed frames, strong silhouettes against the light.
+Lighting: Natural light only — contre-jour backlight, camera on shadow side, atmospheric haze throughout. Key light from sky and windows only.
+Color: 60:30:10 — dominant / secondary / accent.
+Camera: Physical cine lens. 180° shutter motion blur.
+Skin: Pore-level realism — vellus hair, asymmetric moles, capillary flush, pore-shadow matching on-set light.
+Acting: Hollywood — micro-pauses before reactions, precise eye-line, wet living eyes with catch-lights, visible breath and chest rise.
+Physics: Gravity and inertia respected — mass has real weight, correct contact shadows. No floating props.
+Composition: Rule of thirds + golden ratio. Every person moving from frame one.
+Continuity: Characters, props, environment identical across every cut. No identity drift.
+Technical: 24fps smooth motion. 8K detail. No jitter.
+Audio: Environmental SFX only. No music. No subtitles.
+
+
+
+
+The line "SFX only. No music." is mandatory. Music belongs to post-production, and a "generation soundtrack" only gets in the way of the edit. Technical tags close the prompt: Photoreal. NON-IP. [aspect ratio]. [duration]s. SFX only. NO CGI. Cinematic.
+
+The most expensive problem of our early takes:
+
+Characters teleport, swap places, the camera jumps to the wrong side. The reason is simple: the model does not remember who stood where in the previous shot. The cure is the GEO SPATIAL LAYOUT block. It is a floor plan of the place in a few lines: the landmark objects, what is on the right, what is on the left, where the camera stands. No heroes, no action — only the place itself. You write it once per scene and paste it into every shot of that scene without changes: the model gets the same room in every shot, and there is nowhere left to "lose" the people. Here is our example:
+
+GEO SPATIAL LAYOUT (locked across every shot — pure spatial map):
+— PLATFORM = raised circular ritual stone disc at the edge of a cliff.
+— ALTAR-MONOLITH: at the cliff edge, MID-RIGHT position relative to the platform.
+— RITUAL CENTER: CENTER-LEFT, ~3 m from the altar.
+— 180° AXIS: camera ALWAYS stays on the corpse-field side — it NEVER crosses the line.
+— BACK-LIGHTING: crimson horizon glow comes from BEHIND the platform, rim-lighting silhouettes from camera's perspective.
+
+
+
+
+Important:
+
+GEO is only the map. The look of the place still comes from the location asset — its descriptor and reference go into the prompt next to the map.
+
+Reading the map is simple. Sides exist only from the camera: "frame-left" and "frame-right" — the model does not understand "to the left of the hero." Positions are set from the landmark objects and in meters: "at the altar," "three meters away." Write directly on which side the camera stands and which line it never crosses — this keeps all the cuts on one axis. Two more consequences: after every cut, name again who stands where and where they look (the model does not remember the previous shot), and give a static dialogue a corner of the room, not the whole room — the less space the model has, the less choice it has about where to put your heroes.
+
+The first second is always a wide shot.
+
+One second at the start of the scene, no lines and no action: the model "photographs" the arrangement — who stands where, what lies where, where the light comes from — and holds it in every following shot. Remove that second, and characters start swapping places. A small hack: have someone say one short word — like "hm" — during that second; it makes it easier for Seedance to treat the wide as a separate shot.
+
+And the wide does not have to be silent. If the shot is an answer to the previous one, feed the tail of the previous clip's line into that first second — then the actor answers the right thing in the right tone, and the two clips glue at the seam:
+
+
+
+FIRST FRAME AND SPATIAL BLOCKING
+
+SHOT 1 (~1.0s) — a wide that FIXES THE POSITIONS and does nothing else: ROCO planted at the center
+
+of the mat, five smashed mannequins at CENTER-RIGHT, the door open at frame-LEFT with JAX and REIN
+
+one step inside it, trays in hand. No camera move, no action beat.
+
+AUDIO
+
+Over that first second, the tail of the previous clip's line arrives on REIN's lips as she walks in:
+
+"...I've got the coordinates." ROCO's eyes find her before his head turns.
+
+ACTION TIMING
+
+1.0s onward — ROCO answers into the same rhythm, dry and worn: "You're late."
+
+
+
+
+The cost is one second of runtime; the saving is hours of reshoots.
+
+
+
+
+
+
+The main rule of acting: write behavior, not feelings.
+
+A living scene is a hero who wants something, something in his way — and he acts to get it. The emotion is born by itself, out of that fight. Give the model a goal and an obstacle, and change the way he fights for it through the scene: he jokes → it fails → he pushes → it fails → he begs. Every such change is a visible event: a pause, a change of posture, a change of tempo. A scene where the hero does the same thing all the way through plays flat.
+
+
+
+
+Write physics, not adjectives. 
+
+On emotion words — "sad," "angry," "shocked" — the model starts to improvise and can give a shallow result. For deeper emotions, describe the work of muscles and body: a tremble, a jaw clenched with rage and flexing, cheekbones drawn tight, a light exhale through the nose. On top of the muscles, add intention: one line of inner monologue for every stretch of action — what the hero thinks and wants — marked INNER (unspoken). Add phased blinking — "one lazy blink → a quick DOUBLE-BLINK → one HARD reset-blink" — the cheapest sign of a living face. And besides blinking, write a clear gaze direction — or darting eyes: the constantly working micro-expressions give the face more life. Against frozen faces in static shots, the micro-life rule: one visible micro-event every one or two seconds — the breath lifts the chest, a nostril moves, a brow tenses and relaxes. Describe stillness as held tension, never as a freeze: calming phrases like "nobody moves" freeze the frame themselves.
+
+Here are the two real blocks from one of our shots — ROKO alone in the training room after hours of practice. The words "exhausted" and "angry" appear nowhere; the state is built out of muscle in the timing, and out of intention in the acting block:
+
+
+
+
+ACTION TIMING
+0.0–2.0s — ROCO holds the center of the mat, feet planted wide, chest pumping in short shallow
+
+pulls; the crystal arm hangs heavy at his side and drags his right shoulder a finger lower than the
+
+left.
+
+2.0–4.5s — the jaw sets and releases twice; a thread of blood runs from his nose to his upper lip
+
+and he lets it run; one lazy blink, a quick DOUBLE-BLINK, one HARD reset-blink.
+
+4.5–6.0s — the gaze drops to the smashed mannequins at CENTER-RIGHT, holds one beat, then lifts to
+
+the door as it opens — the eyes reach the door before the head turns.
+
+CHARACTER ACTING
+
+ROCO — emotional state: burnt out and still going. What he wants in this moment: one more clean hit
+
+before anyone walks in on him failing. What he is hiding: that the arm is winning, and that it
+
+frightens him. Dominant body rhythm: heavy, planted, slow recovery between bursts. Visible habits in
+
+this beat: the jaw set-and-release, the right shoulder pulled low by the crystal, the blood he does
+
+not wipe, the gaze that finds the broken mannequins first and people second. What changes across the
+
+shot: the second the door opens he re-arms his face — the exhaustion folds back behind a dry
+
+half-smile before he says a word.
+
+
+
+
+
+
+Three things that separate a living shot from a dead one. 
+
+The reaction starts before the other line ends: a listener gets the point mid-sentence, and his face already answers; after an important event, give the hero a fraction of a second to take it in before he speaks. Emotion does not switch off instantly: after a heavy moment the breath is still uneven, the hands still not steady — that tail carries into the next clip and stitches the cuts together. And keep the hero's hands busy: he does not "have a conversation" — he fixes, counts, pours, and talks over it; the strongest accent of a scene is the moment he stops that work because of what he just heard.
+
+A dialogue line in the prompt is always built the same way:
+
+The voice and its emotion → the line in quotes → the physical action → the facial reaction. Lines live only in the audio section of the prompt — not one word of speech inside the action. Seedance loves to add its own "uhms," chuckles and whole phrases, so the prompt carries a hard block: everyone speaks ONLY the line in quotes; whoever has no line stays completely silent; a "half-laugh" written in the action is a facial expression, with no sound. Write the mix too: voices clean and close to the microphone, the ambience under them, the ambience dips when someone speaks. Rare names get a transcription, or the model breaks them. Two tricks for the seams between clips: on the wide shots of a dialogue, feed the tail of the previous line into the prompt — it helps the lips and the rhythm; and open every new generation with the line that closed the previous one — the emotion crosses the seam together with the text.
+
+Here is a two-line exchange from one of our corridor scenes — the action lives in the timing block, the speech lives in the audio block, and the two never mix:
+
+
+
+
+ACTION TIMING
+
+0.0–3.0s — JAX and REIN walk the corridor toward the lens, in step. JAX talks with his eyes up on
+
+the ceiling lights, one hand patting his stomach; REIN's thumb keeps scrolling the tablet, her pace
+
+unchanged, she never looks up at him.
+
+3.0–4.0s — the distant THUD from the training room lands: REIN's thumb STOPS on the glass, and only
+
+then her head turns to the door — the interrupted work is the accent of the beat. JAX's grin drops
+
+half a second later.
+
+
+
+AUDIO
+
+Diegetic only — corridor air, two sets of footsteps on concrete, soft taps on the tablet, the
+
+distant THUD and a hiss of crystal behind the door. JAX voice (verbatim): "A London street voice in
+
+his twenties, loose and hungry, always half-joking, sentences thrown out mid-stride." His line, and
+
+nothing else: "Man, some cereal and a milkshake would hit the spot right now." REIN voice (verbatim):
+
+"A technical voice in her twenties — flat, fast, precise, no wasted air." Her line, and nothing else:
+
+"I think I've got the coordinates." Nobody else speaks; JAX's amused breath is a facial expression,
+
+with no sound. No music.
+
+
+
+
+The work is organized by scene blocks, in the order of the film: the painted prologue, the cold open in Hell, the orphanage flashbacks, the base and the Tibet heist, the Japan finale. Each block lives in its own shotlist file. Every shot has its number, timing and full prompt. The descriptors and the Style Prefix live as constants: one edit updates every shot at once.
+
+
+
+
+We generated in batches, scene by scene. Every iteration was surgical: one line changes, everything else stays word for word. And everything goes into the log: prompt version, what changed, verdict. Without the log you cannot repeat a good shot. We kept the ten-to-fifteen rule: if a shot did not come together in that many iterations, the problem is not the wording. Simplify the shot: split it in two, remove an action, change the angle.
+
+
+
+
+Some solutions were born under deadline pressure:
+
+
+Complex action never sits in the middle of the timing. Our door would not break: the hero shuffled next to it and froze. Now the action opens the prompt — "he is ALREADY mid-swing, the door ALREADY cracking" — and the approach to the door is a separate shot.
+A crowd is one "character" asset with a range of heights and clothes. One or two lead extras get their own assets for close-ups. On medium shots, state the number directly — "20+" — otherwise the model gives you three people in one take and a hundred in the next.
+
+
+
+
+
+
+
+Transitions between two spaces hold on a threshold: both location assets in one prompt, and the seam is a doorway with a light contrast across it — "a warm amber room, a cold blue corridor beyond the arch." The contrast explains the palette change and forgives small geometry mistakes.
+
+
+Giants live on scale anchors: a size comparison in every prompt, plus a human figure in the frame to measure against. Without both, the model quietly shrinks the giant back toward human height. Our thirty-metre stone guardian carried this constraint in every shot he appears in:
+
+POSITIVE CONSTRAINTS
+THE SCALE LAW — VISIBLE PROOF IN THE PICTURE: the stone guardian stands THIRTY METRES tall — his head is lost in the darkness of the dome, his open palm is as wide as a family car, and ROCO at his foot reaches just above the ankle. In every frame the guardian's silhouette is at least FIVE TIMES the height of the human figure beside him, and the frame cannot hold both his feet and his head at once. A guardian that reads as a large man, or fits comfortably in frame next to a standing human = failed shot.
+
+
+
+
+
+
+Post-Production: Cleanup, Color, Sound
+
+
+The edit ran in parallel with generation. The editor assembled scenes as they arrived and ordered what was missing: "need a cutaway to the hands," "need a wider one." A reshoot costs minutes, so the edit actively shaped production instead of waiting for it. Generations almost always feel slow in tempo: cut more aggressively than feels right, and plan to trim the first and last half-second of every clip — the edges drift.
+
+After picture lock we ran a separate cleanup pass. AI material almost always carries defects you do not see while working and do see on the big screen: extra fingers, "boiling" textures, fake text on signs. Small defects were retouched frame by frame. Fully broken shots were regenerated from the saved final prompt, with one line changed. First priority: close-ups of faces and hands. All of it strictly before color.
+
+Color starts with unification: every generation arrives with its own built-in grade, so the colorist first brings the neighboring shots of a scene to one look. The look itself was baked into the location assets back in pre-production — so the colorist refines, not invents.
+
+We did not re-record the voices. Seedance's lip-synced lines were cleaned directly from the generations: noise removal, evening out the timbre between clips, placing the voice in the space. A studio recording only when a clip came out with no usable voice. Sound design and music were built in post on top of continuous ambiences: one shared atmosphere glues the generated shots into one space, even where the picture drifts a little.
+
+Conclusion
+
+If we had to compress the whole film into five rules, they would be:
+
+Assets first. Do not generate a single shot until every character, location and prop is locked and stress-tested. This one rule saves more money than everything else combined.
+Describe everything, every time. The model has no memory. The descriptor goes into every prompt, word for word, never shortened.
+Change one thing at a time. A prompt is a working mechanism: rewrite it fully — and you lose the parts that worked. One line per iteration, everything into the log.
+Give the model less freedom. A corner instead of a room, an anchor instead of an open space, a map instead of guesswork, one action per shot.
+If a shot will not come together — simplify the shot, not the words. Split it in two, remove an action, change the angle.
+
+Every rule in this brief exists because a shot failed without it. Take the attachments and start with one scene: one locked character, one location sheet, one prompt skeleton. The pipeline does not need fifteen people to work — it needs the rules followed. It scales down to a team of one.
+
+
+
+
+What's attached
+
+The full production brief (the complete process, decisions and hacks in detail), the CINEDANCE skill bundle (writer / auditor / workbench), the Lira image-prompt skill, the unified acting system (how to write a living performance: the five pillars of a scene, the prompt hacks, the character acting master format), the team guide with learnings, the 11-stage production pipeline, the illustrated handbook with the slop gallery, and the shotlists by block.
+
+CINEDANCE HIGGSFIELD SKILL.md
+MD
+ACTING SKILL.md
+MD
+LIRA SKILL.md
+MD
+
+
+
+
+Note: some assets and working files were lost during production — a few referenced materials may be unavailable or exist only in later versions.
+
+Comments717
+
+sharkandshrimp
+31m
+this is crazyy
+Reply
+warhol_pizza_final_final
+5h
+bro! this is amazing!! I can't believe that 3 years ago we were watching that video of Will Smith eating spaghetti..
+Reply
+synthwavedonut1611
+7h
+niubi
+Reply
+twinklingmilk1142
+9h
+I am absolutely stunned by the quality of this.
+Reply
+cantorparrot1364
+10h
+Daaaaaaaaaaaamn! Great work!!!!!
+Reply
+responsivedolphin1401
+10h
+Looks nice, thrill to see what's coming up from you guys.
+Reply
+wilasky
+11h
+WOW Incredible times we people who like Sci-FI have had to live through.
+Reply
+orbstudioberlin1
+11h
+😍
+Reply
+ovchi
+14h
+Awesome
+Reply
+deconstructivistpanda1700
+14h
+Top des Tops
+Reply
+el_grecobagel1776
+15h
+shit sucks lmao
+Reply
+aikhar
+15h
+HOLYYYYSHITTTTT
+Reply
+lordfaustoski
+15h
+epic
+Reply
+manetcrystal1345
+16h
+haljksgawuoeyjlj,an,nsjklahfks😃
+Reply
+yoopi
+17h
+This is insane holy
+Reply
+bloodborneship1234
+17h
+Wow
+Reply
+meditatingfalcon1156
+17h
+16:02 I got goosebumps, even though it's AI, I had to cry 😭🙏
+Reply
+juniperdraw
+18h
+Cool video. one time I will make it
+Reply
+yippieyoder
+18h
+wow, love all the info included!!
+Reply
+xs227
+18h
+So, to be able to win this contest, we need to deliver better than that. 🤑 Here we come! 🤞
+Reply
+
+Author
+
+Higgsfield Studio
+Follow
+
+Information
+
+Views
+348 349
+Generations
+115 446
+Created time
+August 4, 18:17
+
+Powered by
+
+Frames and Scenes
+
+Cinema Studio
