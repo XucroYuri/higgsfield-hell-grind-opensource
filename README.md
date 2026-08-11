@@ -1,8 +1,9 @@
 # Hell Grind 官方开源镜像
 
-> 本目录是 Higgsfield 公开制作档案的**本地镜像**。  
+> 本目录是 Higgsfield 公开制作档案的**本地镜像**，且为 **独立 Git 仓库**  
+>（与 `../higgsfield-hell-grind-know-how` 分离，远端分别提交）。  
 > 遵守工作区铁律：**忠实源头**；禁止以篡改/纠正为目的改内容。  
-> 详见 `../AGENTS.md`、`../docs/纪律-开源镜像与迭代开发.md`。
+> 详见 `../AGENTS.md`、`../docs/纪律-开源镜像与迭代开发.md`、`.gitkeep-note.md`。
 
 ## 官方入口
 
