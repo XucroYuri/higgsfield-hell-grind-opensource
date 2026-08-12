@@ -1,0 +1,1023 @@
+{
+  "generated_at": "2026-08-12T05:15:00Z",
+  "elapsed_s": 4.74,
+  "scope": {
+    "folders_scanned_with_job_sets": 159,
+    "job_sets": 38482,
+    "jobs": 115449,
+    "claimed_generations_meta": 115451
+  },
+  "cost_assumptions": {
+    "usd_per_credit": 0.043055555555555555,
+    "seedance_std_720p_8s_credits": 36.0,
+    "seedance_fast_720p_8s_credits": 28.0,
+    "resolution_multipliers": {
+      "480p": 0.7,
+      "720p": 1.0,
+      "1080p": 1.5,
+      "4k": 2.5,
+      "4K": 2.5
+    },
+    "flat_credits_by_type": {
+      "nano_banana_2": 2.0,
+      "nano_banana_flash": 1.0,
+      "nano_banana_pro": 2.0,
+      "soul_cinematic": 3.0,
+      "text2image_soul_v2": 2.0,
+      "soul_cinema_studio": 3.0,
+      "cinematic_studio_image": 3.0,
+      "cinematic_studio_soul_cast": 3.0,
+      "imagegen_2_0": 3.0,
+      "image_auto": 2.0,
+      "gpt_image_2": 4.0,
+      "seedream_v4_5": 4.0,
+      "seedream_v5_lite": 3.0,
+      "cinematic_studio_video_3_5": 40.0,
+      "cinematic_studio_3_0": 40.0,
+      "qwen_camera_control": 2.0
+    },
+    "platform_cost_field": "When present, cost/1000 treated as credits (empirical fit: 900*duration*n_jobs for 1080p seedance).",
+    "sources": [
+      "https://higgsfield.ai/blog/seedance-2-0-pricing-2026",
+      "https://higgsfield.ai/pricing",
+      "local job_sets.json cost/type/params/jobs"
+    ],
+    "caveats": [
+      "99%+ of job_set.cost fields are null — totals are ESTIMATES",
+      "No official 'accepted into final film' flag; adoption uses proxies",
+      "Enterprise / unlimited plan pricing may differ substantially",
+      "Audio/reference extras not fully priced"
+    ]
+  },
+  "platform_cost_field_coverage": {
+    "present": 31,
+    "null": 38451,
+    "coverage_pct": 0.081
+  },
+  "totals": {
+    "est_credits": 8721177.2,
+    "est_usd": 375495.13,
+    "est_usd_low_minus_30pct": 262846.59,
+    "est_usd_high_plus_50pct": 563242.69,
+    "mean_jobs_per_job_set": 3.0,
+    "variant_adoption_if_pick_one_mean": 0.4678,
+    "variant_adoption_if_pick_one_median": 0.25,
+    "implied_selected_if_one_per_job_set": 38482,
+    "implied_discarded_variants": 76967,
+    "favourite_jobs": 0,
+    "published_jobs": 0
+  },
+  "statuses": {
+    "completed": 115449
+  },
+  "jobs_per_job_set_distribution": {
+    "1": 10083,
+    "2": 1577,
+    "3": 5076,
+    "4": 21746
+  },
+  "by_type": {
+    "seedance_2_0": {
+      "job_sets": 34323,
+      "jobs": 101858,
+      "share_jobs_pct": 88.23,
+      "est_credits": 8664690.2,
+      "est_usd": 373063.05,
+      "share_usd_pct": 99.35,
+      "total_duration_job_seconds": 1312273.0,
+      "platform_cost_samples": 31
+    },
+    "cinematic_studio_video_3_5": {
+      "job_sets": 156,
+      "jobs": 592,
+      "share_jobs_pct": 0.51,
+      "est_credits": 23680.0,
+      "est_usd": 1019.56,
+      "share_usd_pct": 0.27,
+      "total_duration_job_seconds": 8462.0,
+      "platform_cost_samples": 0
+    },
+    "nano_banana_2": {
+      "job_sets": 2010,
+      "jobs": 6747,
+      "share_jobs_pct": 5.84,
+      "est_credits": 13494.0,
+      "est_usd": 580.99,
+      "share_usd_pct": 0.15,
+      "total_duration_job_seconds": 0.0,
+      "platform_cost_samples": 0
+    },
+    "soul_cinematic": {
+      "job_sets": 652,
+      "jobs": 2337,
+      "share_jobs_pct": 2.02,
+      "est_credits": 7011.0,
+      "est_usd": 301.86,
+      "share_usd_pct": 0.08,
+      "total_duration_job_seconds": 0.0,
+      "platform_cost_samples": 0
+    },
+    "imagegen_2_0": {
+      "job_sets": 589,
+      "jobs": 1626,
+      "share_jobs_pct": 1.41,
+      "est_credits": 4878.0,
+      "est_usd": 210.03,
+      "share_usd_pct": 0.06,
+      "total_duration_job_seconds": 0.0,
+      "platform_cost_samples": 0
+    },
+    "gpt_image_2": {
+      "job_sets": 301,
+      "jobs": 1015,
+      "share_jobs_pct": 0.88,
+      "est_credits": 4060.0,
+      "est_usd": 174.81,
+      "share_usd_pct": 0.05,
+      "total_duration_job_seconds": 0.0,
+      "platform_cost_samples": 0
+    },
+    "cinematic_studio_3_0": {
+      "job_sets": 7,
+      "jobs": 28,
+      "share_jobs_pct": 0.02,
+      "est_credits": 1120.0,
+      "est_usd": 48.22,
+      "share_usd_pct": 0.01,
+      "total_duration_job_seconds": 392.0,
+      "platform_cost_samples": 0
+    },
+    "image_auto": {
+      "job_sets": 120,
+      "jobs": 456,
+      "share_jobs_pct": 0.39,
+      "est_credits": 912.0,
+      "est_usd": 39.27,
+      "share_usd_pct": 0.01,
+      "total_duration_job_seconds": 0.0,
+      "platform_cost_samples": 0
+    },
+    "nano_banana_flash": {
+      "job_sets": 154,
+      "jobs": 424,
+      "share_jobs_pct": 0.37,
+      "est_credits": 424.0,
+      "est_usd": 18.26,
+      "share_usd_pct": 0.0,
+      "total_duration_job_seconds": 0.0,
+      "platform_cost_samples": 0
+    },
+    "text2image_soul_v2": {
+      "job_sets": 97,
+      "jobs": 195,
+      "share_jobs_pct": 0.17,
+      "est_credits": 390.0,
+      "est_usd": 16.79,
+      "share_usd_pct": 0.0,
+      "total_duration_job_seconds": 0.0,
+      "platform_cost_samples": 0
+    },
+    "soul_cinema_studio": {
+      "job_sets": 20,
+      "jobs": 74,
+      "share_jobs_pct": 0.06,
+      "est_credits": 222.0,
+      "est_usd": 9.56,
+      "share_usd_pct": 0.0,
+      "total_duration_job_seconds": 0.0,
+      "platform_cost_samples": 0
+    },
+    "cinematic_studio_image": {
+      "job_sets": 26,
+      "jobs": 70,
+      "share_jobs_pct": 0.06,
+      "est_credits": 210.0,
+      "est_usd": 9.04,
+      "share_usd_pct": 0.0,
+      "total_duration_job_seconds": 0.0,
+      "platform_cost_samples": 0
+    },
+    "cinematic_studio_soul_cast": {
+      "job_sets": 15,
+      "jobs": 15,
+      "share_jobs_pct": 0.01,
+      "est_credits": 45.0,
+      "est_usd": 1.94,
+      "share_usd_pct": 0.0,
+      "total_duration_job_seconds": 0.0,
+      "platform_cost_samples": 0
+    },
+    "seedream_v4_5": {
+      "job_sets": 6,
+      "jobs": 6,
+      "share_jobs_pct": 0.01,
+      "est_credits": 24.0,
+      "est_usd": 1.03,
+      "share_usd_pct": 0.0,
+      "total_duration_job_seconds": 0.0,
+      "platform_cost_samples": 0
+    },
+    "seedream_v5_lite": {
+      "job_sets": 5,
+      "jobs": 5,
+      "share_jobs_pct": 0.0,
+      "est_credits": 15.0,
+      "est_usd": 0.65,
+      "share_usd_pct": 0.0,
+      "total_duration_job_seconds": 0.0,
+      "platform_cost_samples": 0
+    },
+    "qwen_camera_control": {
+      "job_sets": 1,
+      "jobs": 1,
+      "share_jobs_pct": 0.0,
+      "est_credits": 2.0,
+      "est_usd": 0.09,
+      "share_usd_pct": 0.0,
+      "total_duration_job_seconds": 0.0,
+      "platform_cost_samples": 0
+    }
+  },
+  "seedance_params": {
+    "resolution": {
+      "1080p": 27991,
+      "720p": 6332
+    },
+    "mode": {
+      "std": 34323
+    },
+    "duration_hist": {
+      "4": 1208,
+      "5": 1134,
+      "6": 893,
+      "7": 1059,
+      "8": 1335,
+      "9": 545,
+      "10": 2215,
+      "11": 529,
+      "12": 1280,
+      "13": 415,
+      "14": 131,
+      "15": 23742
+    }
+  },
+  "top_folders_by_jobs": [
+    {
+      "folder": "07658827-7074-4e2a-ae90-ce45ab4afaff",
+      "job_sets": 1487,
+      "jobs": 5798,
+      "mean_jobs_per_job_set": 3.899,
+      "variant_adoption_if_pick_one": 0.2592,
+      "est_credits": 549828.0,
+      "est_usd": 23673.15,
+      "top_types": [
+        [
+          "seedance_2_0",
+          1487
+        ]
+      ]
+    },
+    {
+      "folder": "Scene 61-66",
+      "job_sets": 1527,
+      "jobs": 5656,
+      "mean_jobs_per_job_set": 3.704,
+      "variant_adoption_if_pick_one": 0.2987,
+      "est_credits": 563071.5,
+      "est_usd": 24243.36,
+      "top_types": [
+        [
+          "seedance_2_0",
+          1527
+        ]
+      ]
+    },
+    {
+      "folder": "Scene 72A",
+      "job_sets": 1259,
+      "jobs": 4763,
+      "mean_jobs_per_job_set": 3.783,
+      "variant_adoption_if_pick_one": 0.2963,
+      "est_credits": 409380.8,
+      "est_usd": 17626.12,
+      "top_types": [
+        [
+          "seedance_2_0",
+          1259
+        ]
+      ]
+    },
+    {
+      "folder": "Scene 15-16",
+      "job_sets": 926,
+      "jobs": 3525,
+      "mean_jobs_per_job_set": 3.807,
+      "variant_adoption_if_pick_one": 0.293,
+      "est_credits": 337135.5,
+      "est_usd": 14515.56,
+      "top_types": [
+        [
+          "seedance_2_0",
+          926
+        ]
+      ]
+    },
+    {
+      "folder": "Scene 19",
+      "job_sets": 897,
+      "jobs": 3413,
+      "mean_jobs_per_job_set": 3.805,
+      "variant_adoption_if_pick_one": 0.2664,
+      "est_credits": 343217.2,
+      "est_usd": 14777.41,
+      "top_types": [
+        [
+          "seedance_2_0",
+          897
+        ]
+      ]
+    },
+    {
+      "folder": "Series/Lulu",
+      "job_sets": 2453,
+      "jobs": 3173,
+      "mean_jobs_per_job_set": 1.294,
+      "variant_adoption_if_pick_one": 0.9248,
+      "est_credits": 182988.0,
+      "est_usd": 7878.65,
+      "top_types": [
+        [
+          "seedance_2_0",
+          2453
+        ]
+      ]
+    },
+    {
+      "folder": "Scene 21",
+      "job_sets": 727,
+      "jobs": 2692,
+      "mean_jobs_per_job_set": 3.703,
+      "variant_adoption_if_pick_one": 0.304,
+      "est_credits": 272565.0,
+      "est_usd": 11735.44,
+      "top_types": [
+        [
+          "seedance_2_0",
+          727
+        ]
+      ]
+    },
+    {
+      "folder": "Scene 74",
+      "job_sets": 617,
+      "jobs": 2414,
+      "mean_jobs_per_job_set": 3.912,
+      "variant_adoption_if_pick_one": 0.2612,
+      "est_credits": 231430.5,
+      "est_usd": 9964.37,
+      "top_types": [
+        [
+          "seedance_2_0",
+          617
+        ]
+      ]
+    },
+    {
+      "folder": "Regenerations/Extra Regen 2",
+      "job_sets": 620,
+      "jobs": 2303,
+      "mean_jobs_per_job_set": 3.715,
+      "variant_adoption_if_pick_one": 0.2882,
+      "est_credits": 172314.0,
+      "est_usd": 7419.07,
+      "top_types": [
+        [
+          "seedance_2_0",
+          620
+        ]
+      ]
+    },
+    {
+      "folder": "Scene 51 Statue Assault",
+      "job_sets": 644,
+      "jobs": 2296,
+      "mean_jobs_per_job_set": 3.565,
+      "variant_adoption_if_pick_one": 0.3318,
+      "est_credits": 139320.5,
+      "est_usd": 5998.52,
+      "top_types": [
+        [
+          "seedance_2_0",
+          529
+        ],
+        [
+          "imagegen_2_0",
+          63
+        ],
+        [
+          "nano_banana_flash",
+          22
+        ],
+        [
+          "soul_cinematic",
+          19
+        ],
+        [
+          "gpt_image_2",
+          8
+        ]
+      ]
+    },
+    {
+      "folder": "Scene 22",
+      "job_sets": 708,
+      "jobs": 2264,
+      "mean_jobs_per_job_set": 3.198,
+      "variant_adoption_if_pick_one": 0.3423,
+      "est_credits": 225963.0,
+      "est_usd": 9728.96,
+      "top_types": [
+        [
+          "seedance_2_0",
+          708
+        ]
+      ]
+    },
+    {
+      "folder": "Scene 70C",
+      "job_sets": 592,
+      "jobs": 2225,
+      "mean_jobs_per_job_set": 3.758,
+      "variant_adoption_if_pick_one": 0.2889,
+      "est_credits": 204572.2,
+      "est_usd": 8807.97,
+      "top_types": [
+        [
+          "seedance_2_0",
+          592
+        ]
+      ]
+    },
+    {
+      "folder": "Regenerations/Series Regen Batyr",
+      "job_sets": 560,
+      "jobs": 2214,
+      "mean_jobs_per_job_set": 3.954,
+      "variant_adoption_if_pick_one": 0.2592,
+      "est_credits": 99778.5,
+      "est_usd": 4296.02,
+      "top_types": [
+        [
+          "seedance_2_0",
+          560
+        ]
+      ]
+    },
+    {
+      "folder": "Scene 51 Statue Assault/HELL GRIND 51",
+      "job_sets": 567,
+      "jobs": 2162,
+      "mean_jobs_per_job_set": 3.813,
+      "variant_adoption_if_pick_one": 0.2809,
+      "est_credits": 153790.8,
+      "est_usd": 6621.55,
+      "top_types": [
+        [
+          "seedance_2_0",
+          555
+        ],
+        [
+          "nano_banana_2",
+          12
+        ]
+      ]
+    },
+    {
+      "folder": "Scene 52",
+      "job_sets": 626,
+      "jobs": 2101,
+      "mean_jobs_per_job_set": 3.356,
+      "variant_adoption_if_pick_one": 0.3642,
+      "est_credits": 165206.2,
+      "est_usd": 7113.05,
+      "top_types": [
+        [
+          "seedance_2_0",
+          626
+        ]
+      ]
+    },
+    {
+      "folder": "Scene 26",
+      "job_sets": 747,
+      "jobs": 2086,
+      "mean_jobs_per_job_set": 2.793,
+      "variant_adoption_if_pick_one": 0.3942,
+      "est_credits": 211207.5,
+      "est_usd": 9093.66,
+      "top_types": [
+        [
+          "seedance_2_0",
+          747
+        ]
+      ]
+    },
+    {
+      "folder": "Scene 50",
+      "job_sets": 725,
+      "jobs": 2074,
+      "mean_jobs_per_job_set": 2.861,
+      "variant_adoption_if_pick_one": 0.4147,
+      "est_credits": 116955.5,
+      "est_usd": 5035.58,
+      "top_types": [
+        [
+          "seedance_2_0",
+          523
+        ],
+        [
+          "imagegen_2_0",
+          135
+        ],
+        [
+          "soul_cinematic",
+          37
+        ],
+        [
+          "nano_banana_flash",
+          22
+        ],
+        [
+          "nano_banana_2",
+          8
+        ]
+      ]
+    },
+    {
+      "folder": "6dd969a6-c1e7-4481-89c1-896a1fac1a09",
+      "job_sets": 585,
+      "jobs": 2066,
+      "mean_jobs_per_job_set": 3.532,
+      "variant_adoption_if_pick_one": 0.346,
+      "est_credits": 206843.2,
+      "est_usd": 8905.75,
+      "top_types": [
+        [
+          "seedance_2_0",
+          580
+        ],
+        [
+          "imagegen_2_0",
+          5
+        ]
+      ]
+    },
+    {
+      "folder": "34c88b2f-5c46-45a9-925e-4c5618940342",
+      "job_sets": 583,
+      "jobs": 1966,
+      "mean_jobs_per_job_set": 3.372,
+      "variant_adoption_if_pick_one": 0.3975,
+      "est_credits": 5482.0,
+      "est_usd": 236.03,
+      "top_types": [
+        [
+          "soul_cinematic",
+          274
+        ],
+        [
+          "nano_banana_2",
+          205
+        ],
+        [
+          "gpt_image_2",
+          54
+        ],
+        [
+          "imagegen_2_0",
+          42
+        ],
+        [
+          "image_auto",
+          8
+        ]
+      ]
+    },
+    {
+      "folder": "Scene 66",
+      "job_sets": 470,
+      "jobs": 1668,
+      "mean_jobs_per_job_set": 3.549,
+      "variant_adoption_if_pick_one": 0.294,
+      "est_credits": 151021.2,
+      "est_usd": 6502.3,
+      "top_types": [
+        [
+          "seedance_2_0",
+          430
+        ],
+        [
+          "cinematic_studio_video_3_5",
+          40
+        ]
+      ]
+    },
+    {
+      "folder": "Regenerations/Extra Regen 2/RE-GEN",
+      "job_sets": 524,
+      "jobs": 1541,
+      "mean_jobs_per_job_set": 2.941,
+      "variant_adoption_if_pick_one": 0.3551,
+      "est_credits": 57685.5,
+      "est_usd": 2483.68,
+      "top_types": [
+        [
+          "seedance_2_0",
+          524
+        ]
+      ]
+    },
+    {
+      "folder": "1. COLD OPEN/Cold_open_B",
+      "job_sets": 391,
+      "jobs": 1522,
+      "mean_jobs_per_job_set": 3.893,
+      "variant_adoption_if_pick_one": 0.2732,
+      "est_credits": 148010.5,
+      "est_usd": 6372.67,
+      "top_types": [
+        [
+          "seedance_2_0",
+          383
+        ],
+        [
+          "nano_banana_2",
+          8
+        ]
+      ]
+    },
+    {
+      "folder": "Scene 72B",
+      "job_sets": 370,
+      "jobs": 1409,
+      "mean_jobs_per_job_set": 3.808,
+      "variant_adoption_if_pick_one": 0.2946,
+      "est_credits": 116754.8,
+      "est_usd": 5026.94,
+      "top_types": [
+        [
+          "seedance_2_0",
+          370
+        ]
+      ]
+    },
+    {
+      "folder": "Series/Museum Heist",
+      "job_sets": 1404,
+      "jobs": 1404,
+      "mean_jobs_per_job_set": 1,
+      "variant_adoption_if_pick_one": 1.0,
+      "est_credits": 83520.0,
+      "est_usd": 3596.0,
+      "top_types": [
+        [
+          "seedance_2_0",
+          1404
+        ]
+      ]
+    },
+    {
+      "folder": "Scene 36,38,40",
+      "job_sets": 367,
+      "jobs": 1327,
+      "mean_jobs_per_job_set": 3.616,
+      "variant_adoption_if_pick_one": 0.3286,
+      "est_credits": 82869.8,
+      "est_usd": 3568.0,
+      "top_types": [
+        [
+          "seedance_2_0",
+          247
+        ],
+        [
+          "nano_banana_2",
+          113
+        ],
+        [
+          "cinematic_studio_3_0",
+          7
+        ]
+      ]
+    },
+    {
+      "folder": "Scene 68",
+      "job_sets": 368,
+      "jobs": 1295,
+      "mean_jobs_per_job_set": 3.519,
+      "variant_adoption_if_pick_one": 0.3021,
+      "est_credits": 97609.8,
+      "est_usd": 4202.64,
+      "top_types": [
+        [
+          "seedance_2_0",
+          352
+        ],
+        [
+          "nano_banana_2",
+          7
+        ],
+        [
+          "gpt_image_2",
+          5
+        ],
+        [
+          "nano_banana_flash",
+          3
+        ],
+        [
+          "soul_cinematic",
+          1
+        ]
+      ]
+    },
+    {
+      "folder": "Regenerations/Museum Lulu",
+      "job_sets": 315,
+      "jobs": 1257,
+      "mean_jobs_per_job_set": 3.99,
+      "variant_adoption_if_pick_one": 0.2508,
+      "est_credits": 62282.2,
+      "est_usd": 2681.6,
+      "top_types": [
+        [
+          "seedance_2_0",
+          315
+        ]
+      ]
+    },
+    {
+      "folder": "Scene 72",
+      "job_sets": 846,
+      "jobs": 1232,
+      "mean_jobs_per_job_set": 1.456,
+      "variant_adoption_if_pick_one": 0.7754,
+      "est_credits": 94138.2,
+      "est_usd": 4053.17,
+      "top_types": [
+        [
+          "seedance_2_0",
+          650
+        ],
+        [
+          "nano_banana_2",
+          123
+        ],
+        [
+          "imagegen_2_0",
+          40
+        ],
+        [
+          "nano_banana_flash",
+          33
+        ]
+      ]
+    },
+    {
+      "folder": "Scene 65",
+      "job_sets": 318,
+      "jobs": 1224,
+      "mean_jobs_per_job_set": 3.849,
+      "variant_adoption_if_pick_one": 0.271,
+      "est_credits": 87053.2,
+      "est_usd": 3748.13,
+      "top_types": [
+        [
+          "seedance_2_0",
+          294
+        ],
+        [
+          "gpt_image_2",
+          9
+        ],
+        [
+          "cinematic_studio_video_3_5",
+          7
+        ],
+        [
+          "nano_banana_flash",
+          5
+        ],
+        [
+          "nano_banana_2",
+          3
+        ]
+      ]
+    },
+    {
+      "folder": "34c88b2f-5c46-45a9-925e-4c5618940342/Assets Final Scenes",
+      "job_sets": 312,
+      "jobs": 1223,
+      "mean_jobs_per_job_set": 3.92,
+      "variant_adoption_if_pick_one": 0.262,
+      "est_credits": 4232.2,
+      "est_usd": 182.22,
+      "top_types": [
+        [
+          "nano_banana_2",
+          288
+        ],
+        [
+          "seedance_2_0",
+          12
+        ],
+        [
+          "image_auto",
+          12
+        ]
+      ]
+    },
+    {
+      "folder": "Scene 42-50",
+      "job_sets": 320,
+      "jobs": 1208,
+      "mean_jobs_per_job_set": 3.775,
+      "variant_adoption_if_pick_one": 0.2878,
+      "est_credits": 111982.5,
+      "est_usd": 4821.47,
+      "top_types": [
+        [
+          "seedance_2_0",
+          320
+        ]
+      ]
+    },
+    {
+      "folder": "Regenerations/Lulu Death",
+      "job_sets": 777,
+      "jobs": 1201,
+      "mean_jobs_per_job_set": 1.546,
+      "variant_adoption_if_pick_one": 0.8584,
+      "est_credits": 69648.8,
+      "est_usd": 2998.77,
+      "top_types": [
+        [
+          "seedance_2_0",
+          777
+        ]
+      ]
+    },
+    {
+      "folder": "6b0bdcfe-5ed8-484a-a2bc-afc231022fc0",
+      "job_sets": 401,
+      "jobs": 1193,
+      "mean_jobs_per_job_set": 2.975,
+      "variant_adoption_if_pick_one": 0.34,
+      "est_credits": 109136.2,
+      "est_usd": 4698.92,
+      "top_types": [
+        [
+          "seedance_2_0",
+          379
+        ],
+        [
+          "cinematic_studio_image",
+          22
+        ]
+      ]
+    },
+    {
+      "folder": "Scene Orphanage/Scene Orphanage Window Arrival",
+      "job_sets": 300,
+      "jobs": 1188,
+      "mean_jobs_per_job_set": 3.96,
+      "variant_adoption_if_pick_one": 0.2536,
+      "est_credits": 104314.5,
+      "est_usd": 4491.32,
+      "top_types": [
+        [
+          "seedance_2_0",
+          300
+        ]
+      ]
+    },
+    {
+      "folder": "Scene 15-16/Scene 15 Pizza_OLD",
+      "job_sets": 297,
+      "jobs": 1180,
+      "mean_jobs_per_job_set": 3.973,
+      "variant_adoption_if_pick_one": 0.2556,
+      "est_credits": 86676.8,
+      "est_usd": 3731.92,
+      "top_types": [
+        [
+          "seedance_2_0",
+          297
+        ]
+      ]
+    },
+    {
+      "folder": "Scene 28",
+      "job_sets": 304,
+      "jobs": 1174,
+      "mean_jobs_per_job_set": 3.862,
+      "variant_adoption_if_pick_one": 0.2758,
+      "est_credits": 107750.2,
+      "est_usd": 4639.25,
+      "top_types": [
+        [
+          "seedance_2_0",
+          304
+        ]
+      ]
+    },
+    {
+      "folder": "Regenerations/Extra Regen",
+      "job_sets": 313,
+      "jobs": 1164,
+      "mean_jobs_per_job_set": 3.719,
+      "variant_adoption_if_pick_one": 0.299,
+      "est_credits": 26643.8,
+      "est_usd": 1147.16,
+      "top_types": [
+        [
+          "nano_banana_2",
+          132
+        ],
+        [
+          "seedance_2_0",
+          109
+        ],
+        [
+          "soul_cinematic",
+          26
+        ],
+        [
+          "cinematic_studio_video_3_5",
+          21
+        ],
+        [
+          "soul_cinema_studio",
+          11
+        ]
+      ]
+    },
+    {
+      "folder": "a14079d6-cabe-4849-84a8-0da8f6c42eaa",
+      "job_sets": 291,
+      "jobs": 1121,
+      "mean_jobs_per_job_set": 3.852,
+      "variant_adoption_if_pick_one": 0.268,
+      "est_credits": 99171.0,
+      "est_usd": 4269.86,
+      "top_types": [
+        [
+          "seedance_2_0",
+          291
+        ]
+      ]
+    },
+    {
+      "folder": "Regenerations/Extra Regen 3",
+      "job_sets": 469,
+      "jobs": 1118,
+      "mean_jobs_per_job_set": 2.384,
+      "variant_adoption_if_pick_one": 0.6292,
+      "est_credits": 21759.0,
+      "est_usd": 936.85,
+      "top_types": [
+        [
+          "seedance_2_0",
+          243
+        ],
+        [
+          "gpt_image_2",
+          130
+        ],
+        [
+          "nano_banana_2",
+          96
+        ]
+      ]
+    },
+    {
+      "folder": "Scene 36",
+      "job_sets": 268,
+      "jobs": 1063,
+      "mean_jobs_per_job_set": 3.966,
+      "variant_adoption_if_pick_one": 0.2528,
+      "est_credits": 97638.8,
+      "est_usd": 4203.89,
+      "top_types": [
+        [
+          "seedance_2_0",
+          268
+        ]
+      ]
+    }
+  ],
+  "folder_adoption_summary": {
+    "mean_jobs_per_job_set_across_folders": 3.364,
+    "median_jobs_per_job_set_across_folders": 3.805,
+    "mean_variant_adoption_if_pick_one": 0.3857
+  }
+}

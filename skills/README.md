@@ -1,27 +1,20 @@
 # Production Skills
 
-The project brief page lists three downloadable skill files:
+官方 Brief 页公开的三份技能文件（**已手动补齐**）：
 
-- `CINEDANCE HIGGSFIELD SKILL.md`
-- `ACTING SKILL.md`
-- `LIRA SKILL.md`
+| 文件 | 状态 | 约 |
+|------|------|-----|
+| `CINEDANCE HIGGSFIELD SKILL.md` | ✅ 已放入 | 33KB / ~1330 行 |
+| `ACTING SKILL.md` | ✅ 已放入 | 26KB / ~444 行 |
+| `LIRA SKILL.md` | ✅ 已放入 | 30KB / ~619 行 |
 
-## Status
+路径：本目录 `skills/`（仓库根下）。
 
-These appear as UI chips on the Brief tab, but:
+## 可选后续
 
-1. No public direct URL was found in page HTML / SSR data (`project.document` is null).
-2. Clicking the chips did not trigger a capturable network download in the browser bridge session.
-3. They may require an in-app download handler / auth-less blob that is not exposed as a static URL.
+- 并排汉化：`CINEDANCE HIGGSFIELD SKILL.zh.md` 等（不覆盖原文）
+- 来源页：https://higgsfield.ai/@higgsfield.studio/projects/hell-grind （Brief 芯片）
 
-## Request for developers / Higgsfield
+## 历史说明
 
-Please provide permanent public download links (or a zip) for:
-
-1. CINEDANCE Higgsfield Skill
-2. Acting Skill  
-3. LIRA Skill
-
-Ideally also a single archive of all skills + character/location asset sheets if available outside the generation feed.
-
-Official project: https://higgsfield.ai/@higgsfield.studio/projects/hell-grind
+早期自动化无法从页面 HTML 解析直链，故曾为「未取得」；现由人工下载补齐。
