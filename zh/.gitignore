@@ -1,0 +1,11 @@
+.DS_Store
+**/.DS_Store
+logs/*.log
+__pycache__/
+*.pyc
+.venv/
+
+# 若未来复制媒体，默认不入库
+content/**/Assets/
+*.mp4
+_media_blobs/

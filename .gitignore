@@ -8,6 +8,16 @@ logs/
 film/*.mp4
 brief/images/
 
+# 汉化：源旁 .zh.md 应进 Git。因 folders/ 整树被忽略，Git 无法以规则再入目录链，
+# 故 folders/ 下的 .zh.md 于提交时用 `git add -f` 显式强加（路径命名，不 -A 扫全树）。
+# 工具可解析: scripts/add_zh_md_to_git.sh（列出 folders/**/*.zh.md 并逐个 git add -f）
+
+# 汉化：源旁 .zh.md 应进 Git；仅 zh/content 媒体映射与运行日志不进库
+zh/content/folders/
+zh/logs/
+zh/**/media_link_manifest.jsonl
+# 注意：不要 ignore folders/**/*.zh.md
+
 # 下载进行中的进度（本地可变）
 meta/media_download_progress.json
 meta/media_download_stats.json
@@ -16,3 +26,6 @@ meta/media_download_stats.json
 __pycache__/
 *.pyc
 .venv/
+
+# Claude Code 运行时状态
+.omc/

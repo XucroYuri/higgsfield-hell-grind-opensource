@@ -1,0 +1,14 @@
+# 原文钉扎（全量汉化启动时填写）
+# 单目录双语：原文 = 本仓仓根；汉化 = zh/
+source_ref:
+  opensource_path: ".."   # zh/ 的上级 = higgsfield-hell-grind-opensource
+  opensource_commit: "191e69783d55ecccc46d86c38833c40515ea75dc"   # git rev-parse HEAD（2026-08-12 试点产出时）
+  id_path_mapping: "../meta/id_path_mapping.json"
+  mapping_sha256: "ee8d81e4eb526171c7d7c346c9ee4c4c3b74eb4cba4e2b626ab4bc376400d686"
+  media_download_complete: true
+  rename_complete: true
+  noted_at: "2026-08-12"
+zh_layout: "in-tree"      # 已并入 opensource/zh/，非独立仓
+zh_release: ""
+status: pilot_pass          # 3 类试点零 S0/S1 通过，术语冻 v0.1（见 05-样本试点/PILOT_PASS.md）
+legacy_chinese_dir: "../../higgsfield-hell-grind-opensource-Chinese"  # 已废弃
