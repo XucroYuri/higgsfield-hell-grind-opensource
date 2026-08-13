@@ -1,0 +1,176 @@
+# prompt 对照
+
+## 元数据
+- job_set_id: d7dde6dc-5fef-4a1c-86ea-abea4389c70a
+- job_type: seedance_2_0
+- source_path: folders/Hell Grind/a14079d6-cabe-4849-84a8-0da8f6c42eaa/prompts/00093_d7dde6dc-5fef-4a1c-86ea-abea4389c70a.txt
+- folder_official_name: Scene 72
+- translation_status: draft
+- glossary_version: v0.1
+
+## 原文 (source)
+
+SCENE NOTE
+Single shot — close-up handheld shot revealing both fighters arriving
+on scene to back up <<<ff08734a-05e9-4a72-9f5d-b2a1ae8b44cb>>>. Starts on <<<e32a6b69-8dbe-4f99-8993-951c6b3c2dc4>>> who has
+JUST DROPPED FROM THE SKY and landed (heavy ground impact, knees
+bent in landing pose, rushed-frantic but determined energy, panting),
+then shaky handheld pan-right reveals <<<7167694e-a3be-4220-bb8f-79737e7e173e>>> running in (also
+panting). Both have come to fight the monster. Real-time, ~8 seconds.
+
+LOOK PRESET
+Vinterberg-handheld doc-style. Lubezki × Deakins reference. Kodak
+500T daylight stock pushed cool. 60:30:10 — cold blue-grey snow +
+dark stormy sky tones (60), warm distant flames (30), bone-white +
+black accents + tactical gear (10). 180° shutter natural motion blur.
+Practical overcast winter daylight, slight underexposure, dark
+stormy clouds overhead.
+
+ENVIRONMENT
+ — wide snowy steppe, rolling snow drifts with patches of
+exposed dark earth and red bloodstained snow, scattered grey rocks
+and dry shrubs, distant scattered fires burning across the plains
+with dark smoke rising into a heavy stormy grey sky. Light snow
+particles drifting through the air. Cold wind. Late afternoon
+fading into dusk.
+
+CHARACTERS
+<<<e32a6b69-8dbe-4f99-8993-951c6b3c2dc4>>> — female warrior in dark sci-fi tactical armor, sleek
+black plates with subtle violet/blue accents, exoskeleton detailing,
+heavy belt with utility pouches. White-silver bob-cut hair with dark
+roots, sharp facial features, faint scar on cheek, smoky eye makeup.
+Holding compact firearm in hand, ready position. JUST DROPPED FROM
+THE SKY — landed in a heavy three-point superhero stance (one knee
+down in snow, one leg bent forward, free hand braced against the
+snow ground for support, weapon hand raised). The exoskeleton
+shoulder/back armor still visibly absorbing the kinetic shock of
+the landing. Snow displaced in a small crater under her, snow dust
+and powder kicked up around her body still settling in the air.
+Chest rising rapidly with panting breath, fog of breath in cold air.
+Eyes scanning forward with sharp determined focus despite the
+rushed-frantic energy. Ready to fight.
+
+<<<7167694e-a3be-4220-bb8f-79737e7e173e>>> — male warrior, dark hooded tactical jacket with grey
+panel inserts, olive cargo pants, thigh-holstered sidearms with
+tactical straps, fingerless gloves. Short bleached-blond cropped
+hair, dark skin, clear safety glasses, green face-paint stripes
+across cheeks/nose, small fresh cut on forehead. Sidearm drawn in
+right hand, second drawn in left hand. Running into frame from the
+right — body still in motion, heavy panting from the run, fog of
+breath in cold air. Eyes locked forward with hardened combat focus.
+Ready to fight.
+
+PROPS
+None primary in frame.
+
+CAMERA STYLE
+CLOSE-UP, SHAKY HANDHELD throughout. Camera held tight on subject,
+strong organic shake — handheld doc-style, urgent energy. Starts
+framed on <<<e32a6b69-8dbe-4f99-8993-951c6b3c2dc4>>>'s landing (camera shaken by the impact
+shockwave), then handheld PAN-RIGHT (with characteristic operator
+wobble, not smooth) to reveal <<<7167694e-a3be-4220-bb8f-79737e7e173e>>> arriving. Both subjects
+in shallow depth of field, soft background. Real-time
+24fps throughout.
+
+SHOT — REIN SKY-DROP + PAN TO JAX (real-time, 8s)
+Reference: <<<e32a6b69-8dbe-4f99-8993-951c6b3c2dc4>>>, <<<7167694e-a3be-4220-bb8f-79737e7e173e>>>,.
+
+[0.0s — 1.0s] Tight close-up on a patch of empty snow with the
+distant burning steppe in soft-focus background. Suddenly @1rein_
+monster DROPS INTO FRAME FROM ABOVE — body falling fast from the
+sky into frame, briefly blurred by the velocity. She SLAMS into the
+snow with a heavy thud, three-point landing — one knee down, one
+leg bent forward, free hand braced against the snow. Camera SHAKES
+HARD from the impact shockwave. Snow displaces violently around
+her in a small crater, powder kicked up in a radial burst, snow
+particles spraying outward and into the air around her body.
+
+[1.0s — 3.5s] Camera settles, holding tight close-up on
+<<<e32a6b69-8dbe-4f99-8993-951c6b3c2dc4>>> in her landed three-point pose. Snow dust still
+falling around her, settling in the air, particles drifting past
+her face. Body still settling from the impact, slight forward lean
+in the crouched landing stance, chest visibly rising and falling
+with rapid panting breath, fog of breath puffing in the cold air
+past her face. Strands of white-silver bob hair displaced across
+her forehead from the wind of the fall. Eyes sharp, scanning
+forward across the steppe — frantic-urgent energy locked into
+determined combat focus. She begins to rise out of the landing
+pose, weapon hand raising into ready position. Soft 
+background — blurred snowy steppe, distant fires flickering as
+warm bokeh, dark stormy sky.
+
+[3.5s — 5.0s] Camera HANDHELD PAN-RIGHT — shaky, urgent, operator-
+wobble pan that briefly blurs across the empty steppe background.
+<<<e32a6b69-8dbe-4f99-8993-951c6b3c2dc4>>> slides out of frame on the left edge. Background
+streaks past in soft focus — distant fires, smoke, snow.
+
+[5.0s — 8.0s] <<<7167694e-a3be-4220-bb8f-79737e7e173e>>> RUNS INTO FRAME from the right side —
+camera catches him mid-stride, body in motion, just arriving. Tight
+close-up on his face/chest as he comes to a settled stance. Heavy
+panting from the run, fog of breath puffing rapidly in the cold air,
+chest rising fast. Bleached-blond cropped hair, safety glasses
+reflecting the dim sky, green face-paint stripes vivid against dark
+skin, small fresh cut on forehead. Both sidearms drawn, raised in
+ready position barely visible at lower edge of frame. Eyes hard-
+locked forward — combat focus despite the breathlessness. Body still
+adjusting from the run, slight shoulder rise-fall. Camera holds with
+strong handheld shake, snow drifts past, distant fires flicker in
+the soft background.
+
+AUDIO
+[0.0s — 1.0s] Sudden whoosh of <<<e32a6b69-8dbe-4f99-8993-951c6b3c2dc4>>> falling through the
+air from above, heavy crunching THUD of three-point landing in the
+snow, snow displacement and powder spray sound, brief armor-impact
+metallic clank, low rumble of the impact shockwave.
+[1.0s — 3.5s] <<<e32a6b69-8dbe-4f99-8993-951c6b3c2dc4>>>'s heavy rapid panting breath, gear
+shifting and tactical strap creaks as she settles and rises from
+the landing pose, settling snow particles, distant crackle of
+steppe fires, low howling cold wind, faint distant battle/monster
+groan in deep background.
+[3.5s — 5.0s] Brief whoosh of camera pan, continued cold wind,
+distant fires, sound of <<<7167694e-a3be-4220-bb8f-79737e7e173e>>>'s running boots crunching in
+snow approaching from off-frame right.
+[5.0s — 8.0s] <<<7167694e-a3be-4220-bb8f-79737e7e173e>>>'s heavy breathless panting from the
+sprint, boots crunching to a stop in snow, gear and weapon
+adjustments clinking, cold wind, distant fires crackling, faint
+distant monster groan in the background.
+
+## 中文对照 (zh)
+
+SCENE NOTE（场景说明）
+单一镜头 —— 手持特写镜头，揭示两位战士赶到现场支援 <<<ff08734a-05e9-4a72-9f5d-b2a1ae8b44cb>>>。开场对准 <<<e32a6b69-8dbe-4f99-8993-951c6b3c2dc4>>>，她刚刚从天空中坠落入地（沉重的落地冲击，双膝弯曲呈落地姿势，带着急促慌乱却坚定的能量，气喘吁吁），随后摇晃的手持镜头向右横摇，揭示跑入场中的 <<<7167694e-a3be-4220-bb8f-79737e7e173e>>>（同样气喘吁吁）。两人都是来与怪物作战的。实时，约 8 秒。
+
+LOOK PRESET（视觉预设）
+Vinterberg 手持纪录风格。参考 Lubezki × Deakins。Kodak
+500T 日光片，偏冷色调。60:30:10 —— 冷蓝灰色积雪 + 暗色暴风雪天空色调（60），暖色远处火焰（30），骨白色 + 黑色点缀 + 战术装备（10）。180° 快门自然的运动模糊。实拍阴天冬季日光，轻微欠曝，头顶浓黑的暴风雪乌云。
+
+ENVIRONMENT（环境）
+[空缺的占位] —— 宽阔的雪原，起伏的雪丘夹杂着斑驳的裸露黑土和红色血迹雪地，散布灰色岩石与干枯灌木，平原上远处零星的火堆燃烧，暗色浓烟升入沉重的灰暴雪天空。细小的雪花颗粒在空中飘舞。寒风。傍晚渐入黄昏。
+
+CHARACTERS（角色）
+<<<e32a6b69-8dbe-4f99-8993-951c6b3c2dc4>>> —— 女性战士（Rein/莱恩），身穿暗色科幻战术铠甲，光滑的黑色板甲配以微妙的紫/蓝点缀，外骨骼细节，粗腰带挂着工具袋。银白色短波波头配以深色发根，面部轮廓凌厉，脸颊淡淡一道疤痕，烟熏眼妆。握着紧凑型火器在手中，处于预备姿势。JUST DROPPED FROM THE SKY（刚刚从天空坠落）—— 以一个沉重的三点式超级英雄落地姿势着地（一只膝盖跪进雪里，一条腿前屈，空出来的手撑在雪地上作支撑，持武器的手抬起）。外骨骼肩/背甲仍清晰可见地在吸收着地的动能冲击。她身下的雪被排开成一个小坑，四周扬起的雪尘与粉末仍在空中缓缓沉降。胸口伴随急促的喘息快速起伏，呼吸的雾气在寒冷空气中升腾。尽管带着急促慌乱的能量，双眼仍以锐利坚定的专注向前扫视。准备战斗。
+
+<<<7167694e-a3be-4220-bb8f-79737e7e173e>>> —— 男性战士（Jax/贾克斯），暗色连帽战术夹克配有灰色嵌板，橄榄绿工装裤，大腿枪套侧挂的配枪配以战术绑带，露指手套。短促的漂染金发寸头，深色皮肤，透明安全护目镜，脸颊/鼻梁上横着绿色油彩条纹，额头一处小而新的伤口。右手已抽出侧臂武器，左手也抽出第二把。从右侧跑入场中 —— 身体仍在运动中，因奔跑而剧烈喘息，呼吸的雾气在寒冷空气中升腾。双眼以冷硬坚定的战斗专注锁定前方。准备战斗。
+
+PROPS（道具）
+画中无主要道具。
+
+CAMERA STYLE（运镜风格）
+全程 CLOSE-UP（特写）、SHAKY HANDHELD（摇晃手持）。摄影机紧紧对准目标，强烈的有机抖动 —— 手持纪录风格，紧迫的能量。开场构图对准 <<<e32a6b69-8dbe-4f99-8993-951c6b3c2dc4>>> 的落地（摄影机被落地冲击波震动），随后手持 PAN-RIGHT（向右横摇）（带着特征性的操作者晃动，并不平滑）揭示 <<<7167694e-a3be-4220-bb8f-79737e7e173e>>> 抵达。两位人物都处于浅景深，柔和的背景。全程实时 24fps。
+
+SHOT — 莱恩/Rein 天降 + 横摇向贾克斯/Jax（REIN SKY-DROP + PAN TO JAX）（REAL-TIME 实时，8 秒）
+参考：<<<e32a6b69-8dbe-4f99-8993-951c6b3c2dc4>>>，<<<7167694e-a3be-4220-bb8f-79737e7e173e>>>。
+
+[0.0 秒 — 1.0 秒] 对一片空雪地的紧凑特写，远处燃烧的草原在柔焦背景中。突然，@1rein_[空缺的占位] 怪物 DROPS INTO FRAME FROM ABOVE（从上方落入画面）—— 身体快速从天空坠落进画面，因速度而短暂虚化。她以一声沉重的闷响重重砸进雪里，三点式落地 —— 一只膝盖跪下，一条腿前屈，空出的手撑在雪上。摄影机被落地冲击波震得剧烈 SHAKES（抖动）。她周围的雪猛烈排开成一个小坑，粉末成放射状迸溅，雪花颗粒向外喷撒，飞散到她身体四周的空气中。
+
+[1.0 秒 — 3.5 秒] 摄影机稳定下来，紧紧抓住落在三点式姿势中的 <<<e32a6b69-8dbe-4f99-8993-951c6b3c2dc4>>> 特写。雪尘仍在她身周下落，在空中缓缓沉降，颗粒从她面前飘过。身体仍在从冲击中定神，蹲伏的落地姿势中带着微微前倾，胸口随急促的喘息清晰可见地起伏，呼吸的雾气在她面前寒冷的空气中一缕缕喷出。因坠落带起的气流，几缕银白色波波头垂散到额前。目光锐利，向前扫过草原 —— 急促紧迫的能量锁定在坚定的战斗专注上。她开始从落地姿势中起身，持武器的手抬成预备姿势。柔和的[空缺的占位]背景 —— 模糊的雪原，远处火堆作为暖色光斑忽明忽灭，暗色暴风天空。
+
+[3.5 秒 — 5.0 秒] 摄影机 HANDHELD PAN-RIGHT（手持向右横摇）—— 摇晃、紧迫、带着操作者晃动的横摇，短暂地划过空旷的雪原背景。<<<e32a6b69-8dbe-4f99-8993-951c6b3c2dc4>>> 从左缘滑出画面。背景以柔焦拖曳而过 —— 远处火焰、烟雾、雪花。
+
+[5.0 秒 — 8.0 秒] <<<7167694e-a3be-4220-bb8f-79737e7e173e>>> 从右侧 RUNS INTO FRAME（跑入场中）—— 摄影机在半空中截住他，身体仍在运动中，刚刚抵达。当他收住站姿时，特写贴近他的面孔/胸部。因奔跑而剧烈喘息，呼吸的雾气在寒冷空气中急促地喷吐，胸口快速起伏。漂染金发寸头，护目镜映着昏暗的天空，绿色油彩条纹在深色皮肤上格外醒目，额头一处小而新的伤口。两把侧臂武器都已出鞘抬起，处于预备姿势，在画面下缘几乎不可见。双眼冷硬地锁向前方 —— 不计喘息，满是战斗专注。身体仍在从奔跑中调整，肩膀微微起伏。摄影机带着强烈的手持抖动定格，雪片飘过，远处火堆在柔和背景中忽明忽灭。
+
+AUDIO（音频）
+[0.0 秒 — 1.0 秒] <<<e32a6b69-8dbe-4f99-8993-951c6b3c2dc4>>> 从上方坠落穿过空气的骤然呼啸，三点式落地重砸进雪的沉重闷响，雪的排开与粉末喷射声，短暂的铠甲撞击金属碰响，落地冲击波的低沉轰鸣。
+[1.0 秒 — 3.5 秒] <<<e32a6b69-8dbe-4f99-8993-951c6b3c2dc4>>> 沉重急促的喘息呼吸，她定神并起身时装备移位与战术绑带的嘎吱声，沉降的雪粒，远处草原火堆的噼啪声，低沉呼啸的寒风，深处背景中微弱遥远的战斗/怪物呻吟。
+[3.5 秒 — 5.0 秒] 摄影机横摇短暂呼啸，寒风持续，远处火焰，<<<7167694e-a3be-4220-bb8f-79737e7e173e>>> 奔跑的靴子碾进雪里的脚步声从画外右侧逼近。
+[5.0 秒 — 8.0 秒] <<<7167694e-a3be-4220-bb8f-79737e7e173e>>> 冲刺后沉重气喘吁吁的呼吸，靴子碾进雪里停住，装备与武器的调整碰响，寒风，远处火堆噼啪，背景中微弱遥远的怪物呻吟。
