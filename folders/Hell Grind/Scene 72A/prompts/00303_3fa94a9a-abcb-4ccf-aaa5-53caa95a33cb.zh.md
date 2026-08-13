@@ -1,0 +1,210 @@
+# prompt 对照
+
+## 元数据
+- job_set_id: 3fa94a9a-abcb-4ccf-aaa5-53caa95a33cb
+- job_type: seedance_2_0
+- source_path: folders/Hell Grind/Scene 72A/prompts/00303_3fa94a9a-abcb-4ccf-aaa5-53caa95a33cb.txt
+- folder_official_name: Scene 72A
+- translation_status: draft
+- glossary_version: v0.1
+
+## 原文 (source)
+
+OUTPUT: 13 seconds, 21:9, one continuous shot.
+NARRATIVE INTENTION: continuation immediately after 72-A1. Same wide framing — held wide
+shot from behind character <<<ac21bc57-1249-42b4-8001-44b023813bb5>>> and character <<<7ee7ba73-4519-4fde-bd22-5e37929570b4>>> in the foreground (we see
+their dark silhouetted backs) looking past them at character <<<f6b0ad15-8442-4722-8e45-396ee945548b>>> still kneeling
+against the trunk in the deep frame. The silent grief releases its hold; <<<f6b0ad15-8442-4722-8e45-396ee945548b>>>
+struggles to rise from the roots; turns 180° to face the camera direction; and stands
+still on the roots with a dead empty face, looking from afar at <<<ac21bc57-1249-42b4-8001-44b023813bb5>>> across the
+snow. He does NOT step forward; his feet stay planted on the tree roots. The closed
+bloody right fist hangs at his hip throughout the rise and turn — the artifact stays
+hidden inside the fist and is NOT visible. The shot is the silent RE-EMERGENCE of a man
+who has just decided to do something terrible — the moment after the collapse, when the
+body forces itself upright with no remaining feeling.
+SUBJECT LOCK:
+<<<f6b0ad15-8442-4722-8e45-396ee945548b>>> [img_roco_cold] — 20yo lean, cropped dark messy hair, torn dark t-shirt with
+anatomical skin/muscle panels, dark cargo pants. TWO HANDS — DIFFERENT STATES ⚠️
+(critical):
+⚠️ LEFT HAND — WRAPPED in a dirty dark-red rag-bandage covering the whole hand. This
+hand hangs PASSIVELY at his left side throughout, used briefly only to push against the
+trunk during the rise.
+⚠️ RIGHT HAND — COMPLETELY BARE exposed skin from wrist to fingertips. The RIGHT PALM
+and back of the hand are HEAVILY LACERATED — multiple deep cuts and gashes with fresh
+wet dark-red blood. THE BARE RIGHT HAND IS CLOSED IN A LOOSE BLOODY FIST around the ⚠️
+small artifact for the entire 8 seconds. Blood seeps from around the closed fist down
+the wrist throughout. The fist is held against the trunk during the rise (0–4s), then
+hangs at his hip after the turn (6–8s). THE FIST STAYS CLOSED THROUGHOUT — NEVER ⚠️
+OPENS in this shot.
+Tears, broken. In this shot Roco is silent — no spoken line, no audible sob, no whimper.
+<<<ac21bc57-1249-42b4-8001-44b023813bb5>>> [img_jax_late] — 20yo dark-skinned, very short bleached-blond buzz cut, three
+dark forest-green war-paint stripes across nose and cheekbones, clear wraparound safety
+glasses, black tactical jacket, olive cargo pants, two black pistols in two thigh
+holsters. In this shot <<<ac21bc57-1249-42b4-8001-44b023813bb5>>> is a static back-to-camera silhouette in the
+foreground.
+<<<7ee7ba73-4519-4fde-bd22-5e37929570b4>>> [img_rein_late] — 20yo, silver-grey chin-length bob, pale skin, heavy black
+armored exo-suit, dual forearm rotary six-barrel cannons. In this shot <<<7ee7ba73-4519-4fde-bd22-5e37929570b4>>> is a
+static back-to-camera silhouette in the foreground.
+<<<e3cde30b-18dd-4dc5-9c2d-480e510c0d47>>> [img_artifact_white] — small white translucent crystal in dark iron claw
+cradle. THE ARTIFACT IS HIDDEN INSIDE <<<f6b0ad15-8442-4722-8e45-396ee945548b>>>'S CLOSED BLOODY RIGHT FIST ⚠️
+THROUGHOUT THIS SHOT AND IS NOT VISIBLE FROM OUTSIDE THE FIST AT ANY POINT. AT THIS ⚠️
+WIDE-SHOT DISTANCE (~10 METERS) THE ARTIFACT MUST NOT BE RENDERED AS A SEPARATE VISIBLE
+OBJECT — only the bloody closed fist reads. Do NOT render the artifact as a glowing 
+element. Do NOT render any crystal protruding, glinting, or peeking through the fingers
+at any point. The reference image is for design only — at the camera distance and the
+closed-fist pose of this shot the artifact is effectively invisible. The reference
+image's apparent size is NOT inherited.
+ [img_lone_tree] — flat snowy windswept battlefield, single substantial
+LONE TREE. Use reference image only for tree appearance and location atmosphere. ⚠️
+HARSH BLIZZARD throughout. Sky uniformly DARK slate / charcoal-grey overcast. Distant
+fires in deep field. Low granite outcrops in midground.
+WORLD POSITIONS:
+- character <<<f6b0ad15-8442-4722-8e45-396ee945548b>>> — starts the shot still KNEELING on the exposed tree roots at the
+base of the lone tree, body crumpled forward over his knees, BACK toward the camera,
+FOREHEAD still pressed against the bark of the trunk (matching the end of 72-A1).
+- character <<<ac21bc57-1249-42b4-8001-44b023813bb5>>> — FOREGROUND, BACK TO THE CAMERA, SCREEN-RIGHT side of the
+foreground pair, ~6m in front of <<<f6b0ad15-8442-4722-8e45-396ee945548b>>>.
+- character <<<7ee7ba73-4519-4fde-bd22-5e37929570b4>>> — shoulder-to-shoulder with <<<ac21bc57-1249-42b4-8001-44b023813bb5>>> on his left, BACK TO THE
+CAMERA, SCREEN-LEFT side of the foreground pair.
+Both foreground silhouettes stand still and silent throughout all 8 seconds — they DO
+NOT move, DO NOT turn, DO NOT shift. Their apparent size and screen positions remain
+identical from frame 1 to frame 8.
+CAMERA POSITION:
+- Shot size: WIDE (общий план) — held at one single wide framing for all 8 seconds,
+identical framing to 72-A1.
+- Lens: anamorphic 35mm.
+- Camera BEHIND <<<ac21bc57-1249-42b4-8001-44b023813bb5>>> and <<<7ee7ba73-4519-4fde-bd22-5e37929570b4>>>, low-angle close to snow, looking PAST them
+into the deep frame at the lone tree and <<<f6b0ad15-8442-4722-8e45-396ee945548b>>>.
+⚠️ TWO NON-NEGOTIABLE LOOK REQUIREMENTS — APPLY TO EVERY FRAME:
+(A) HARSH BLIZZARD ALWAYS ACTIVE — heavy driving wind-blown snow streaks across the
+entire frame at all times.
+(B) BACKLIT SILHOUETTE LOOK ALWAYS — all characters as PURE BACKLIT SILHOUETTES, bodies
+crushed into black masses with thin bright rim contours. Light only from BEHIND /
+ABOVE / DEEP-FRAME. NO frontal key, NO fill. Faces lost in shadow when not rim-caught.
+PHYSICAL STATE OF <<<f6b0ad15-8442-4722-8e45-396ee945548b>>> — same EXHAUSTED, BEAT-DOWN, DEPLETED state as 72-A1.
+EMOTIONAL STATE — INWARD GRIEF SETTLED, NOT PERFORMED:
+The silent grief from 72-A1 has subsided. Tear tracks remain wet on his face but the
+crying is over. The body is exhausted and broken but resolved. He performs no emotion —
+he simply moves with the heavy resignation of a man whose decision has already been
+made. NO sobs, NO whimpers, NO audible grief at any point in this shot. NO theatrical
+face. Reference: Lubezki "The New World" / Tarkovsky "Stalker" / Northman ritual
+silence. Anti-reference: melodramatic crying.
+SUBJECT MOTION — THREE TIMED BEATS (8 SECONDS):
+[0–4s] STRUGGLES TO RISE. character <<<f6b0ad15-8442-4722-8e45-396ee945548b>>> pushes up from kneeling — body almost too
+exhausted to lift itself off the roots. The motion is barely-possible, dragged, broken,
+agonising. He pushes against the trunk for support — the bandaged LEFT hand pressed flat
+against the bark, the closed bloody RIGHT FIST also pressed against the bark beside it
+(fingers stay closed on the artifact, the fist does NOT open). Body trembles and is
+unsteady, almost falling back, finally getting up. Reaches a slow standing on the tree
+roots, still facing the trunk, BACK to the camera, body sagged with the effort. Once
+standing, the closed bloody right fist drops from the trunk and now hangs at his right
+hip, fingers still closed around the hidden artifact. Tear tracks remain on his face but
+the grief is held inward; his breath is quiet and controlled. NO audible sobs at any
+point during the rise.
+[4–6s] 180° TURN. character <<<f6b0ad15-8442-4722-8e45-396ee945548b>>> slowly TURNS 180° on the spot to face the camera
+direction (toward the foreground silhouettes of <<<7ee7ba73-4519-4fde-bd22-5e37929570b4>>> and <<<ac21bc57-1249-42b4-8001-44b023813bb5>>>). The turn is
+heavy, broken, dragged — the turn of a man whose body barely obeys him. His tear-tracked
+but DRY face is revealed for the first time as he completes the turn — face composed,
+hardened by the effort, the previous silent grief now over. The closed bloody right fist
+remains hanging at his right hip throughout the turn, fingers still closed.
+[6–8s] STILLNESS WITH DEAD FACE (2-second held tail beat). character <<<f6b0ad15-8442-4722-8e45-396ee945548b>>> stands
+STILL on the tree roots after the turn. He does NOT step forward, does NOT walk, does
+NOT advance toward <<<7ee7ba73-4519-4fde-bd22-5e37929570b4>>> and <<<ac21bc57-1249-42b4-8001-44b023813bb5>>>. His feet stay planted on the tree roots
+where he just rose. He simply stands at the base of the tree and LOOKS FORWARD at
+character <<<ac21bc57-1249-42b4-8001-44b023813bb5>>> (whose silhouette is in the foreground on SCREEN-RIGHT). His eyeline locks toward <<<ac21bc57-1249-42b4-8001-44b023813bb5>>> across the long stretch of snow between them. His closed
+bloody right fist hangs at his right hip, fingers still closed around the hidden
+artifact. His face is now DEAD — completely empty, drained of all expression, hollowed
+out. The grief has settled into a frozen lifeless mask. Eyes empty, jaw slack, body
+unmoving — a man hollowed out by what he just decided to do.
+character <<<ac21bc57-1249-42b4-8001-44b023813bb5>>> and character <<<7ee7ba73-4519-4fde-bd22-5e37929570b4>>> stand still and silent in the foreground
+throughout all 8 seconds — they do not move, do not turn, do not react.
+DIALOGUE: NONE in this shot.
+CAMERA MOTION: handheld camera with subtle natural breathing micro-movement. Camera
+HOLDS its single WIDE framing for all 8 seconds. NO dolly, NO push-in, NO pull-out, NO
+track, NO pan, NO tilt, NO crane, NO zoom. Only operator chest-cycle micro-movement.
+Framing identical to 72-A1.
+ENVIRONMENT: late-dusk snow battlefield around the lone tree. HARSH BLIZZARD active ⚠️
+in every frame.
+AESTHETICS: 35mm Kodak Vision3 500T, anamorphic glass, real organic film grain.
+Photochemical, not digital. Lubezki backlit silhouettes + Deakins discipline. HIGHCONTRAST CHIAROSCURO. Sky dark slate / charcoal-grey overcast. Anamorphic shallow DoF.
+Cold desaturated palette. 24fps slow weighted pace. Anchors: Tree of Life, Andrei
+Rublev, Northman ritual. Lone tree centred-to-LEFT vertical-third as a pillar.
+AUDIO: continuous howling blizzard wind, driving snow rush, fabric flapping, distant
+fire crackle low. character <<<f6b0ad15-8442-4722-8e45-396ee945548b>>>'s breath is quiet and controlled throughout — NO
+sobs, NO whimpers, NO sniffles at any point. The wind carries the scene. NO music, NO
+score, NO subtitles, NO dialogue.
+IDENTITY LOCK: characters' faces, hair, costumes per references exactly. Artifact
+present per reference but HIDDEN inside closed fist and NOT visible from outside at any
+frame.
+CONTINUITY: identity, blocking, framing, lens, shot size identical to 72-A1 framing.
+Foreground silhouettes' apparent size and screen positions identical frame 1 to frame 8.
+Bandaged LEFT hand passive (briefly used to push trunk during rise). Bare RIGHT hand
+stays closed in bloody fist throughout — never opens. Artifact stays hidden inside
+closed fist throughout, NOT visible at any frame.
+FINAL FRAME (8.0s): <<<f6b0ad15-8442-4722-8e45-396ee945548b>>> has turned 180° and now stands at the base of the tree,
+feet still on the roots, looking forward at <<<ac21bc57-1249-42b4-8001-44b023813bb5>>> in the foreground (eye-line locked
+on <<<ac21bc57-1249-42b4-8001-44b023813bb5>>> on SCREEN-RIGHT). He has not stepped off the tree — he just stands there
+and looks. The lone tree rises immediately behind him as a vertical pillar. His face is
+DEAD — empty, drained, hollowed out — a frozen lifeless mask. Eyes empty, jaw slack.
+Tear tracks still on his face from the earlier silent grief. Closed bloody right fist
+hangs at his right hip, fingers still closed, blood still on the back of the hand and
+wrist. Foreground silhouettes of Rein/Jax still in their fixed back-to-camera positions,
+apparent size identical to frame 1. Blizzard still streaking across the entire frame.
+Silence (only wind) holding
+
+## 中文对照 (zh)
+
+OUTPUT：13 秒，21:9，一个连续镜头。
+叙述意图（NARRATIVE INTENTION）：紧接 72-A1 之后。同一宽景取景 — 从前景中角色 <<<ac21bc57-1249-42b4-8001-44b023813bb5>>> 和角色 <<<7ee7ba73-4519-4fde-bd22-5e37929570b4>>> 身后（我们看到他们暗色剪影式的背影）越过他们望向深景中仍抵着树干跪着的角色 <<<f6b0ad15-8442-4722-8e45-396ee945548b>>>。静默的悲恸松开了它的钳制；<<<f6b0ad15-8442-4722-8e45-396ee945548b>>> 挣扎着从树根上起身；转身 180° 面向摄影机方向；站在树根上、面带死寂空无的脸、隔雪远远望向 <<<ac21bc57-1249-42b4-8001-44b023813bb5>>>。他"不"向前迈步；他的脚保持踩在树根上。整个起身与转身期间、握紧的血淋淋右拳垂在他髋部 — 神器保持藏在拳内"不可见"。这个镜头是一个刚决定去做某件可怕之事的男人的静默"重新浮现" — 崩塌之后的那一刻、身体在毫无残余情感的情况下强迫自己挺直。
+
+主体锁定（SUBJECT LOCK）：
+<<<f6b0ad15-8442-4722-8e45-396ee945548b>>> [img_roco_cold] — 20岁，身形精瘦，黑色短发削得参差潦草，破损的深色 T 恤带有解剖感皮肤/肌肉纹理面板，深色工装裤。双手 — 状态不同⚠️（关键）：
+⚠️ 左手 — 包裹着覆盖整只手的脏污暗红色碎布绷带。这只手全程被动垂在他左侧、只在起身时短暂用于推树干。
+⚠️ 右手 — 从手腕到指尖完全裸露的皮肤。右掌与手背受到严重割伤 — 多道深切口与撕裂、带新鲜湿润的暗红色血。裸露的右手在整个 8 秒内"握成松散的带血之拳"、绕着那枚⚠️小神器。血整个期间从紧握的拳周围顺腕渗流。拳头在起身（0–4 秒）期间抵着树干、然后在转身后（6–8 秒）垂在他髋部。"拳头全程保持紧握 — 本镜头中"绝不"张开"。
+他泪流满面、破碎。本镜头中 Roco 静默 — 无说出的台词、无可闻啜泣、无呜咽。
+<<<ac21bc57-1249-42b4-8001-44b023813bb5>>> [img_jax_late] — 20岁，深色皮肤，极短的漂白金发寸头，鼻梁与颧骨上三道深森林绿战漆条纹，透明环绕式护目镜，黑色战术夹克，橄榄色工装裤，两条大腿枪套里各别一把黑色手枪。本镜头中 <<<ac21bc57-1249-42b4-8001-44b023813bb5>>> 是前景中一个静止的背对摄影机剪影。
+<<<7ee7ba73-4519-4fde-bd22-5e37929570b4>>> [img_rein_late] — 20岁，银灰色齐下巴短发，肤色苍白，厚重黑色装甲外骨骼战甲，双臂前臂旋转六管机炮。本镜头中 <<<7ee7ba73-4519-4fde-bd22-5e37929570b4>>> 是前景中一个静止的背对摄影机剪影。
+<<<e3cde30b-18dd-4dc5-9c2d-480e510c0d47>>> [img_artifact_white] — 暗色铁爪托架中的小白色半透明水晶。神器"藏于" <<<f6b0ad15-8442-4722-8e45-396ee945548b>>> "握紧的血淋淋右拳"内、整个镜头中在拳外"任何时刻都不可见"。在此宽景距离（约 10 米）下神器"必须不"被渲染成单独的可见物体 — 只有血淋淋的紧握之拳可读。切勿把神器渲染成发光元素。切勿在任何时刻渲染任何晶体从指缝伸出、闪光或窥探。参考图仅为设计用 — 在本镜头的摄影机距离与握拳姿势下神器实际不可见。参考图的表观尺寸不被承袭。
+ [img_lone_tree] — 平坦积雪、寒风吹扫的战场，单株挺拔孤木（LONE TREE）。参考图仅用于树的外观与地点氛围。⚠️ 全程猛烈暴风雪。天空整体为深暗板岩灰/炭灰阴天。深景旷野有远处火焰。中景低矮花岗岩露头。
+
+世界位置（WORLD POSITIONS）：
+- 角色 <<<f6b0ad15-8442-4722-8e45-396ee945548b>>> — 以仍跪在孤木底部裸露树根上为本镜头开场，身体越过膝盖前倾蜷缩、背对摄影机、额头仍抵着树干树皮（与 72-A1 结尾吻合）。
+- 角色 <<<ac21bc57-1249-42b4-8001-44b023813bb5>>> — 前景、背对摄影机、前景那对组合的画面右侧、在 <<<f6b0ad15-8442-4722-8e45-396ee945548b>>> 前方约 6 米。
+- 角色 <<<7ee7ba73-4519-4fde-bd22-5e37929570b4>>> — 与 <<<ac21bc57-1249-42b4-8001-44b023813bb5>>> 肩并肩在其左侧、背对摄影机、前景那对组合的画面左侧。
+两道前景剪影在全部 8 秒内静止而立、沉默 — 他们"不"动、"不"转身、"不"移位。他们的表观大小与画面位置从第 1 帧到第 8 帧保持完全相同。
+
+摄影机位置（CAMERA POSITION）：
+- 景别：宽景（общий план）— 全部 8 秒保持单一宽景取景、与 72-A1 相同取景。
+- 镜头：变形宽银幕 35mm。
+- 摄影机位于 <<<ac21bc57-1249-42b4-8001-44b023813bb5>>> 和 <<<7ee7ba73-4519-4fde-bd22-5e37929570b4>>> 身后、贴近雪面的低角度、越过他们望向深海画面中的孤木与 <<<f6b0ad15-8442-4722-8e45-396ee945548b>>>。
+
+⚠️ 两条绝不可商量的呈现要求 — 适用于每一帧：
+（甲）猛烈暴风雪始终活跃 — 大风吹卷的厚重雪片时刻横扫整个画面。
+（乙）背光剪影呈现始终如一 — 所有角色作为"纯背光剪影"、身体压成黑块配细亮轮廓边缘。光只来自"后面/上方/深景"。无正面主光、无补光。未被轮廓光捕捉时面部没入阴影。
+
+<<<f6b0ad15-8442-4722-8e45-396ee945548b>>> 的身体状态 — 与 72-A1 相同的"精疲力尽、被打垮、耗尽"。
+
+情感状态 — 内收的悲恸已沉淀、绝非表演：
+来自 72-A1 的静默悲恸已消退。泪痕仍在脸上湿润、但哭泣已止。身体疲惫、破碎、却决志。他不表演任何情感 — 他只是带着一个决定已下之人的沉重听任移动。本镜头任何时刻"无"啜泣、"无"呜咽、"无"可闻悲恸。"无"戏剧化表情。参考：卢贝斯基《新世界》/ 塔可夫斯基《潜行者》/《北方人》仪式静默。反参考：夸张煽情的哭泣。
+
+主体动作 — 三个按时序的拍（8 秒）：
+[0–4 秒] 挣扎起身。角色 <<<f6b0ad15-8442-4722-8e45-396ee945548b>>> 从跪姿撑起 — 身体几乎累倦到撑不起自己离开树根。动作近乎不可能、被拖曳、破碎、痛苦难当。他扶住树干支撑 — 缠绷带的左手平压在树皮上、握紧的血淋淋右拳也并排压着树皮（手指保持合在神器上、拳头"不"张开）。身体颤抖、不稳、几乎又倒下、最后才站起来。他迟缓地站上树根、仍面朝树干、背对摄影机、身体被力气垮塌。一站定、握紧的血拳从树干垂落、此刻悬在他右髋、手指仍合着藏住的神器。泪痕仍在他脸上、但悲恸内收；他的呼吸安静且受控。起身的任何时刻"无"可闻啜泣。
+[4–6 秒] 180° 转身。角色 <<<f6b0ad15-8442-4722-8e45-396ee945548b>>> 在原地缓慢转身 180° 面向摄影机方向（朝向 <<<7ee7ba73-4519-4fde-bd22-5e37929570b4>>> 和 <<<ac21bc57-1249-42b4-8001-44b023813bb5>>> 的前景剪影）。转身沉重、破碎、被拖曳 — 一个身体勉强服从他的人才会有的转身。他带泪痕但"干枯"的脸在转身完成时首次被揭示 — 脸沉着、被这力气淬硬、此前的静默悲恸现已告终。握紧的血拳在整个转身期间保持悬在他右髋、手指仍合拢。
+[6–8 秒] 死寂面容的静止（2 秒定格的尾拍）。角色 <<<f6b0ad15-8442-4722-8e45-396ee945548b>>> 在转身后"静立"在树根上。他"不"向前迈步、"不"走、"不"朝 <<<7ee7ba73-4519-4fde-bd22-5e37929570b4>>> 和 <<<ac21bc57-1249-42b4-8001-44b023813bb5>>> 推进。他的脚保持踩在他刚站起的树根上。他只是站在树基、并"向前方"望着角色 <<<ac21bc57-1249-42b4-8001-44b023813bb5>>>（其剪影位于前景画面右侧）。他的视线锁定朝他俩之间漫长雪面的 <<<ac21bc57-1249-42b4-8001-44b023813bb5>>>。他握紧的血拳悬在右髋、手指仍合着藏住的神器。他的脸此刻"死寂" — 完全空洞、被抽空所有表情、内里被掏空。悲恸沉淀成一张冻结的、无生命的假面。双眼空洞、下颌松弛、身体不动 — 一个被自己刚决定做的事掏空的男人。
+
+角色 <<<ac21bc57-1249-42b4-8001-44b023813bb5>>> 和角色 <<<7ee7ba73-4519-4fde-bd22-5e37929570b4>>> 在全部 8 秒内静止而立、沉默 — 他们不动、不转身、不反应。
+对白（DIALOGUE）：本镜头无对白。
+
+摄影机运动：手持摄影机带微妙自然的呼吸式微运动。摄影机全部 8 秒"保持"其单一宽景取景。无滑轨、无推近、无拉远、无移轨、无摇镜、无俯仰、无摇臂、无变焦。只有摄影师胸腔循环微运动。取景与 72-A1 相同。
+
+环境（ENVIRONMENT）：孤木周围暮冬的雪地战场。⚠️ 每帧都有猛烈暴风雪在起作用。
+
+美学（AESTHETICS）：35mm Kodak Vision3 500T、变形宽银幕玻璃镜、真实有机胶片颗粒。摄影化学感、绝非数字感。卢贝斯基背光剪影 + 迪金斯纪律。高反差明暗对照（chiaroscuro）。天空为深暗板岩灰/炭灰阴天。变形宽银幕浅景深。冷调去饱和调色板。24fps 缓慢沉重节奏。锚点：《生命之树》、《安德烈·卢布廖夫》、《北方人》仪式。孤木居中至左竖直三分线成立柱。
+
+音频（AUDIO）：持续呼号暴风雪风、卷雪疾驰、衣物拍打、远处火堆低微噼啪。角色 <<<f6b0ad15-8442-4722-8e45-396ee945548b>>> 的呼吸全程安静且受控 — 任何时刻"无"啜泣、"无"呜咽、"无"吸鼻。风承载这场景。无音乐、无配乐、无字幕、无对白。
+
+身份锁定（IDENTITY LOCK）：角色面部、头发、服装按参考完全一致。神器按参考在场、但"藏于握紧的拳内"、任何帧在拳外都不可见。
+
+连贯性（CONTINUITY）：身份、走位、取景、镜头、景别与 72-A1 取景相同。前景剪影的表观大小与画面位置第 1 帧到第 8 帧相同。缠绷带左手被动（起身期间短暂用于推树干）。裸露右手全程保持握成血拳 — 绝不张开。神器全程藏于握紧拳内、任何帧都不可见。
+
+最终画面（8.0 秒）：<<<f6b0ad15-8442-4722-8e45-396ee945548b>>> 已转身 180°、此刻站在树基、脚仍踩在树根上、向前望着前景中的 <<<ac21bc57-1249-42b4-8001-44b023813bb5>>>（视线锁定在画面右侧的 <<<ac21bc57-1249-42b4-8001-44b023813bb5>>> 上）。他没有下树 — 他只是站在那里看着。孤木立时耸立在他正身后、成竖直立柱。他的脸"死寂" — 空洞、被抽空、内里被掏空 — 一张冻结的、无生命的假面。双眼空洞、下颌松弛。泪痕仍在他脸上、来自此前的静默悲恸。握紧的血拳悬在右髋、手指仍合拢、手背与腕上仍有血。Rein/Jax 的前景剪影仍处于各自固定的背对摄影机位置、表观大小与第 1 帧相同。暴风雪仍横扫整幅画面。静默（只有风）持续。
