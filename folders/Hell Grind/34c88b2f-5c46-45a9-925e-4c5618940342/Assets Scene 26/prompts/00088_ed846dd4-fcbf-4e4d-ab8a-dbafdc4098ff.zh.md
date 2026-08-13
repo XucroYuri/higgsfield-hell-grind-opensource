@@ -1,0 +1,23 @@
+# prompt 对照
+
+## 元数据
+- job_set_id: ed846dd4-fcbf-4e4d-ab8a-dbafdc4098ff
+- job_type: image_auto
+- source_path: folders/Hell Grind/34c88b2f-5c46-45a9-925e-4c5618940342/Assets Scene 26/prompts/00088_ed846dd4-fcbf-4e4d-ab8a-dbafdc4098ff.txt
+- folder_official_name: Assets Scene 26
+- translation_status: draft
+- glossary_version: v0.1
+
+## 原文 (source)
+
+Edit image_1 by replacing Roko's RIGHT HAND with a massive crystal sledgehammer head — his hand IS the hammer, not holding one. Reference image_2 ONLY for crystal texture and material — deep translucent crimson red, internal fractures, glass-like solidified crystalline structure, dark blood-red core with brighter reflective edges.
+The transformation: where his right palm/hand used to be, there is now a HUGE BLOCKY CRYSTAL HAMMER HEAD — roughly 3-4 times the size of his original hand, shaped like the head of an industrial sledgehammer (a thick rectangular/cylindrical striking block, with weighted bulk and clear "front face" striking surface). The hammer head is grown FROM his wrist — the crystal mass starts at the wrist joint and erupts outward into the massive hammer shape, replacing the hand entirely. There are NO fingers, NO palm visible — the hand has been completely consumed/transformed into the hammer head. The wrist itself is partially encased in crystal at the transition point.
+CRITICAL TEXTURE: the crystal hammer must consist ENTIRELY of sharp protruding shards bursting outward from the central mass — NO smooth surfaces, NO polished hammer, NO clean tool shape. The basic silhouette is hammer-like (heavy blocky striking head), but the surface is built from countless individual jagged crystal shards in different sizes and angles, packed densely. Sharp edges, irregular faceting, jagged points sticking outward in all directions — like a spiked crystal mace built into a hammer shape. The "front face" of the hammer (the striking surface) has the largest concentrated cluster of forward-pointing shards.
+The LEFT hand and arm remain completely unchanged — normal human anatomy, fingerless gloves intact, no crystal. The rest of the body, head, face, clothing, scars, lighting, background, pose — all unchanged. Apply consistently across all three views in the character sheet (front, back, profile) — the right-hand hammer must be visible from all angles.
+
+## 中文对照 (zh)
+
+编辑 image_1，把 Roko 的右手替换成一个巨大的水晶大锤锤头——他的手就是那把锤，而非握着一把锤。image_2 仅用于参照水晶质感与材质——深半透明绯红色，内部裂隙，玻璃状凝固水晶结构，暗血红核心及更亮的反射边缘。
+变身：在他原本的右掌/手之处，现在是一个巨大、呈块状的水晶锤头——约为原始手大小的 3–4 倍，形状如工业大锤的锤头（一块厚重矩形/圆柱形击打块，具分量的体积与明显的「正面」击打面）。锤头从他的手腕长出——水晶块始于腕关节，向外喷发形成巨大的锤形，完全取代手掌。看不到手指、看不到手掌——整只手已被完全吞噬/转化为锤头。手腕本身在过渡点处部分被水晶包裹。
+关键质感（CRITICAL TEXTURE）：水晶锤必须完全由锋利外凸的晶刺构成，从中央主体向外迸发——无光滑表面、无抛光锤面、无干净的工具造型。基本轮廓呈锤状（厚重块状击打头），但表面由无数单独的参差水晶晶刺以不同尺寸与角度密实堆叠而成。锐利的边缘、不规则切面、朝各个方向外凸的参差尖角——如同把一根尖刺水晶狼牙棒做成了锤形。锤的「正面」（击打面）拥有最大一处集中向前的晶刺簇。
+左手与手臂保持完全不变——正常人体解剖结构，露指手套完好，没有水晶。身体其余部分、头部、脸部、服饰、伤疤、灯光、背景、姿势——全部不变。在角色表（character sheet）的所有三个视角（正面、背面、侧影）上一致应用——右手锤必须在所有角度都可见。
