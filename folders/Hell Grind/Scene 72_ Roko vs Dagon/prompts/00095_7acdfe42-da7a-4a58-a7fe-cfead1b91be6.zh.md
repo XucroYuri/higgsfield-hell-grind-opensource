@@ -1,0 +1,234 @@
+# prompt 对照
+
+## 元数据
+- job_set_id: 7acdfe42-da7a-4a58-a7fe-cfead1b91be6
+- job_type: seedance_2_0
+- source_path: folders/Hell Grind/Scene 72_ Roko vs Dagon/prompts/00095_7acdfe42-da7a-4a58-a7fe-cfead1b91be6.txt
+- folder_official_name: Scene 72_ Roko vs Dagon
+- translation_status: draft
+- glossary_version: v0.1
+
+## 原文 (source)
+
+SCENE NOTE
+Single shot — pre-transformation moment. <<<d2a28cee-0eb1-4c54-aa5c-674d65fdb8aa>>> stands before
+the battle with the monster, exhausted and breathing heavy, and
+delivers a brutal threat to the off-frame monster: "I don't need
+words to kill you and rip that thing off your filthy claws."
+Delivery is SLOWER and CONTROLLED — anger held tight. ~4 seconds.
+Real-time 60fps. STATIC CAMERA (locked off). 21:9 anamorphic IMAX
+cinematic.
+
+LOOK PRESET
+Vinterberg-handheld doc-style meets Akira Kurosawa Ran battlefield
+epic. Lubezki × Deakins reference. Kodak 500T daylight stock pushed
+cool with strong contrast. Cold dark blue-grey + bone-white palette
+dominates — quieter and more atmospheric than the army battlefield,
+isolated personal moment. 180° shutter natural motion blur.
+Practical overcast winter daylight, slight underexposure. Heavy fog
+and snow blizzard layers. 21:9 anamorphic widescreen.
+
+ENVIRONMENT
+<<<018b68c5-f3a9-45db-a4f2-48ba02061ebd>>> — wide snow-covered steppe, rolling snow drifts
+with patches of dark red bloodstained snow and frost-tipped grasses,
+scattered grey rock outcrops, dry red shrubs poking through snow.
+ACTIVE SNOWFALL — soft falling snowflakes drifting through frame,
+diagonal streaks of snow visible. HEAVY GREY-WHITE FOG layered
+deeply across the scene, visibility reduced, distant landscape fades
+into atmospheric haze. Heavy grey overcast sky, smoke-veiled, no
+sun. Quieter, more isolated atmosphere than the open battlefield —
+muted, cold, deadened. Faint distant blood-trails staining the snow
+in red patches across the rolling drifts. No visible fires here, no
+visible army — just the cold mist and the snow.
+
+CHARACTERS
+<<<d2a28cee-0eb1-4c54-aa5c-674d65fdb8aa>>> — human warrior in his PRE-CRYSTAL-TRANSFORMATION state.
+Slim athletic build, ~1.8m tall. Dark messy wet hair falling across
+his forehead in damp strands, dark mustache, slight stubble on
+jaw. Wearing a fitted dark grey/brown short-sleeve compression
+t-shirt smudged with dirt, sweat, and blood stains. Olive-brown
+tactical cargo pants with leg-holster straps and utility pouches.
+Fingerless tactical glove on one hand, a worn RED BANDANA wrapped
+around the other wrist/forearm. A small RED PLUSH TOY BEAR clipped
+to the rear of his belt. Combat boots scuffed and stained.
+
+★ STATE — exhausted, breathing heavy from prior combat, but
+SETTLING into a controlled steady focus. Body has been ragged from
+the fight but he is consciously reining in the panic-energy.
+Forehead and cheeks have fresh blood smears and small cuts. Faint
+scratches across his face and arms. Dark messy wet hair clings to
+his forehead. Sweat and snow flecks on his face. Chest still rises
+and falls with labored breath but he is SLOWING IT DOWN, taking
+fuller controlled breaths. Body tense but ANCHORED, not frantic.
+Eyes locked forward with COLD CONTROLLED ANGER — settled, hardened,
+predatory. Jaw set. No crystal armor on him — this is the pre-
+transformation Roko, just a beaten-down human warrior with
+murderous intent finding his focus.
+
+CAMERA STYLE
+STATIC CAMERA — LOCKED OFF on a tripod/sticks, no handheld shake,
+no breath-jitter, no operator wobble. Clean cinematic frame held
+steady throughout the shot. The ONLY motion in frame is what
+<<<d2a28cee-0eb1-4c54-aa5c-674d65fdb8aa>>> does naturally (breathing, slight body sway, speaking)
+and the environmental motion (falling snow, drifting fog, hair in
+wind). The locked-off camera lets the stillness of the moment land
+— forces attention to his face, his breath, his words.
+
+TIGHT CLOSE-UP framing on <<<d2a28cee-0eb1-4c54-aa5c-674d65fdb8aa>>>'s face from a slight low
+angle looking up — camera positioned just below his chin level,
+eye-line of camera meeting his eyes. Shallow depth of field, soft
+fog bokeh background. 60FPS real-time. Snow particles drift through
+frame.
+
+SHOT — ROKO PRE-BATTLE THREAT, STATIC LOCKED-OFF (60fps real-time,
+4s, TIGHT LENS, STATIC)
+Reference: <<<d2a28cee-0eb1-4c54-aa5c-674d65fdb8aa>>>, <<<018b68c5-f3a9-45db-a4f2-48ba02061ebd>>>.
+
+STATIC LOCKED-OFF TIGHT CLOSE-UP on <<<d2a28cee-0eb1-4c54-aa5c-674d65fdb8aa>>>'s face, slight low
+angle. Camera does not move. Frame fills with his face — dark wet
+hair across forehead, mustache, slight stubble, blood smears across
+nose and cheek, small cuts visible. Eyes locked forward INTO the
+lens / at the unseen monster off-frame. Cold settled predatory anger
+in the gaze, eyes narrowed and hard. Body tense in lower frame,
+chest visible heaving with labored breath that is slowly steadying.
+
+[0.0s — 1.0s] He stands rooted within the static frame. Takes a
+LONG controlled inhale through his nose, fog of breath billowing
+slowly — visibly forcing himself to settle, anchor, focus. Eyes
+locked forward, unflinching. The fog of <<<018b68c5-f3a9-45db-a4f2-48ba02061ebd>>>
+background drifts behind him in soft focus — pale grey-white mist,
+faint red blood-stain patches on distant snow, soft snowflakes
+drifting through frame. His face is wet from snow and sweat, hair
+clinging to forehead. The breath slows from frantic-post-combat to
+controlled-pre-strike. Only his subtle micro-movements (breath,
+hair shifting in cold wind, eye-blink) move within the otherwise
+still frame.
+
+[1.0s — 3.5s] He OPENS his mouth and DELIVERS the line in English,
+voice LOW, SLOWER, MEASURED — angry but CONTAINED, the venom held
+tight under control:
+"I don't need words... to kill you... and rip that thing off your
+filthy claws."
+★ DELIVERY NOTE — slower than conversational pace but NOT
+exaggeratedly slow. Each phrase weighted, deliberate, with subtle
+beats between "I don't need words" / "to kill you" / "and rip that
+thing off your filthy claws." Anger LOCKED IN, not exploding —
+cold settled hatred speaking. Heavy breath in between phrases,
+each fogging visibly. Lip curls slightly on "filthy claws" — venom
+breaks through there. Eyes never leave the off-frame target. The
+threat lands as a quiet promise from a man who has stopped being
+frantic and become DANGEROUS. Camera holds locked-off through every
+word.
+
+[3.5s — 4.0s] After the line, <<<d2a28cee-0eb1-4c54-aa5c-674d65fdb8aa>>> holds the stare, jaw
+set, one more heavy controlled fogging exhale puffing into the cold
+air. Body anchored, ready. Eyes burning forward with murderous
+intent. The held silence after the words lands heavier because of
+the slower delivery + static frame.
+
+Background out of focus <<<018b68c5-f3a9-45db-a4f2-48ba02061ebd>>>: pale grey-white fog and
+mist, soft drifting snowflakes, faint red blood-stain patches on
+distant snow, rolling drifts and dry shrubs in deep haze. No
+visible army, no visible fires — quiet isolated atmosphere.
+Audio: heavy controlled CATCHING-BREATH — slower deeper labored
+breaths in and out through his nose and slightly-parted lips,
+fogging visibly with each cycle, the breath rhythm settling from
+frantic to anchored. Faint snowfall whisper, low howling cold
+steppe wind in deep background, distant muffled battlefield rumble
+far away in the fog (almost inaudible), faint crunch of snow as
+his weight shifts subtly. Then <<<d2a28cee-0eb1-4c54-aa5c-674d65fdb8aa>>>'s voice — LOW, GRAVELLY,
+MEASURED, ANGER LOCKED IN — delivers "I don't need words... to
+kill you... and rip that thing off your filthy claws." Slower
+deliberate pace, each phrase punctuated by a controlled fog-breath,
+voice cracking slightly with restrained rage and exhaustion. After
+the line, one more heavy controlled exhale, then held silence on
+his stare — only his settled breath, the wind, the falling snow.
+
+## 中文对照 (zh)
+
+SCENE NOTE
+单镜头——变身之前的时刻。<<<d2a28cee-0eb1-4c54-aa5c-674d65fdb8aa>>> 立于与怪兽交战之前，
+精疲力竭、呼吸沉重，向画外怪兽吐出一句凶狠的威胁:"I don't need
+words to kill you and rip that thing off your filthy claws."(我不需要
+言语就能杀了你，把那东西从你肮脏的爪子上扯下来。)语速更慢、
+更克制——怒意紧锁、沉稳，不急促。约 4 秒。实时 60fps。手持。
+21:9 变形宽银幕 IMAX 电影感。
+
+LOOK PRESET
+温特贝格式手持纪实风格，融合黑泽明《乱》的战场史诗质感。参考
+卢贝兹基 × 迪金斯。柯达 500T 日光胶片，冷调推高，高对比。冷暗
+蓝灰 + 骨白调子主导——比大军战场更安静、更富氛围，孤绝的私人
+时刻。180° 快门，自然动态模糊。实用阴天冬日自然光，轻微欠曝。
+厚重浓雾与暴雪层次。21:9 变形宽银幕。
+
+ENVIRONMENT
+<<<018b68c5-f3a9-45db-a4f2-48ba02061ebd>>> —— 辽阔的雪覆草原，起伏的雪丘夹杂暗红染血的
+雪斑与霜顶草，散布灰色岩石露头，干枯红灌木从雪中探出。持续降雪——
+柔和的落雪飘过画面，可见斜向雪条。厚重灰白浓雾层层铺陈，能见度
+降低，远处地貌消融于大气雾霭。头顶是厚重的灰阴天，烟云遮蔽，无日。
+比起开阔战场更安静、更寂寥的氛围——沉寂、寒冷、死气沉沉。远处
+隐约的血迹在起伏雪丘上染出红痕。这里无可见战火、无可见大军——
+只有冷雾与雪。
+
+CHARACTERS
+<<<d2a28cee-0eb1-4c54-aa5c-674d65fdb8aa>>> —— 处于水晶变身之前状态的人类武者。
+精瘦精悍的身形，约 1.8 米。深色凌乱湿发以濡湿发缕垂落额前，深色
+小胡子，下颌微有胡茬。穿合身的深灰/棕色短袖压缩 T 恤，沾满泥土、
+汗渍与血污。橄榄褐战术工装裤，带腿部枪套带和多功能口袋。一手戴
+无指战术手套，另一手腕/前臂缠一条磨旧的红头巾。腰间后侧别一只
+小小的红色毛绒玩具熊。战靴磨损污渍。
+
+★ 状态——精疲力竭，因先前战斗呼吸沉重，但正沉入克制的稳定专注。
+历经鏖战身躯已残破，却有意压住慌乱的能量。额头与脸颊有新溅的
+血迹和小伤口。脸与手臂有隐约抓痕。深色凌乱湿发黏在额前。脸上有
+汗与雪点。胸脯仍随吃力呼吸起伏，却正刻意放缓，转为更深更受控的
+呼吸。身体紧绷但沉稳，不再慌乱。目光前锁，带着冰冷克制的怒气——
+镇定的、坚硬的、捕猎般的。下颌咬紧。身上无水晶甲——这是变身前的
+Roko，一个刚被打趴下、怀揣杀意、正在找回专注的人类武者。
+
+CAMERA STYLE
+手持，细微的呼吸抖动摇晃(比战斗节拍更平静、略稳——配合他沉稳的
+状态)，有机微晃。对<<<d2a28cee-0eb1-4c54-aa5c-674d65fdb8aa>>> 脸部的紧特写，略带仰拍的
+低角度——镜头置于他下巴稍下，镜头视线与他目光平齐。浅景深，
+柔和雾景虚化背景。60FPS 实时。雪粒飘过画面。
+
+SHOT — ROKO 战前威胁，较慢台词 (60fps 实时，4 秒，紧焦镜头)
+Reference: <<<d2a28cee-0eb1-4c54-aa5c-674d65fdb8aa>>>, <<<018b68c5-f3a9-45db-a4f2-48ba02061ebd>>>.
+
+脸部紧特写，略带低角度。画幅填满他的脸——深色湿发横过额头，小胡子，
+微露胡茬，鼻颊间血迹斑斑，细小伤口可见。目光前锁入镜头/对向画外
+的隐形怪兽。凝视中是冰冷镇定的捕猎怒气，眼睛眯起而坚硬。身体在
+下幅绷紧，胸脯因吃力呼吸而明显起伏，正缓缓平复。
+
+[0.0 秒 — 1.0 秒] 他落锚站定。用鼻子做一次长长的受控吸气，气息
+成雾缓缓涌出——明显在强迫自己沉稳、落锚、专注。目光前锁，毫不
+退缩。<<<018b68c5-f3a9-45db-a4f2-48ba02061ebd>>> 的雾霭在身后柔和失焦地漂泊——
+淡灰白雾，远处雪上隐约红血迹，柔和飘落的雪花。他的脸被雪和汗
+打湿，发黏在额前。呼吸从战后的慌乱渐缓为战前的克制。
+
+[1.0 秒 — 3.5 秒] 他开口，用英语说出台词，声音低沉、更慢、有分寸——
+愤怒却克制，毒意紧压于掌控之下:
+"I don't need words... to kill you... and rip that thing off your
+filthy claws."
+★ 台词说明——比日常语速慢，但并非夸张的慢。每个短语都沉甸甸、
+刻意，"I don't need words" / "to kill you" / "and rip that thing off
+your filthy claws" 之间有细微的停顿。怒意锁死，而非爆发——冷峻
+凝定的恨意开口。短语间沉重喘息，每口都明显成雾。念到"filthy claws"
+时唇微微上卷——毒意在此破出。目光始终不离画外目标。这句威胁落成
+一个已不再慌乱、已经危险起来的男子沉静许下的誓言。
+
+[3.5 秒 — 4.0 秒] 台词之后，<<<d2a28cee-0eb1-4c54-aa5c-674d65fdb8aa>>> 守住凝视，下颌
+咬紧，又一口沉重的受控成雾吐气喷入冷空气。身体沉稳，蓄势。目光
+灼灼前望，透着杀意。因更慢的语速，台词之后的凝固沉默更显沉重。
+
+背景失焦 <<<018b68c5-f3a9-45db-a4f2-48ba02061ebd>>>:淡灰白雾与雾霭，柔和
+飘落的雪花，远处雪上隐约红血迹，起伏雪丘与深雾中的干灌木。无可见
+大军、无可见战火——安静寂寥的氛围。
+Audio: 沉重而克制的喘息——通过鼻子和微张的嘴唇缓慢深长的吃力
+呼吸，每口气都明显成雾，呼吸节奏从慌乱归于沉稳。隐约的落雪细响，
+深处背景低吼的寒冷草原风，雾中极遥远的闷响战场轰鸣(几乎听不见)，
+体重轻轻移动时雪的轻微咯吱。接着是 <<<d2a28cee-0eb1-4c54-aa5c-674d65fdb8aa>>> 的声音——
+低沉、沙哑、克制、怒意紧锁——说出"I don't need words... to kill you... and rip that thing off your filthy claws." 缓慢刻意
+的节奏，每个短语都以一口受控的成雾气息停顿，声音因克制的怒火与疲惫
+而轻颤。台词之后，又一口沉重的受控吐气，随后凝视凝成静默——只有他
+平稳的呼吸、风声、落雪。
