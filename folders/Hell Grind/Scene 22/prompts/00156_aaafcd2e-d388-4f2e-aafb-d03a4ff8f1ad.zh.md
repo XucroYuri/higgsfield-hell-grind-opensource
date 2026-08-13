@@ -1,0 +1,62 @@
+# prompt 对照
+
+## 元数据
+- job_set_id: aaafcd2e-d388-4f2e-aafb-d03a4ff8f1ad
+- job_type: seedance_2_0
+- source_path: folders/Hell Grind/Scene 22/prompts/00156.txt
+- folder_official_name: Scene 22
+- translation_status: draft
+- glossary_version: v0.1
+
+## 原文 (source)
+
+<<<image_1>>> (Roco · STRIPPED, sitting under pine) — 20岁混血亚白男性, 瘦削结实体型. 湿润凌乱中长黑发, 稀疏黑色八字胡, 苍白皮肤+疲惫凹陷眼神, 鼻梁横向浅色旧伤疤约2-3cm(NO redness). 黑色T恤+长裤+腰带+挂袋+devil钥匙扣+黑色手套+右手腕红头巾+沾泥战术靴. 双臂裸露+泥渍, 头发+肩膀+衣物有薄雪. Roco坐在巨大杉树根下, 背靠树干, 双膝贴胸, 双手按耳, 闭眼.
+<<<image_2>>> (Young Roco · 小Roco约10岁) — 10-12岁版本Roco, 混血亚白男孩外貌, 同样深色乱发(中长, 凌乱地垂在前额和眉毛上方), 苍白皮肤+健康童年光泽, 棕色眼睛, 略带忧郁/疲惫的表情. 服装: 穿一件深红色羽绒服带兜帽(red puffer down jacket with hood, full zip front, padded quilted body), 内里深色, 浅蓝色直筒牛仔裤(light blue straight jeans), 白色运动鞋(white sneakers/trainers). 没有任何伤痕, 鼻梁干净没有疤痕(no scar on nose bridge yet — younger version, before the injury). 神态: 真诚、关切、温和、好奇.
+<<<image_3>>> (Pine tree location · 巨大杉树根) — 巨大日本杉树(直径2米)根部, 地面中等积雪10-15cm, 周围混合森林: 日本杉+黑色竹林(树枝有积雪), 前景树根上散落酒红色枫叶, 浓雾在树干之间漂流, 雪花穿过雾飘落.
+
+multishot sequence
+
+style: imax电影现实主义, 超真实实拍, Lubezki x Deakins; 极其浓厚的冷蓝灰雾(visibility 5-10米); 持续轻雪飘落(amorphous shapeless snow specks); 阴沉天空; 60:30:10配色 — 60%冷白+30%深绿/黑+10%温暖肤色(童年的); 21:9, 8K, 60fps; CAMERA MANDATE: 活的手持呼吸式相机/LIVE handheld breathing camera ALWAYS(LIVE/ALIVE handheld breathing camera at all times — camera breathes along with operator, subtle rise/fall+gentle micro-drift, human imperfection, ALWAYS SMOOTH, NEVER static, NEVER locked-off, NEVER jerky, NEVER aggressive shake). 阴面拍摄; HARD CUTS. 音频: 雪+呼吸+雾中环境回响. 这一段没有V.O.混响 — 这是真实的对话音质. 禁则: 禁3D/CG/游戏引擎、禁霓虹、禁正面光/补光板、禁桶形畸变/鱼眼、禁过饱和/HDR、禁漂浮道具、禁身份漂移、禁角色自发光、禁音乐/字幕.
+
+lens: Laowa Cine 12mm T2.9 Zero-D + Lensbaby Twist 60; CU = Laowa 85mm T2.4 F2.0.
+
+【镜头1】 6秒 — CU on Roco's face moving到ECU on hand(starts as tight CU on Roco's face screaming, gradually transitions to ECU on his hand covering his ear), Laowa 50-85mm, F2.0, 呼吸式平滑.
+开始构图(0.0-3.0秒): 紧凑特写Roco的脸(tight CU on Roco's face)——他坐在巨大杉树根下背靠树干, 双手紧紧按住两只耳朵(both hands clamped tightly over his ears), 双膝紧贴胸口(knees pressed tight against chest), 紧闭眼睛(eyes squeezed shut tight), 身体微微前后摇晃(body slightly rocking back and forth). 他用尽全力大声尖叫:
+ROCO (用尽全力、撕裂、愤怒尖叫, 在英语): "GET OUT!!! GET OUT OF MY HEAD!!!"
+@audio1的声音继续在他周围叠加传来.
+镜头过渡(3.0-5.0秒): 摄影机缓慢地、平滑地从他的脸下滑/推近到他按耳朵的右手(camera GRADUALLY slides / pushes from his face DOWN AND IN toward his right hand pressed against his ear — smooth transition from face CU into ECU on the hand covering the ear, framing reframes naturally to reveal the hand and ear). 现在画面只剩下他的右手按在耳朵上的ECU(now frame is ECU on his right hand pressing against his ear).
+小手介入(5.0-6.0秒): 突然一只小手从画面边缘伸入(suddenly a small child's hand reaches in from frame edge — a child's hand, warm, alive, full of life), 轻轻地搭在Roco的右手上(gently touches/rests on Roco's right hand covering his ear).
+
+【镜头2】 4秒 — CU Roco脸, 85mm, F2.0, 呼吸式平滑. Roco睁开眼睛(eyes snap open), 瞳孔扩大(pupils dilate, eyes widen). 表情充满惊讶(surprise) + 不防御(not defensive, but stunned), 双手缓慢从耳朵放下来(hands slowly lower from ears). 他的眼睛看向身旁.
+
+【镜头3】 4秒 — MS reveal shot, 35mm wide, 呼吸式平滑. 镜头转向揭示<<<image_2>>>(camera turns to reveal Young Roco), 让观众和Roco同时看见小Roco站在他身旁(viewer and adult Roco simultaneously see Young Roco standing/crouching next to him by the pine tree). <<<image_2>>>(小Roco)以纯净温和的好奇眼神看着大Roco(looks at adult Roco with pure innocent curious concerned eyes). 雪花落在小Roco身上但他显得温暖.
+
+SFX only. No music, no subtitles.
+
+## 中文对照 (zh)
+
+<<<image_1>>>（Roco · 卸甲状态 / STRIPPED，坐在杉树下）——20岁混血亚白男性，瘦削结实体型。湿润凌乱中长黑发，稀疏黑色八字胡，苍白皮肤 + 疲惫凹陷眼神，鼻梁横向有浅色旧伤疤约2-3cm（无红肿）。黑色T恤 + 长裤 + 腰带 + 挂袋 + 魔鬼钥匙扣 + 黑色手套 + 右手腕红头巾 + 沾泥战术靴。双臂裸露带泥渍，头发 + 肩膀 + 衣物上有薄雪。Roco 坐在巨大杉树根下，背靠树干，双膝贴胸，双手捂着耳朵，闭着眼睛。
+
+<<<image_2>>>（Young Roco · 小Roco 约10岁）——10-12岁版本的 Roco，混血亚白男孩外貌，同样深色乱发（中长，凌乱地垂在前额和眉毛上方），苍白皮肤 + 健康的童年光泽，棕色眼睛，略带忧郁/疲惫的表情。服装：穿一件深红色带兜帽的羽绒服（红色连帽羽绒服，前身全拉链，绗缝衬垫的衣身），内里深色，浅蓝色直筒牛仔裤，白色运动鞋。没有任何伤痕，鼻梁干净没有疤痕——更年幼的版本，受伤之前。神态：真诚、关切、温和、好奇。
+
+<<<image_3>>>（巨大杉树根）——巨大日本杉树（直径2米）根部，地面有中等积雪10-15cm，周围是混合森林：日本杉 + 黑色竹林（树枝有积雪），前景的树根上散落酒红色枫叶，浓雾在树干之间漂流，雪花穿过雾飘落。
+
+multishot sequence
+
+style：IMAX 电影现实主义，超真实实拍质感，Lubezki × Deakins；极其浓厚的冷蓝灰雾（能见度5-10米）；持续轻雪飘落（形态不定无形的雪点）；阴沉天空；60:30:10 配色——60%冷白 + 30%深绿/黑 + 10%温暖的肤色（童年的）；21:9、8K、60fps；摄影机指令：持续使用活跃的手手持呼吸式摄影机/有意保持鲜活的手持呼吸式摄影机（摄影机始终随操机员呼吸——细微起落 + 轻柔微漂移，带人类的不完美感，始终平滑，绝不会静止、绝不会锁定机位、绝不会抽搐、绝不会激烈晃动）。阴面拍摄；硬切。音频：雪 + 呼吸 + 雾中环境回响。这一段没有旁白混响——这是真实的对话音质。禁则：禁3D/CG/游戏引擎、禁霓虹、禁正面光/补光板、禁桶形畸变/鱼眼、禁过饱和/HDR、禁漂浮道具、禁身份漂移、禁角色自发光、禁音乐/字幕。
+
+lens：Laowa Cine 12mm T2.9 Zero-D + Lensbaby Twist 60；特写用 Laowa 85mm T2.4 F2.0。
+
+【镜头1】6秒——从 Roco 脸部特写移动到手上的极特写（以 Roco 尖叫的紧凑脸部特写开始，逐渐过渡到对他捂住耳朵的手的极特写），Laowa 50-85mm，F2.0，呼吸式平滑。
+开始构图（0.0-3.0秒）：Roco 脸部紧凑特写——他坐在巨大杉树根下，背靠树干，双手紧紧钳住两只耳朵，双膝紧贴胸口，眼睛紧闭，身体微微前后摇晃。他用尽全力大声尖叫：
+ROCO（用尽全力、撕裂、愤怒尖叫，用英文）："滚出去！！！滚出我的脑子！！！"
+@audio1 的声音继续在他周围叠加传来。
+镜头过渡（3.0-5.0秒）：摄影机缓慢地、平滑地从他的脸向下滑/推近到他按着耳朵的右手——从脸部特写平滑过渡到捂住耳朵的手的极特写，构图自然重构，显现出那只手和耳朵。现在画面只剩下他的右手按在耳朵上的极特写。
+小手介入（5.0-6.0秒）：突然一只小手从画面边缘伸入——一只孩子的、温暖的、充满生命气息的手，轻轻搭在 Roco 捂住耳朵的右手掌上。
+
+【镜头2】4秒——Roco 脸部特写，85mm，F2.0，呼吸式平滑。Roco 猛地睁开眼睛，瞳孔放大，眼睛圆睁。表情充满惊讶，带着震惊而非防御，双手缓慢地从耳朵上放下来。他的眼睛看向身旁。
+
+【镜头3】4秒——中景揭示镜头，35mm 广角，呼吸式平滑。镜头转向揭示 <<<image_2>>>，让观众和 Roco 同时看见小Roco 站在/蹲在他身旁、就在杉树边。<<<image_2>>>（小Roco）用纯净温和的好奇关切眼神看着大Roco。雪花落在小Roco 身上但他显得温暖。
+
+仅环境音效（SFX only）。没有音乐，没有字幕。
+
