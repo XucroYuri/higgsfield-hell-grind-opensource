@@ -1,0 +1,301 @@
+# prompt 对照
+
+## 元数据
+- job_set_id: 3fc9c44f-5f0e-4fcb-8bba-daeeb32fd214
+- job_type: seedance_2_0
+- source_path: 00381_3fc9c44f-5f0e-4fcb-8bba-daeeb32fd214.txt
+- folder_official_name: Scene 26
+- translation_status: draft
+- glossary_version: v0.1
+
+## 原文 (source)
+
+— Underground training dome arena. Environment and lighting reference only.
+
+<<<image_2>>> (Roko post-transformation) — Reference for Roko's appearance with the transformed crystal RIGHT fist. Shows the enlarged crystalline RIGHT fist — roughly twice the size of his original fist, made of jagged red crystal shards extending outward from where his right hand is, deep translucent crimson, all sharp protruding shards (NO smooth surfaces, NO helmet/dome shapes). General body details from this image also apply: olive-dark skin, black medium-length loose hair, thin mustache, BOTH eyes natural human BROWN, red medical tape across bridge of nose, shirtless with old scars and tattoos, dried blood streak running down center of bare chest, black tactical cargo pants with thigh holster pouches, heavy boots, crystal mass on the upper-left side of his head (chaotic dense jagged red translucent shards). Use ONLY for the appearance of the RIGHT crystal fist and overall body/face — in THIS scene only the RIGHT hand transforms; the LEFT hand stays a normal human hand throughout. Used as the appearance reference AFTER the third chest strike.
+
+<<<image_3>>> (Roko initial appearance — pre-transformation) — Reference for Roko's appearance BEFORE the right hand transformation. Same body details (olive-dark skin, black hair, thin mustache, BOTH eyes BROWN, red medical tape on nose bridge, shirtless, scars and tattoos, dried blood streak down center of chest, black tactical cargo pants with thigh holsters, heavy boots, crystal mass on upper-left side of head). At this stage BOTH HANDS are normal human hands — no crystal on either hand yet. Used as the initial appearance reference BEFORE the third chest strike (the walking phase, the first two strikes).
+
+<<<image_4>>> (New bot — WEDA UNIT 07) — Appearance reference for the NEW Training Bot that emerges from the central floor panel. Humanoid combat robot, sleek dark grey/matte black segmented armor with geometric faceting, narrow horizontal blue visor (active and glowing), articulated cabling on shoulders/spine, mechanical joints, armored boots. Same height as Roko. WEDA UNIT 07 marking visible on chest/shoulder. Use as appearance reference for the live bot.
+
+Style: 8K IMAX. Photorealistic — no 3D render, no game engine, no game-cutscene aesthetic. Cinematography: Emmanuel Lubezki × Roger Deakins. Strictly use only practical light sources physically present on set (visible in ). Dimmed neutral light of the ceiling lamps. Zero added cinematic fills — no softboxes, no LED strips, no front fill, no reflectors outside the frame. Camera always shoots from the shadow side — face lit naturally by practicals, contours rimmed, wet catch-lights in the eyes. Color: 60:30:10. Physical cine lens. 180° shutter motion blur. Skin: pore-level realism — vellus hair, asymmetric moles, capillary flush, pore-shadow matching on-set light. Acting: Hollywood — micro-pauses before reactions, precise eye-line, wet living eyes with catch-lights, visible breath and chest rise, every emotion has muscular specificity. Physics: gravity and inertia fully respected — mass has real weight, correct contact shadows. No floating props. Composition: rule of thirds + golden ratio. Continuity: characters, props, environment identical across cuts. No identity drift. 24fps. 8K detail. Environmental SFX only. No music. No subtitles.
+
+⚠️ ARENA SPATIAL LAYOUT (purely descriptive — no painted markings on floor) ⚠️
+— The dome interior follows strictly: octagonal training platform in the center, dimmed practical ceiling lamps around the periphery, dark concrete walls. The arena floor is dark concrete/metal — NO painted markings, NO colored circles, NO arrows, NO letters, NO text on the floor or walls.
+— CENTRAL SQUARE PANEL: a square floor panel is built into the very center of the octagonal platform. The panel is FLUSH AND SEAMLESS with the surrounding arena floor — no visible gap, no raised edge, no different color, no different material — completely integrated and invisible until it slides open. Later in SHOT 1, this panel slides open and the new bot rises through it; the panel then closes seamlessly behind the bot.
+— ROKO STARTS AT THE CENTER OF THE ARENA (at the central panel position).
+— Roko walks STRAIGHT FORWARD across the platform toward the camera during SHOT 1 — moving AWAY FROM the central panel for SEVERAL METERS (approximately 5-7 METERS).
+— Roko STOPS approximately 5-7 METERS from the center of the arena. He stays at this stop position for the rest of the video.
+— Distance Roko ↔ central panel after he stops: APPROXIMATELY 5-7 METERS.
+
+⚠️ STRUCTURE — TWO SHOTS ONLY ⚠️
+This P04 video has EXACTLY TWO SHOTS:
+— SHOT 1: ONE LONG CONTINUOUS HANDHELD TAKE covering everything from frame one through to the new bot locking into combat stance.
+— ONE HARD CUT.
+— SHOT 2: STATIC LOCKED-OFF WIDE PROFILE — final beat.
+
+⚠️ SHOT 1 — CAMERA MOVEMENT SCRIPTED TO MATCH CHARACTER ACTIONS ⚠️
+SHOT 1 is one continuous handheld take with strong active organic shake. The camera move is paired beat-by-beat with Roko's actions, in this exact sequence:
+ 1. Camera STILL ↔ Roko STILL — opening frame: camera holds steady (handheld with shake but no movement), Roko stands still at the center of the arena facing camera.
+ 2. Roko WALKS forward ↔ Camera moves BACKWARD — Roko begins walking forward toward camera; camera retreats backward at the exact same pace (handheld dolly-out tracking, CU on face).
+ 3. Roko STOPS ↔ Camera STOPS — when Roko stops walking, the camera also stops retreating. Roko is now approximately 5-7 meters from the center of the arena.
+ 4. RIGHT HAND TRANSFORMS ↔ Camera DESCENDS — at the moment the right hand transforms (at the third chest strike), the handheld camera DESCENDS / TILTS DOWNWARD from face level to a low-angle position (camera below face level, looking up at Roko, with the crystal RIGHT fist now prominent in the lower foreground of the frame and Roko's face above). Camera holds at this lower level for the next phase.
+ 5. Camera HOLDS at low angle ↔ Roko CLENCHES/UNCLENCHES the right crystal fist + delivers REPLICAS (two quiet "Open"s looking down at hand + one shouted "OPEN!" looking forward).
+ 6. Roko TURNS 180° (after the replicas) ↔ Camera RISES — Roko performs a sharp 180° turn (his back now toward camera); SIMULTANEOUSLY the handheld camera RISES from low-angle position UP to shoulder level behind Roko, ending in an over-the-shoulder framing.
+ 7. Camera HOLDS at the same shoulder level ↔ NEW BOT EMERGES from the central panel of the arena — the central square floor panel slides open, the new bot rises through, panel closes seamlessly behind it, bot locks into combat stance. The camera HOLDS at the same shoulder level throughout this — it does NOT move further. Strong handheld shake remains.
+
+NO CUTS within SHOT 1 — all of the above is one continuous handheld take. After the bot locks into stance, HARD CUT to SHOT 2.
+
+⚠️ SHOT 2 — STATIC LOCKED-OFF WIDE PROFILE ⚠️
+SHOT 2 is a STATIC LOCKED-OFF wide profile shot — fully locked tripod camera, frame rock-solid, NO shake, NO drift, NO pan, NO tilt, NO handheld movement. Camera positioned at the SIDE of the platform (perpendicular to the line connecting Roko and the new bot), wide angle, slightly elevated. Both characters seen in clean PROFILE — side-on, facing each other across the platform.
+
+⚠️ ROKO'S BREATHING — ENTIRE VIDEO ⚠️
+Roko has just finished an exhausting brutal fight. Throughout the ENTIRE video, breathing is HEAVY, RAPID, BROKEN — chest visibly rising/falling, shoulders heaving, audible labored breaths.
+
+⚠️ EMOTIONAL CONTEXT ⚠️
+Roko has lost someone he loved. This entire fight is for REVENGE. He NEEDS to be ready. Full emotional breakdown — trying to CONVINCE HIMSELF he can do it. CRIES through the opening — real wet tears with RAGE not sadness.
+
+⚠️ HANDS RULE ⚠️
+ONLY Roko's RIGHT hand transforms into a crystal fist (after the third chest strike). Use <<<image_3>>> (BOTH HANDS NORMAL) for Roko's appearance BEFORE the third strike. Use <<<image_2>>> (RIGHT crystal fist) for Roko's appearance AFTER the third strike. The LEFT hand stays a normal human hand throughout the entire video — no crystal on the left, no transformation.
+
+[SHOT 1 — ONE LONG CONTINUOUS HANDHELD TAKE: ROKO WALKS FORWARD FROM CENTER OF ARENA, "YEAH, BITCH" + 3 STRIKES + RIGHT HAND TRANSFORMS, CAMERA DESCENDS TO LOW ANGLE, CLENCH/UNCLENCH + 2 QUIET "OPENS" + SHOUTED "OPEN!", ROKO TURNS 180° AS CAMERA RISES TO SHOULDER LEVEL, NEW BOT RISES FROM CENTRAL PANEL]
+
+Open on a handheld CLOSE-UP on Roko's face — tight framing, his face filling the frame. Camera position: directly in front of Roko at face level, looking back at his face. Strong handheld shake throughout the entire shot.
+
+══ BEAT 1 — OPENING (camera still ↔ Roko still) ══
+
+For the very first instant: Roko stands STILL at the CENTER of the arena, facing camera. The handheld camera ALSO holds steady (still shake-alive but no horizontal/vertical movement yet) — both Roko and camera in held position for a beat. Roko's face fills the CU frame.
+
+⚠️ CRITICAL — BACKGROUND DURING WALKING PHASE ⚠️
+Behind Roko (the area he is walking away from): only soft-focus dimensional depth of the dome interior — dim concrete/metal walls, dimmed practical ceiling lamps, soft falloff into shadow. The central panel is somewhere in the deep BG soft-defocus (just an unobtrusive textured patch of floor, indistinguishable from the rest of the floor — seamless). NO door visible behind Roko. NO bot in the BG. The background is plain dome interior in soft defocus — nothing else.
+
+══ BEAT 2 — WALKING (Roko walks forward ↔ camera retreats backward) ══
+
+Roko BEGINS WALKING FORWARD — moving in a determined forward stride directly toward the camera. He is NOT stationary, NOT side-stepping, NOT shuffling — he walks DIRECTLY FORWARD into the lens. The camera retreats backwards at the exact same pace, maintaining the tight CU framing of his face — handheld dolly-out tracking. The motion is paired and continuous.
+
+CRITICAL — CRYING IS HEAVY: throughout this CU, multiple HEAVY WET TEARS visibly STREAM down his face in clear distinct streaks — tracks from both eyes, down both cheeks, dripping from chin. Tears are fresh, large, fast-moving, glistening, mixing with sweat and grime. Eyes red, swollen, glassy.
+
+BREATHING is STRONG, ACTIVE, BROKEN — heaving uneven gasps, ragged sharp inhales between phrases, chest pumping rapidly, shoulders shaking.
+
+LINE DELIVERY (Jesse-Pinkman-style, hysterical, weeping, with rage), all delivered DURING the forward walk:
+ROKO (weeping, through tears): "Yeah, bitch!"
+PRONUNCIATION CRITICAL: the word "bitch" must be pronounced as ONE SINGLE CONTINUOUS WORD with the vowel sound STRETCHED OUT and HELD in a long, drawled, Jesse Pinkman signature delivery — a single long fluid drawl, NEVER read as separate letters, NEVER spelled out letter-by-letter, NEVER syllable-by-syllable. One continuous extended word with a long elongated vowel.
+
+THREE ACCENTED CHEST STRIKES — each a strong powerful punch of his RIGHT FIST on bare chest, timed AFTER each phrase:
+— Strike 1: AFTER "Yeah, bitch!" → first heavy chest punch, sound of fist on flesh, chest visibly reddens. (Right hand still NORMAL HUMAN at this point — appearance per <<<image_3>>>.)
+— ROKO: "I'm ready!"
+— Strike 2: AFTER "I'm ready!" → second heavy chest punch. (Right hand still normal human — appearance per <<<image_3>>>.)
+— ROKO: "I'm fucking READY!"
+
+══ BEAT 3 — STOP + TRANSFORMATION + CAMERA DESCENT (Roko stops ↔ camera stops; right hand transforms ↔ camera descends) ══
+
+— Strike 3: AFTER "I'm fucking READY!" → third heavy chest punch. AT THE MOMENT of this final strike: (a) Roko STOPS WALKING — he is now approximately 5-7 METERS from the center of the arena, near the edge of the platform on the camera side, still facing camera; (b) the camera also STOPS its backward retreat; and (c) his RIGHT HAND BEGINS TO TRANSFORM — crystal erupts (resulting appearance per <<<image_2>>>): jagged red crystal shards burst through skin, growing into an ENLARGED CRYSTAL FIST roughly TWICE THE SIZE of his original fist. His LEFT hand remains untransformed, normal human hand.
+
+SIMULTANEOUSLY WITH THE TRANSFORMATION — the handheld camera DESCENDS / TILTS DOWNWARD from face level to a LOW-ANGLE position from below-front (camera below face level, looking up). The new framing settles with the crystal RIGHT fist (per <<<image_2>>>) prominent in the lower foreground of the frame and Roko's face above (still showing his streaming tears, breathing heavy). Live handheld shake continuous throughout the descent — never smooth/dolly-clean, always organic operator movement. NO CUT.
+
+══ BEAT 4 — CLENCH/UNCLENCH + REPLICAS (camera holds at low angle) ══
+
+The camera HOLDS at the low-angle position. Roko stands still in his stop position.
+
+⚠️ FIST ACTION — EXPLICIT CLENCH/UNCLENCH ⚠️
+Roko CLENCHES AND UNCLENCHES the crystal right fist visibly and repeatedly — multiple cycles. The wrist rotates, the knuckles tighten with audible mineral crackle/grind, the fist closes hard, then OPENS spreading the crystal fingers apart, then CLOSES again. The clench-unclench is a clear, deliberate, repeated gesture — the camera reads it unambiguously.
+
+LINE DELIVERY — TWO QUIET "OPENS" THEN ONE SHOUTED:
+
+FIRST — quietly, looking DOWN at the crystal fist — almost a whisper, voice trembling:
+ROKO (quiet, looking DOWN at hand): "Open."
+
+Brief beat. Continues looking down at the fist. Another visible clench-unclench cycle.
+
+SECOND — quietly again, still looking DOWN at the fist — same hushed voice, slightly steadier:
+ROKO (quiet again, still looking DOWN at hand): "Open."
+
+Another brief beat. Then he LIFTS HIS HEAD UP and looks STRAIGHT FORWARD toward the camera — gaze level and focused, jaw set.
+
+THIRD — commanding shout, head up, looking forward at camera:
+ROKO (commanding shout, head lifted): "OPEN!"
+
+══ BEAT 5 — TURN + CAMERA RISE (Roko turns 180° ↔ camera rises to shoulder level) ══
+
+Immediately after the shouted "OPEN!", Roko PERFORMS A SHARP, RAPID 180° TURN in place — pivoting his whole body so his BACK is now toward camera and his face now points back toward the central panel of the arena (the direction he originally came from). The turn is fast, decisive, dynamic.
+
+SIMULTANEOUSLY DURING THE TURN — the handheld camera (which was at low-angle position from below) RISES SMOOTHLY UPWARD from the low-angle level UP TO SHOULDER LEVEL. The camera operator stands up / lifts the rig in one continuous organic movement. By the time Roko's turn completes, the camera has settled at shoulder level behind Roko, in an over-the-shoulder 3/4 framing (looking past Roko's shoulder toward the central panel of the arena ahead).
+
+NO CUT. Live handheld shake continuous throughout the rise.
+
+══ BEAT 6 — BOT EMERGES (camera holds at the same shoulder level) ══
+
+The camera HOLDS at this same shoulder level (over-the-shoulder behind Roko) — it does NOT move further. Strong handheld shake remains throughout. Roko stands motionless in his stop position, facing the central panel ahead, breathing heavily.
+
+In FOREGROUND of frame (off-center, partial frame): Roko's BACK and upper body — black hair, the crystal mass on the upper-left of his head visible from behind/side, his bare back/shoulders. Crystal RIGHT fist (per <<<image_2>>>) visible at his side (off-center foreground), normal LEFT hand at the other side.
+
+In MIDGROUND/BG of frame — at the CENTER of the arena, approximately 5-7 meters ahead of Roko — the CENTRAL SQUARE PANEL of the platform. Up to this moment the panel has been completely FLUSH and SEAMLESS with the floor — invisible as a separate element, indistinguishable from the rest of the platform surface. NOW the panel slides open (panel sections split apart with mechanical motion), and the NEW Training Bot (per <<<image_4>>>: WEDA UNIT 07, dark grey/matte black armor, blue visor active and glowing, articulated cabling on shoulders/spine, mechanical joints) RISES UPWARD through the opening in a heavy hydraulic mechanical lift. The bot emerges in standing position. After full rise, the floor panel sections slide closed seamlessly back into the floor — once closed the floor is again completely flush and integrated, no visible gap or seam. The bot then locks into a classic combat stance — fists at face level, lead foot forward, sharp servo-locks.
+
+Distance Roko ↔ new bot: approximately 5-7 meters.
+
+DEEP BACKGROUND beyond the new bot: far wall of the dome, soft defocus.
+
+Camera holds. Roko holds. Bot is locked in stance. END OF SHOT 1. HARD CUT to SHOT 2.
+
+[SHOT 2 — STATIC LOCKED-OFF WIDE PROFILE OF BOTH CHARACTERS, FINAL BEAT]
+
+Hard cut to STATIC LOCKED-OFF WIDE shot — fully locked tripod camera, frame rock-solid, NO shake, NO pan, NO tilt, NO drift, NO handheld movement.
+
+CAMERA POSITION: at the SIDE of the platform (perpendicular to the line connecting Roko and the new bot), wide angle, slightly elevated. Both characters seen in clean PROFILE — side-on silhouettes, facing each other across the platform.
+
+COMPOSITION:
+— ONE SIDE OF FRAME: NEW Training Bot (per <<<image_4>>>: WEDA UNIT 07, dark grey/matte black armor, narrow horizontal blue visor active and glowing, articulated cabling). Standing at the central panel position. In classic combat stance: legs apart in fighting stance, fists raised at face level, lead foot forward, statue-still. Faces Roko (in profile, facing the other side of the frame). Same height as Roko.
+— OTHER SIDE OF FRAME: ROKO at his stop position — APPROXIMATELY 5-7 METERS from the central panel, near the platform edge. Per <<<image_2>>> — both brown eyes, crystal mass on upper-left of head, dried blood streak on bare chest, black tactical cargo pants with thigh holsters, heavy boots. Crystal RIGHT fist (enlarged crystal fist roughly twice original size, all jagged red shards). LEFT hand remains normal human at his side. In a fighting-ready posture: weight settled, breathing heavily, jaw set. Faces the new bot (in profile).
+— Distance between Roko and new bot in frame: approximately 5-7 meters.
+
+The seamless arena floor extends across the frame (no painted markings on floor, no visible panel seam — the central panel is now closed and flush with the rest of the floor). Dome ceiling geometry visible above. Practical ceiling lamps from the dome periphery.
+
+Static locked-off frame. Final beat — Roko and new bot in profile, ready to engage. The fight has not started yet — this is the moment before the first move. End of P04.
+
+15 seconds. 16:9. STRUCTURE: ONE LONG HANDHELD SHOT 1 + ONE STATIC SHOT 2 with a single HARD CUT between them. SFX only: heavy rapid broken breathing of Roko throughout · weeping/sobs · drawled "Yeah, bitch!" (Pinkman-style elongated vowel) · first heavy chest impact · "I'm ready!" · second heavy chest impact · "I'm fucking READY!" · third heavy chest impact (camera descending simultaneously) · crystal eruption — dense mineral cracking/locking · clench/unclench of crystal fist (mineral crackle/grind) · whispered "Open." · brief beat · whispered "Open." (second) · brief beat · commanding "OPEN!" · sharp swish/whoosh of Roko's body turn (camera rising simultaneously) · mechanical bot emergence — heavy hydraulic rise + panel sliding · seamless floor closing · new bot stance lock — sharp servo locks · hard cut · final ambient dome silence with Roko's heavy broken breathing only.
+
+## 中文对照 (zh)
+
+— 地下训练穹顶竞技场。仅作环境和灯光参考。
+
+<<<image_2>>>（Roko 变身之后）——用于参考 Roko 变出晶化右拳后的外貌。展示了放大的晶化右拳——大约是他原来拳头体积的两倍，由带棱角的红色水晶碎片构成，从其右手所在位置向外延伸，深透的绯红色，全部为尖锐突出的碎片（绝无光滑表面，绝无头盔/穹顶形状）。此图的整体身体细节同样适用：橄榄色偏深的皮肤、黑色中长松散头发、细胡须、双眼均为自然人类棕色、鼻梁上贴着红色医用胶带、赤身露出旧伤疤和纹身、干涸血渍沿裸露胸膛中央向下流淌、黑色战术工装裤配大腿快拔枪套、重型战靴、头部左上侧有一团水晶块（杂乱密集的尖锐红色半透明碎片）。仅用于右拳和整体身体/面部的外貌呈现——在当前这一幕中，只有右手会变身；左手全程保持为正常人类的手。用作第三次击胸之后的外貌参考。
+
+<<<image_3>>>（Roko 初始外貌——变身之前）——用于参考 Roko 在右手变身之前的外貌。相同的身体细节（橄榄色偏深的皮肤、黑色头发、细胡须、双眼棕色、鼻梁红色医用胶带、赤身、伤疤和纹身、干涸血渍沿胸膛中央向下、黑色战术工装裤配大腿快拔枪套、重型战靴、头部左上侧有一团水晶块）。在这一阶段，双手都是正常人类的手——手上均无水晶。用作第三次击胸之前（行走阶段、前两次击打）的初始外貌参考。
+
+<<<image_4>>>（新机器人——WEDA UNIT 07）——用于参考从中央地板面板出现的新训练机器人。人形战斗机器人，光滑的深灰/哑光黑色分段式装甲并带有几何切面、窄的横向蓝色目镜（激活并发光）、肩部/脊柱处有关节化线缆、机械关节、装甲战靴。与 Roko 同高。胸/肩处可见 WEDA UNIT 07 标记。用作现场机器人的外貌参考。
+
+Style（风格）：8K IMAX。照片级真实——绝无 3D 渲染、绝无游戏引擎、绝无游戏过场动画美学。Cinematography（摄影）：Emmanuel Lubezki × Roger Deakins。严格只使用片场实际存在的实体光源（可见于）。天花板灯具调暗的中性光。零额外补电影灯光——无柔光箱、无 LED 灯条、无正面补光、画框外无反光板。摄影机始终从阴影侧拍摄——面部由实用光（源）自然照亮、轮廓勾出边缘、眼中带湿润的眼神光。Color（色彩）：60:30:10。物理电影镜头。180° 快门运动模糊。Skin（皮肤）：毛孔级写实——毳毛、不对称的痣、毛细血管泛红、与片场光线匹配的毛孔阴影。Acting（表演）：好莱坞式——反应前有微停顿、精准的视线方向、湿润灵动的眼睛带眼神光、可见的呼吸和胸膛起伏、每种情绪都有肌肉上的独特表现。Physics（物理）：完全遵循重力与惯性——质量有真实重量、准确的接触阴影。无漂浮道具。Composition（构图）：三分法 + 黄金比例。Continuity（连续性）：角色、道具、环境在各剪切之间完全一致。无身份漂移。24fps。8K 细节。仅环境音效（SFX only）。无音乐。无字幕。
+
+⚠️ ARENA SPATIAL LAYOUT（竞技场空间布局——纯描述性，地板上无漆绘标记）⚠️
+— 穹顶内部严格遵循：中央为中心的八角形训练平台、周边调暗的实用天花板灯具、深色混凝土墙壁。竞技场地板为深色混凝土/金属——无漆绘标记、无彩色圆圈、无箭头、无字母、地板或墙壁上无任何文字。
+— CENTRAL SQUARE PANEL（中央方形面板）：一块方形地板面板内嵌于八角形平台的正中央。该面板与周围竞技场地板齐平且无缝——无可见缝隙、无凸起边缘、无不同颜色、无不同材质——完全融为一体且在滑开前不可见。稍后在 SHOT 1 中，该面板滑开，新机器人随之升起；随后面板在机器人身后无缝闭合。
+— ROKO STARTS AT THE CENTER OF THE ARENA（Roko 从竞技场中央开始）（位于中央面板位置）。
+— 在 SHOT 1 中，Roko 径直向前走过平台走向摄影机——从中央面板移开数米（大约 5-7 米）。
+— Roko 在距竞技场中央大约 5-7 米处停下。在视频其余时间内他一直停留在这个停止位置。
+— Roko 停下来之后与中央面板之间的距离：大约 5-7 米。
+
+⚠️ STRUCTURE — TWO SHOTS ONLY（结构——仅两个镜头）⚠️
+本 P04 视频恰好有两个镜头：
+— SHOT 1：一个长镜头连续手持镜头，覆盖从第一帧到新机器人锁定进入战斗架势的一切内容。
+— 一次硬切。
+— SHOT 2：静态锁定广角侧面——最后一拍。
+
+⚠️ SHOT 1 — CAMERA MOVEMENT SCRIPTED TO MATCH CHARACTER ACTIONS（镜头运动与角色动作逐拍配准）⚠️
+SHOT 1 是一个连续的、带强烈主动有机晃动的手持镜头。镜头运动与 Roko 的动作逐拍配对，按以下精确顺序：
+ 1. 摄影机静止 ↔ Roko 静止——开场帧：摄影机平稳持握（手持但有晃动、无移动），Roko 站在竞技场中央面向摄影机。
+ 2. Roko 向前走 ↔ 摄影机后退——Roko 开始朝摄影机向前走；摄影机以完全相同的速度后退（手持后拉跟拍，面部特写）。
+ 3. Roko 停下 ↔ 摄影机停下——当 Roko 停止行走时，摄影机也停止后退。Roko 现在距竞技场中央大约 5-7 米。
+ 4. 右手变身 ↔ 摄影机下降——在右手变身的瞬间（第三次击胸时），手持摄影机从面部高度下降/向下俯仰至低角度位置（摄影机低于面部高度，向上仰视 Roko，此时晶化右拳在画框下方前景中突出，Roko 的面部在其上方）。摄影机在接下来这一阶段保持在此较低高度。
+ 5. 摄影机保持低角度 ↔ Roko 握紧/松开右晶拳 + 说出重复台词（两次低头看向手的轻声“Open”，一次目视前方的喊叫“OPEN!”）。
+ 6. Roko 转身 180°（在重复台词之后）↔ 摄影机上升——Roko 做出干脆的 180° 转身（现在他的背朝向摄影机）；同时，手持摄影机从低角度位置上升到 Roko 身后的肩部高度，最后形成过肩构图。
+ 7. 摄影机保持在同一肩部高度 ↔ 新机器人从竞技场中央面板出现——中央方形地板面板滑开，新机器人升起，面板在它身后无缝闭合，机器人锁定进入战斗架势。在此过程中摄影机始终保持在同一肩部高度——不再进一步移动。强烈的手持晃动继续保持。
+
+SHOT 1 内无剪切——上述全部内容是一个连续的手持镜头。在机器人锁定进入架势后，硬切至 SHOT 2。
+
+⚠️ SHOT 2 — STATIC LOCKED-OFF WIDE PROFILE（静态锁定广角侧面）⚠️
+SHOT 2 是一个静态锁定广角侧面镜头——完全锁定的三脚架摄影机、画框稳如磐石、无晃动、无漂移、无横摇、无俯仰、无手持移动。摄影机位于平台的侧面（垂直于连接 Roko 和新机器人的连线）、广角、略微抬升。两个角色均以干净的侧面呈现——侧向相对、隔着平台互相对峙。
+
+⚠️ ROKO'S BREATHING — ENTIRE VIDEO（Roko 的呼吸——整支视频）⚠️
+Roko 刚刚结束一场耗尽体力的残酷战斗。在整个视频中，呼吸沉重、急促、破碎——胸膛明显起伏、双肩耸动、可听见吃力的呼吸声。
+
+⚠️ EMOTIONAL CONTEXT（情绪背景）⚠️
+Roko 失去了他深爱的人。这场战斗完全是为了复仇。他必须准备好。情绪彻底崩溃——试图说服自己他做得到。开场时哭泣——是真实的湿泪，带着怒火而非悲伤。
+
+⚠️ HANDS RULE（双手规则）⚠️
+只有 Roko 的右手（在第三次击胸之后）会变成晶拳。在第三次击打之前使用 <<<image_3>>>（双手正常）作为 Roko 的外貌。在第三次击打之后使用 <<<image_2>>>（右晶拳）作为 Roko 的外貌。左手在整个视频中保持为正常人类的手——左手无水晶、无变身。
+
+[SHOT 1 — ONE LONG CONTINUOUS HANDHELD TAKE（一个长镜头连续手持镜头）：ROKO 从竞技场中央向前走，“Yeah, bitch”+ 3 次击打 + 右手变身，摄影机下降至低角度、握紧/松开 + 2 次轻声“OPEN” + 喊出“OPEN!”，Roko 转身 180° 同时摄影机上升至肩部高度，新机器人从中央面板升起]
+
+手持特写镜头开场，落在 Roko 的脸上——紧凑构图，他的脸充满画框。摄影机位置：正对 Roko 前方、位于面部高度，回望他的脸。整个镜头都有强烈的手持晃动。
+
+══ BEAT 1 — OPENING（开场，摄影机静止 ↔ Roko 静止）══
+
+在最开始的瞬间：Roko 站在竞技场中央保持静止，面向摄影机。手持摄影机同样保持平稳（虽有晃动但尚无横/竖移动）——Roko 和摄影机都持住一拍。Roko 的脸充满特写画框。
+
+⚠️ CRITICAL — BACKGROUND DURING WALKING PHASE（关键——行走阶段期间的背景）⚠️
+在 Roko 身后（他正走离的区域）：只有穹顶内部的柔焦景深——暗淡的混凝土/金属墙壁、调暗的实用天花板灯具、柔和地渐隐入阴影。中央面板位于深处背景的柔和失焦处（只是地上一个不起眼的带纹理斑块，与地板其余部分无异——无缝）。Roko 身后不可见任何门。背景中无机器人。背景就是柔和失焦的朴素穹顶内部——别无其他。
+
+══ BEAT 2 — WALKING（行走，Roko 向前走 ↔ 摄影机后退）══
+
+Roko 开始向前走——以坚定的步伐径直走向摄影机。他不是静止不动、不是在侧移、不是拖着缓步——他径直向前走入镜头。摄影机以完全相同的速度后退，保持他面部的紧凑特写构图——手持后拉跟拍。动作配对且连续。
+
+CRITICAL（关键）——哭泣很重：在整个特写中，多道浓重的湿泪清晰可见地顺着他面颊往下流淌，形成清晰分明的泪痕——双眼都有泪痕、顺双颊而下、从下巴滴落。泪水新鲜、大颗、快速移动、晶莹闪亮，与汗水和尘垢混在一起。眼睛发红、肿胀、呆滞无神。
+
+BREATHING（呼吸）强烈、活跃、破碎——起伏不匀的喘息、词组间急促尖锐的吸气、胸膛快速起伏、双肩颤抖。
+
+LINE DELIVERY（台词演绎）（Jesse Pinkman 风格、歇斯底里、边哭边说、带着怒火），全部在向前行走过程中说出：
+ROKO（边哭边透过泪水说）：“Yeah, bitch!”
+PRONUNCIATION CRITICAL（发音至关重要）：“bitch”一词必须作为一个单一连续的词汇说出，元音拉长并保持，以 Jesse Pinkman 标志性的悠长拖腔发音——一个单一、流畅的拖腔长音，绝不可拆成单独字母来念、绝不可一个字母一个字母拼读、绝不可一个音节一个音节念。一个连续延展的单词，带一个长而拉长的元音。
+
+THREE ACCENTED CHEST STRIKES（三记强调式击胸）——每一下都是用他的右拳重重锤击裸露的胸膛，都安排在每组台词之后：
+— Strike 1（第一击）：在“Yeah, bitch!”之后 → 第一记沉重的击胸、拳击皮肉的声响、胸膛明显泛红。（此刻右手仍是正常人类的手——外貌依 <<<image_3>>>。）
+— ROKO：“I'm ready!”
+— Strike 2（第二击）：在“I'm ready!”之后 → 第二记沉重的击胸。（右手仍是正常人类的手——外貌依 <<<image_3>>>。）
+— ROKO：“I'm fucking READY!”
+
+══ BEAT 3 — STOP + TRANSFORMATION + CAMERA DESCENT（停止 + 变身 + 摄影机下降，Roko 停下 ↔ 摄影机停下；右手变身 ↔ 摄影机下降）══
+
+— Strike 3（第三击）：在“I'm fucking READY!”之后 → 第三记沉重的击胸。在这最终一击的瞬间：（a）Roko 停止行走——他现在距竞技场中央大约 5-7 米，位于摄影机一侧的平台边缘附近，仍面向摄影机；（b）摄影机也停止了后退；（c）他的右手开始变身——水晶迸发（结果外貌依 <<<image_2>>>）：带棱角的红色水晶碎片刺穿皮肤，生长为一只大约是原拳头体积两倍的放大晶拳。他的左手保持未变身，是正常的人类手。
+
+与变身同时——手持摄影机从面部高度下降/向下俯仰至从下方前侧的仰拍低角度位置（摄影机低于面部高度，向上仰视）。新的构图落定，晶化右拳（依 <<<image_2>>>）在画框下方前景中突出，Roko 的面部在其上方（仍可见泪水流淌、呼吸沉重）。在整个下降过程中手持晃动持续——永非平滑/推轨那般干净，始终是自然的摄影师操机动作。无剪切。
+
+══ BEAT 4 — CLENCH/UNCLENCH + REPLICAS（握紧/松开 + 重复台词，摄影机保持低角度）══
+
+摄影机保持在低角度位置。Roko 在他的停止位置保持静止。
+
+⚠️ FIST ACTION — EXPLICIT CLENCH/UNCLENCH（拳头动作——明确的握紧/松开）⚠️
+Roko 明显且反复地握紧又松开右晶拳——多轮循环。手腕转动、指节收紧并伴随可听见的矿物噼啪/碾磨声、拳头狠狠闭合、随后张开将水晶手指分开、然后再度闭合。握紧-松开是一个清晰、刻意、重复的动作——摄影机能毫不含糊地读到它。
+
+LINE DELIVERY（台词演绎）——先两次轻声“OPEN”，再一声喊出：
+
+FIRST（第一次）——轻声、低头看向晶拳——几乎耳语、声音颤抖：
+ROKO（轻声、低头看向手）：“Open。”
+
+短暂的停顿。继续低头看着拳头。又一个可见的握紧-松开循环。
+
+SECOND（第二次）——再次轻声、仍低头看向拳头——同样压低的嗓音、略微平稳：
+ROKO（再次轻声、仍低头看向手）：“Open。”
+
+又一个短暂停顿。然后他抬起头、径直向前看向摄影机——目光平直而专注、下颌绷紧。
+
+THIRD（第三次）——发号施令般的呼喊、抬头、目视前方看向摄影机：
+ROKO（发号施令的呼喊、抬起头的）：“OPEN!”
+
+══ BEAT 5 — TURN + CAMERA RISE（转身 + 摄影机上升，Roko 转身 180° ↔ 摄影机上升至肩部高度）══
+
+在喊出“OPEN!”之后紧接着，Roko 就地做出一个干脆、迅捷的 180° 转身——整个身体枢转，使他的背现在朝向摄影机、他的脸现在转而指向竞技场的中央面板（他原本走来的方向）。转身快速、果断、充满动态。
+
+在转身同时——手持摄影机（原本处于下方低角度位置）从低角度层次平滑上升至肩部高度。摄影师以一次连贯的自然的动作起身/抬起稳定器。到 Roko 转身完成时，摄影机已在他身后落定于肩部高度，形成 3/4 过肩构图（越过 Roko 的肩膀看向前方竞技场的中央面板）。
+
+无剪切。在整个上升过程中手持晃动持续。
+
+══ BEAT 6 — BOT EMERGES（机器人出现，摄影机保持在同一肩部高度）══
+
+摄影机保持在同一肩部高度（Roko 身后的过肩角度）——不再进一步移动。强烈的持手持晃动全程保持。Roko 在他停止的位置静立不动，面向前方的中央面板，呼吸沉重。
+
+画框前景中（偏离中心、部分入画）：Roko 的背和上半身——黑色头发、他头部左上侧的水晶块从背后/侧面可见、他裸露的背/肩。晶化右拳（依 <<<image_2>>>）在其身侧可见（偏离中心的前景），另一侧是正常的左手。
+
+画框中景/背景——位于竞技场中央、在 Roko 前方约 5-7 米处——平台的中央方形面板。至此该面板一直与地板完全齐平且无缝——作为一个独立元素不可见、与平台的其余表面无从区分。现在面板滑开（面板分段以机械动作彼此分离），新训练机器人（依 <<<image_4>>>：WEDA UNIT 07、深灰/哑光黑色装甲、蓝色目镜激活并发光、肩部/脊柱处有关节化线缆、机械关节）以沉重的液压机械升降方式穿过开口向上升起。机器人以站立姿势出现。完全升起后，地板面板分段无缝滑回地板中——关闭后地板再次完全齐平且一体，无可见缝隙。随后机器人锁定进入经典的战斗架势——双拳置于面部高度、前脚迈前、干脆的伺服机锁。
+
+Roko ↔ 新机器人之间的距离：约 5-7 米。
+
+新机器人之外的深处背景：穹顶的远端墙壁、柔和失焦。
+
+摄影机保持。Roko 保持。机器人锁定在架势中。SHOT 1 结束。硬切至 SHOT 2。
+
+[SHOT 2 — STATIC LOCKED-OFF WIDE PROFILE OF BOTH CHARACTERS, FINAL BEAT（两个角色的静态锁定广角侧面，最后一拍）]
+
+硬切至静态锁定广角镜头——完全锁定的三脚架摄影机、画框稳如磐石、无晃动、无横摇、无俯仰、无漂移、无手持移动。
+
+CAMERA POSITION（摄影机位置）：位于平台的侧面（垂直于连接 Roko 和新机器人的连线）、广角、略微抬升。两个角色均以干净的侧面呈现——侧向剪影，隔着平台互相对峙。
+
+COMPOSITION（构图）：
+— 画框的一侧：新训练机器人（依 <<<image_4>>>：WEDA UNIT 07、深灰/哑光黑色装甲、窄的横向蓝色目镜激活并发光、关节化线缆）。站在中央面板位置。呈经典战斗架势：双腿分开呈格斗站姿、双拳在面部高度举起、前脚迈前、仿若雕像般一动不动。面向 Roko（侧面、面对画框另一侧）。与 Roko 同高。
+— 画框的另一侧：ROKO 在他停止的位置——距中央面板约 5-7 米，靠近平台边缘。依 <<<image_2>>>——棕色双眼、头部左上侧的水晶块、裸露胸膛上的干涸血渍、黑色战术工装裤配大腿快拔枪套、重型战靴。晶化右拳（放大的晶拳、约为原体积的两倍、全部是带棱角的红色碎片）。左手在他身侧保持为正常的人类手。呈待战姿势：重心落定、呼吸沉重、下颌绷紧。面向新机器人（侧面）。
+— 画框中 Roko 与新机器人之间的距离：约 5-7 米。
+
+无缝的竞技场地板延伸贯穿画框（地板上无漆绘标记、无可见面板接缝——中央面板现已关闭并与地板其余部分齐平）。上方可见穹顶天花板的几何结构。来自穹顶周边的实用天花板灯具。
+
+静态锁定画框。最后一拍——Roko 和新机器人以侧面呈现，蓄势待发。战斗尚未开始——这是第一招出手之前的时刻。P04 结束。
+
+15 秒。16:9。STRUCTURE（结构）：一个长镜头手持 SHOT 1 + 一个静态 SHOT 2，两者之间有一次硬切。仅环境音效（SFX only）：全程 Roko 沉重、急促、破碎的呼吸声 · 哭泣/抽泣 · 拖腔拉长的“Yeah, bitch!”（Pinkman 式拉长元音）· 第一记沉重击胸声 · “I'm ready!” · 第二记沉重击胸声 · “I'm fucking READY!” · 第三记沉重击胸声（同时摄影机下降）· 水晶迸发——密集的矿物碎裂/锁扣声 · 晶拳握紧/松开（矿物噼啪/碾磨声）· 低语“Open.” · 短暂停顿 · 低语“Open.”（第二次）· 短暂停顿 · 发号施令的“OPEN!” · Roko 身体转身时可听见的利落嗖/呼声响（同时摄影机上升）· 机械机器人出现——沉重的液压上升 + 面板滑开 · 无缝地板闭合 · 新机器人架势锁定——干脆的伺服机锁 · 硬切 · 最终只有 Roko 沉重、破碎的呼吸声的穹顶环境静默。
