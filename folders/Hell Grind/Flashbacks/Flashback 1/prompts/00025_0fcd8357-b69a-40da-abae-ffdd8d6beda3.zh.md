@@ -1,0 +1,689 @@
+# prompt 对照 — 便利店营救战 · 冰箱玻璃门撞击（鼻梁伤口起源 · 5 镜头 · 源文件占位符缺损）
+
+## 元数据
+- job_set_id: `0fcd8357-b69a-40da-abae-ffdd8d6beda3`
+- job_type: `cinematic_studio_video_3_5`
+- source_path: `folders/Hell Grind/Flashbacks/Flashback 1/prompts/00025_0fcd8357-b69a-40da-abae-ffdd8d6beda3.txt`
+- folder_official_name: Flashback 1
+- prompt_language: en
+- translation_status: draft
+- glossary_version: v0.1
+- duration: `15s`
+- 同文案批次: 索引 21–25（5 个 job_set，逐字节相同）
+
+> 本文件对应索引 `00025`。占位符 `<<<image_N>>>` 与英文技术词（job type、模型名等）不译；关键规则保强度。
+
+---
+
+## 参考资产（原样，不译）
+
+占位符 `<<<image_N>>>` 为源文本内联图像引用，对应角色/场景参考图；具体映射见正文首节「IMAGE REFERENCES」。`reference_elements` 字段为空（`[]`）。
+
+---
+
+## 原文 (source) · 中文对照 (zh)
+
+### IMAGE REFERENCES · 参考资产
+
+**source:**
+```
+IMAGE REFERENCES (load in this exact order):
+<<<image_1>>> — Guard sheet (heavy-set bald man, navy Golden Crust uniform
+with shoulder armband, black belt, dark boots).
+<<<image_2>>> — Young Lulu sheet (10y, dark bob with bangs, blue denim
+vest over cream turtleneck, black skirt, blue-and-black striped
+tights, black boots).
+<<<image_3>>> — Young Jax sheet (10y, short dark hair with single yellow
+streak, denim jacket with patches, jeans, sneakers).
+<<<image_4>>> — Young Rein sheet (10y, grey-silver bob, single scar across
+left eye, black hoodie, purple jeans, sneakers).
+ <<<image_5>>> — Young Roco sheet (10y, messy black medium-length hair,
+NO red bandage on nose yet — face starts clean and uninjured,
+bloodied across the bridge of the nose from Shot 2 onwards, grey
+zip-up hoodie over olive t-shirt, light worn ripped jeans, dark
+sneakers).
+ <<<image_6>>> — Store interior (fluorescent ceiling tubes, packed aisles,
+fridges with glass doors on right side, cash counter near
+entrance).
+```
+**zh:**
+```
+图像参考（按此确切顺序加载）：
+<<<image_1>>> — 保安角色表（壮硕秃头男，藏青 Golden Crust 制服配肩章、黑皮带、深色靴）。
+<<<image_2>>> — 幼年 Lulu 角色表（10 岁，深色波波头带刘海，蓝牛仔马甲内搭米色高领衫，黑裙，蓝黑条纹连裤袜，黑靴）。
+<<<image_3>>> — 幼年 Jax 角色表（10 岁，黑色短发带一绺黄挑染，带补丁的牛仔夹克，牛仔裤，运动鞋）。
+<<<image_4>>> — 幼年 Rein 角色表（10 岁，灰银波波头，左眼一道疤痕，黑连帽衫，紫牛仔裤，运动鞋）。
+<<<image_5>>> — 幼年 Roco 角色表（10 岁，凌乱黑色中长发，鼻上尚无红色创可贴——脸起始干净无伤，从 Shot 2 起鼻梁处带血，灰拉链连帽衫内搭橄榄绿 T 恤，浅色旧破洞牛仔裤，深色运动鞋）。
+<<<image_6>>> — 店内（荧光灯管顶，拥挤货架，右侧玻璃门冰柜，入口附近收银台）。
+```
+
+### STYLE · 风格
+
+**source:**
+```
+STYLE: 8K IMAX photoreal cinema, Lubezki × Deakins cinematography,
+shot on physical cine lens with 180-degree shutter natural motion
+blur, 24fps cinematic cadence captured at high frame rate for
+deep slow motion playback. Pore-level skin realism — vellus hair
+on cheek, capillary flush from exertion, micro-sweat on temples,
+wet living eyes with sharp catch-lights, visible ragged breath.
+No 3D render look, no game engine, no game-cutscene aesthetic.
+```
+**zh:**
+```
+风格：8K IMAX 写实电影，Lubezki × Deakins 摄影，实拍电影镜头带 180° 快门自然运动模糊，24fps 电影节奏、以高帧率拍摄用于深度慢动作回放。毛孔级皮肤真实——脸颊汗毛、用力导致的毛细血管泛红、太阳穴微汗、带锐利眼神光的湿润活眼、可见的粗粝呼吸。无 3D 渲染感、无游戏引擎、无游戏过场动画美学。
+```
+
+### MICRO-PERFORMANCE LAYER · 微表演层
+
+**source:**
+```
+MICRO-PERFORMANCE LAYER (applies to every face in every shot):
+Every character's face in this sequence must read as a living
+breathing human, not a frozen mannequin. In every shot where any
+face is visible, the following micro-movements must be present
+constantly: natural blinking at human rhythm stretched into long
+visible blinks by the deep slow motion (more frequent under
+stress with rapid clusters); micro-saccadic eye movements where
+the gaze never locks rigidly on one point but shifts in tiny
+2-3 degree adjustments side to side; nostrils subtly flaring
+with each breath; jaw muscles tensing and releasing; the muscle
+under each eye occasionally twitching; the lower lip
+occasionally trembling; eyebrows shifting in millimeter beats;
+cheeks flushed with capillary color from exertion and
+adrenaline, ears tinted pink, wet film of tears refreshing with
+each slow blink, sweat beading on temples and tracing down. For
+the guard additionally: sweat on bald crown traveling in slow
+detail, jaw working with anger, vein pulsing at temple,
+capillaries broken across cheeks, spittle on lips during roars
+visible in slow detail. In the deep slow motion these micro-
+movements stretch into clearly visible expressive beats — every
+blink becomes a beautiful long extended moment, tears form
+slowly, muscles ripple slowly under stretched skin, sweat
+traces slowly. The faces must NEVER be still or statue-like.
+The faces must NEVER have the dead AI stare. The eyes must
+always be focused on the relevant point of the action — never
+blank, never staring into empty space, never unfocused. The
+face is constantly alive even during held beats of impact.
+```
+**zh:**
+```
+微表演层（适用于每一镜头中的每张脸）：
+本序列中每个角色的脸都必须读作活生生的呼吸中的人，而非冻结的人偶。在任何脸可见的镜头里，以下微动作必须始终存在：以人类节奏自然眨眼、被深度慢动作拉伸成长可见的眨眼（压力下更频繁、呈快速成簇）；微扫视眼动——视线从不在一点上僵滞，而以微小的 2-3 度侧向调节移动；鼻孔随每次呼吸轻微翕动；下颌肌收紧与放松；每只眼下的肌肉偶尔抽动；下唇偶尔颤抖；眉毛以毫米级节拍移动；脸颊因用力与肾上腺素而泛着毛细血管的红，耳朵染成粉红，每次缓慢眨眼湿泪膜都重新湿润，太阳穴汗珠渗出并滑下。保安额外：谢顶上的汗珠以慢细节流动，下颌因愤怒而咬动，太阳穴静脉搏动，脸颊布满破裂的毛细血管，吼叫时唇上的唾沫以慢细节可见。在深度慢动作中，这些微动作拉伸成清晰可见的表情节拍——每一次眨眼都成为一段美丽的漫长时刻，泪水慢慢形成，肌肉在拉伸的皮肤下缓慢起伏，汗珠缓慢滑下。脸【绝不】静止或如雕像。脸【绝不】出现死气沉沉的 AI 空洞凝视。眼必须始终聚焦于动作的相关点——绝不茫然、绝不凝视虚空、绝不失焦。即使在被定格的撞击节拍中，脸也持续地活着。
+```
+
+### OVERALL SCENE · 场景总述
+
+**source:**
+```
+OVERALL SCENE: A flashback fragment in five connected shots,
+entirely in uniform deep cinematic slow motion held at
+approximately 30 percent of real speed across the entire
+sequence, showing the three friends running back into the
+convenience store to save the captured girl, fighting the
+security guard with childhood ferocity, the guard wounding the
+leader's nose with a glass display case in retaliation for a
+bite, and finally being knocked unconscious with a bottle. This
+sequence ends with a permanent wound on Roco's nose — the
+origin of the red bandage we know him by. Naturalistic deep
+slow motion with proper physics. There is no spoken dialogue
+anywhere in this sequence — the entire emotional story is told
+through bodies, faces, breath, and non-verbal sounds only.
+Maintain identical faces and clothing for all characters across
+every shot, except Roco starts clean in Shot 1 and is bloodied
+across the bridge of his nose from Shot 2 onwards.
+```
+**zh:**
+```
+场景总述：五个相连镜头组成的闪回片段，整个序列统一以约实时速度 30% 的深度电影慢动作，展现三个朋友冲回便利店去救被抓住的女孩，以孩童的凶狠对抗保安，保安为报复一次咬腕用玻璃展示柜划伤领头男孩的鼻子，最终被酒瓶击昏。这一序列以 Roco 鼻上的一道永久伤口收尾——那是我们所熟悉的红创可贴的起源。自然主义的深度慢动作、物理正确。本序列任何地方都无对白——整个情感故事完全通过身体、面孔、呼吸与非语言声音讲述。所有角色在每个镜头中保持相同面容与衣着，唯 Roco 在 Shot 1 起始干净、从 Shot 2 起鼻梁处带血。
+```
+
+### SHOT 1 · 三人进入 · 视线锁定 · Lulu 挣扎 · Roco 咬腕
+
+**source:**
+```
+SHOT 1 — THE THREE ENTER, EYES LOCKED, LULU FIGHTS, ROCO BITES
+(interior, deep slow motion):
+Deep cinematic slow motion at approximately 30 percent of real
+speed. The three children burst back through the open glass
+door of the store from at full sprint, their bodies
+moving through stretched time. Roco from — clean
+uninjured face, no blood yet, eyes blazing, jaw set, nostrils
+flared, sweat beading on his brow in slow droplets, capillaries
+flushed in his cheeks — leads, his hands now empty since he
+dropped his stolen goods on the sidewalk. Jax from <<<image_5>>> and
+Rein from right behind, both faces alive with exertion
+and fury, hair lifting and falling in slow strands. Jax holds
+the single glass beer bottle in his right hand from his earlier
+load. Rein's hands are empty. As they cross the threshold into
+the store, all three children's eyes lock immediately on the
+guard in unison — the gaze of all three children pinning to him
+in the same stretched moment, jaws set, eyes hard and fierce,
+breathing through bared teeth in slow visible exhalations.
+Their three pairs of eyes converge on him as they sprint
+forward in slow stretched arc, creating a clear visual axis of
+attention from the door to the guard. The guard from <<<image_3>>>
+is in the front aisle near the cold-fridge wall — his face
+dark red with anger, eyes wide and bloodshot, jaw clenched,
+sweat tracing down his bald crown in slow visible beads — both
+his hands gripping Lulu from <<<image_4>>> by her upper arms. Lulu's
+bright colorful armload of stolen products from earlier lies
+scattered on the tile floor at her feet, knocked from her arms
+when the guard dragged her back into the store between the two
+sequences — bags of gummy candy, chocolate bars, packets of
+cheese puffs, small juice bottles spilled in a colorful splash
+on the tile. But Lulu is fighting him, not standing still. Her
+face is wet with tears and twisted with fury — eyes squeezed
+half-shut from her own effort, mouth open in a wordless growl
+of struggle stretched in slow audio, cheeks flushed red, hair
+flying in slow strands. She thrashes her body in slow violent
+detail — her small fists pound against the guard's chest and
+forearms in stretched arcs, each impact moment held for
+visibility, her tights-clad legs kick out at his shins in slow
+extended motion, her body twists left and right trying to rip
+free from his grip. She lands one small fist on his ribs, then
+another, then a kick on his knee, each contact a separate
+stretched beat. The guard's face flares with fresh anger at
+the resistance in slow stretched detail, his grip tightening,
+his jaw working. Roco does not slow down. Eyes locked on the
+guard, he launches himself at the man in deep suspended slow
+arc, his small body fully airborne for an extended moment,
+arms wrapping slowly around the guard's right gripping forearm.
+Roco's face mid-leap is alive — eyes locked on the target,
+mouth opening wide in slow detail, teeth bared, nostrils
+flared. He BITES down hard on the back of the guard's wrist,
+teeth sinking slowly into skin. The guard's face transforms in
+deeply stretched detail — eyes flying wide, pupils dilating,
+mouth opening into a roar, the vein at his temple bulging
+visibly, capillaries flushing darker. His roar of pain — purely
+wordless, raw guttural animal sound — stretches in deeply
+slowed audio, lower in pitch from the time stretch. His right
+fingers spasm slowly open on Lulu's arm. Lulu tears herself
+free in slow violent recoil, stumbling backward with her own
+momentum into Rein's open arms — Rein's face set hard, jaw
+working, eyes still locked on the guard as she catches Lulu
+and pulls her back away from the danger. Roco hangs on biting
+harder, his eyes fierce and locked, his teeth deep in the
+guard's wrist. THIS BITE IS A KEY MOMENT — held in clear
+visible detail, Roco's small face fully visible with teeth
+clamped on the larger man's wrist, the muscle of his jaw
+working, the wrist skin pinched between his teeth. Camera:
+medium-wide shot framing the entrance and front aisle action,
+the three children entering frame from the door with eyes
+locked on the guard, Lulu struggling in his grip in the
+foreground, Roco mid-leap and biting onto the guard's arm.
+Lighting: cold fluorescent overhead, warm amber spill from the
+open door behind them, a wall of glass-fronted cold fridges
+visible in frame to the side glowing with their own internal
+cold fluorescent light.
+```
+**zh:**
+```
+SHOT 1——三人进入、视线锁定、Lulu 挣扎、Roco 咬腕（室内，深度慢动作）：
+约实时速度 30% 的深度电影慢动作。三个孩子从开着的玻璃店门全速冲回，〔Roco from 占位符缺损〕，身体穿越拉伸的时间。来自〔占位符缺损〕的 Roco——干净无伤的脸，尚无血，双眼冒火，下颌绷紧，鼻孔翕动，汗珠以缓慢液滴在额头渗出，脸颊毛细血管泛红——领头，双手现已空（他把偷来的东西丢在了人行道上）。来自 <<<image_5>>> 的 Jax 与来自〔占位符缺损〕的 Rein 紧随其后，两张脸都因发力与愤怒而鲜活，头发成缕缓缓扬起又落下。Jax 右手握着他早前战利品中的那只玻璃啤酒瓶。Rein 双手空空。他们跨过门槛进入店内时，三个孩子的眼睛齐刷刷立即锁定保安——三人视线在同一拉伸瞬间钉向他，下颌绷紧，眼神坚硬凶狠，透过龇着的牙以缓慢可见的呼气呼吸。他们三人六道目光在缓缓拉伸的弧线冲刺中汇聚于他，从门口到保安形成一条清晰的注意轴线。来自 <<<image_3>>> 的保安在前通道靠近冷柜墙处——脸因愤怒涨成暗红，双眼圆睁布满血丝，下颌咬紧，汗珠沿谢顶以缓慢可见的汗珠流下——双手抓着来自 <<<image_4>>> 的 Lulu 的上臂。Lulu 早前那一抱鲜艳的偷来商品散落在她脚边的地砖上——是保安在两个序列之间把她拖回店内时从她怀里打落的——软糖袋、巧克力棒、芝士膨化袋、小瓶果汁在地上洒成一片鲜艳的斑驳。但 Lulu 在反抗他，并非站着不动。她的脸被泪水打湿、因暴怒而扭曲——眼因自身用力半眯，嘴张开发出缓慢音频中被拉长的无言挣扎低吼，脸颊涨红，头发成缕飞舞。她以缓慢暴力的细节甩动身体——小拳头以拉伸的弧捶向保安的胸口与前臂，每次撞击瞬间都为可见性而停留，她穿着连裤袜的腿以缓慢延展的动作踢向他的小腿，身体左右扭动试图挣脱他的抓握。她一拳落在他肋骨上，又一拳，再一脚踢在他膝盖上，每次接触都是独立的拉伸节拍。保安的脸以缓慢拉伸的细节因反抗而涌起新怒，抓握收紧，下颌咬动。Roco 没有减速。眼锁定保安，他以深度悬停的慢弧扑向这个男人，小身体在漫长瞬间完全腾空，双臂缓缓绕上保安的右抓握前臂。Roco 腾空中的脸是鲜活的——眼锁定目标，嘴以慢细节张大，龇牙，鼻孔翕动。他狠狠咬上保安右手腕的背面，牙齿缓慢陷进皮肤。保安的脸在深度拉伸的细节中转变——眼猛地睁大，瞳孔放大，嘴张成一声吼，太阳穴静脉明显鼓胀，毛细血管泛更深。他的痛吼——纯然无言、原始的喉音——在深度放慢的音频中拉伸，因时间拉伸而声调变低。他右手指在 Lulu 手臂上痉挛般缓缓张开。Lulu 在缓慢暴力的后坐中挣脱，带着自身动量向后跌入 Rein 张开的双臂——Rein 脸上神色坚定，下颌咬动，眼仍锁定保安，同时接住 Lulu 把她拉离危险。Roco 仍挂着咬得更狠，眼神凶狠而锁定，牙齿深深嵌在保安手腕里。【这次咬合是关键瞬间】——以清晰可见的细节定格，Roco 的小脸完全可见，牙咬在壮汉的手腕上，他下颌的肌肉在发力，腕皮肤被咬在齿间。相机：中宽景框取入口与前通道的动作，三个孩子从门口入画、视线锁定保安，Lulu 在前景他的抓握中挣扎，Roco 腾空咬上保安的手臂。布光：头顶冷荧光，身后开着的门泻入暖琥珀光，画面一侧可见一墙玻璃门冷柜以其自身的内部冷荧光发光。
+```
+
+### SHOT 2 · 保安把 Roco 的脸撞向冰箱玻璃
+
+**source:**
+```
+SHOT 2 — THE GUARD SLAMS ROCO'S FACE INTO THE FRIDGE GLASS
+(interior, deep slow motion at peak impact):
+Deep cinematic slow motion held at approximately 30 percent of
+real speed for peak emotional and physical impact, matching the
+sequence's uniform tempo. The guard from <<<image_3>>>, his right
+wrist still held in Roco's biting jaws, his face purple with
+fresh fury at the bite, his eyes wild and murderous, lets out
+a deeply stretched wordless animal roar. With his free left
+hand he reaches up in slow extended motion and grabs Roco from
+ by his messy black hair, fingers digging slowly into
+his scalp. He rips Roco off his arm with brutal force in slow
+heavy detail, Roco's teeth pulling free from the wrist, a
+visible string of saliva and a few drops of blood traveling in
+slow individual trajectories. Holding Roco by the hair, the
+guard turns his whole body in deep heavy slow motion toward
+the wall of glass-fronted cold fridges along the side of the
+aisle. He swings Roco's small body forward in slow stretched
+arc and DRIVES the boy's face forward into the glass door of
+the fridge. The instant of impact stretches into deeply
+extended time — Roco's face meets the glass in slow detail,
+his eyes squeezing shut hard, his mouth opening, his cheeks
+compressing against the surface for an extended frame. The
+glass fractures in slow spreading detail, a spider web of
+cracks blooming outward from the point of contact, fragments
+breaking loose and falling in slow individual trajectories,
+each shard catching light and casting tiny moving reflections.
+The guard does not stop — in the same continuous slow motion
+he drags Roco's face SIDEWAYS along the broken glass, a slow
+horizontal sweep across the BRIDGE OF HIS NOSE specifically —
+the cracked shards of glass scoring the skin in slow stretched
+detail directly along the horizontal line of the nasal bridge.
+The camera CUTS HARD to the next frame at the exact moment of
+the horizontal drag — we do not see flesh tearing in graphic
+detail, we see only the glass cracking, Roco's face pressed
+and moving sideways, then a clean cut. The next frame in the
+same shot: the guard releases his hair grip and shoves Roco
+backward in slow heavy motion. Roco staggers two steps back
+from the broken fridge in slow extended detail, his hands
+rising slowly to his face. A clean horizontal red gash now
+runs straight across the BRIDGE OF HIS NOSE — a single clean
+horizontal line precisely on the nasal bridge, fresh blood
+welling and beginning to run down both sides of his face in
+slow streams, dripping from his chin onto his grey hoodie in
+individually visible droplets. THIS WOUND IS A KEY MOMENT —
+the cut must be clearly visible as a clean horizontal line
+exactly across the nasal bridge, in the same position as the
+red bandage in his older reference sheets. His face is alive
+in deeply stretched horror — eyes squeezed shut for a long
+blink against the pain, then opening wet with shock, mouth
+opening to draw a sharp silent hiss of breath through clenched
+teeth, nostrils flared, jaw working. He does not cry out. He
+does not speak. He just breathes through stretched time. Lulu
+in the background gasps in slow extended detail, eyes wide
+with horror at what she sees, fresh tears welling. Rein's face
+hardens, jaw clamping shut. Camera: medium shot framing Roco
+being held by the hair and slammed into the fridge glass,
+then the side drag, then a hard cut to medium close on Roco's
+bloodied face after release. Lighting: cold fluorescent
+overhead and the cold internal glow of the broken fridge
+throwing icy white light onto Roco's bleeding face from the
+side, hard shadow under the guard's brow.
+```
+**zh:**
+```
+SHOT 2——保安把 Roco 的脸撞向冰箱玻璃（室内，撞击巅峰的深度慢动作）：
+约实时速度 30% 的深度电影慢动作，以峰值情绪与物理冲击来定格，与本序列统一节奏一致。来自 <<<image_3>>> 的保安，右手腕仍被 Roco 咬着，脸因被咬而盛怒发紫，眼神狂乱凶狠，发出一声被深度拉伸的无言兽吼。他用空出的左手在缓慢延展的动作中伸手抓住〔Roco from 占位符缺损〕的凌乱黑发，手指缓缓抠进他的头皮。他以粗暴的力量在缓慢沉重的细节中把 Roco 从手臂上拽开，Roco 的牙齿从手腕拔出，一条可见的唾液混着几滴血以各自缓慢的轨迹移动。保安抓着 Roco 的头发，整个身体在深度沉重的慢动作中转向前通道一侧那墙玻璃门冷柜。他把 Roco 的小身体以缓慢拉伸的弧向前甩，【把男孩的脸猛推向冰箱的玻璃门】。撞击瞬间拉伸成深度延展的时间——Roco 的脸以慢细节撞上玻璃，眼用力紧闭，嘴张开，脸颊在延展的帧里被压扁在玻璃面上。玻璃以缓慢扩散的细节碎裂，裂纹从接触点如蛛网般向外绽放，碎片松脱、以各自缓慢的轨迹坠落，每一片碎片承接光线、投下细小的流动反光。保安没有停——他在同一连续慢动作中把 Roco 的脸沿碎玻璃【横向】拖拽，尤其是一次横跨【鼻梁】的缓慢水平扫过——碎裂的玻璃片以缓慢拉伸的细节直接沿鼻梁的水平线划开皮肤。镜头在横向拖拽的【那一刻硬切】到下一帧——我们看不到血肉撕裂的血腥细节，只看到玻璃碎裂、Roco 的脸被按着侧移，然后一道干净的割口。同一镜头的下一帧：保安松开抓发，以缓慢沉重的动作把 Roco 向后推。Roco 以缓慢延展的细节从裂冰柜踉跄后退两步，双手缓缓举向脸。一道干净的水平红色裂口此刻【笔直横贯他的鼻梁】——一条精确落在鼻梁上的干净水平线，鲜血涌出、开始以缓慢细流沿脸两侧流下，从下巴滴落到他的灰连帽衫上、颗颗可见。【这道伤口是关键瞬间】——割口必须清晰可见为一条恰好横贯鼻梁的干净水平线，与他更早期参考表中的红创可贴在同一位置。他的脸在深度拉伸的恐惧中鲜活——眼因疼痛为一次长眨眼而紧闭，随即湿着震惊地睁开，嘴张开、透过咬紧的牙缝倒抽一口尖锐无声的冷气，鼻孔翕动，下颌咬动。他不哭喊。他不说话。他只是透过拉伸的时间呼吸。背景里的 Lulu 以缓慢延展的细节抽气，眼因所见而震惊地睁大，新泪涌出。Rein 的脸转硬，下颌咬紧。相机：中景框取 Roco 被抓住头发、撞向冰箱玻璃，然后是侧拖，再硬切到松手之后 Roco 带血的脸的中近。布光：头顶冷荧光，碎裂冰箱的内部冷光从侧面把冰冷白光投到 Roco 流血的脸上，保安眉下硬阴影。
+```
+
+### SHOT 3 · Rein 的绊倒 · SHOT 4 · 保安抓 Rein
+
+**source:**
+```
+SHOT 3 — REIN'S TRIP (interior aisle, deep slow motion at
+impact):
+Deep slow motion held at approximately 30 percent of real
+speed matching the sequence's uniform tempo. The guard from
+<<<image_3>>>, his face now fully purple with rage, his bitten
+wrist bleeding, lunges forward toward Roco from —
+Roco who is staggering backward in slow detail, blood running
+down his face from the fresh nose wound in two slow streams,
+trying to get away. From between two shelves on the side,
+Rein from — silent and calculating despite the horror
+of what just happened to her friend, her face set in cold
+focus, eyes narrow, jaw tight — suddenly steps out and shoots
+her leg out hard at ankle height in slow precise extended
+motion. The guard's heavy boot catches on her shin in slow
+stretched detail. His face transforms in deeply extended
+shock — eyes flying wide, mouth opening into an O of surprise,
+eyebrows shooting up, the moment stretching into a beautiful
+long pause of dawning realization, every muscle change
+visible. His massive body goes airborne in deep slow
+suspension, arms windmilling slowly, his face shocked and
+stretched, the heavy mass of his torso visibly rotating
+forward in slow detail. He CRASHES forward onto the tile
+floor with a deeply stretched whump, sliding two feet in slow
+detail, products from the lower shelves spilling and bouncing
+slowly around him — cans rolling individually in stretched
+arcs, packets tumbling end over end in slow rotation, a few
+items hitting the tile at separate stretched beats. Roco
+skids to a stop ahead and turns back, blood still running
+from his nose in slow streams, face flushed, panting in
+stretched rhythm, eyes blinking slowly through the blood.
+Lulu and Rein stand together off to the side — Lulu's face a
+mix of terror and relief in stretched detail, eyes wet and
+blinking slowly, Rein's face set in cold satisfaction, her
+chest rising and falling slowly, jaw working. Camera: medium-
+wide shot catching the guard's full fall in frame, Roco
+visible in foreground with his bleeding face. Lighting: cold
+fluorescent, hard shadow as the guard hits the floor.
+
+SHOT 4 — THE GUARD GRABS REIN (interior, recovery, deep slow
+motion):
+Deep slow motion held at approximately 30 percent of real
+speed matching the sequence's uniform tempo. The guard from
+<<<image_3>>> pushes himself up from the tile in deep heavy slow
+effort — his face purple with rage and humiliation, eyes
+bloodshot and wild, jaw working, sweat dripping from his bald
+crown in slow visible beads, breathing heavily through bared
+teeth, the vein at his temple pulsing visibly in stretched
+rhythm. He sees Rein closest. He lunges and grabs her by the
+front of her black hoodie with both hands in slow extended
+detail, lifts her small body half off the floor in slow arc,
+her sneakers leaving the tile in slow detail. Rein's face
+transforms in deeply stretched time — her cool composure
+breaking, eyes flying wide with sudden fear, mouth opening,
+lips trembling, fresh tears welling instantly in her lower
+lids, blinking rapidly. Her sneakers dangle slowly. She gasps,
+chest heaving — a wordless sharp intake of breath, no name,
+no words, just a deeply stretched gasp of panic. Roco from
+ — still bleeding from the nose, blood running down
+his chin and onto his hoodie in slow streams — starts to
+charge in to help in slow detail, his face a mask of fury
+through the blood, eyes blazing through the red, teeth bared,
+hair flying, hands balling into fists. The guard pulls back
+his fist to strike Rein in slow building threat, his face
+dark and twisted, lips pulled back from his teeth. Rein's
+face holds the moment in deeply stretched horror — eyes
+locked on the incoming fist, body bracing, a single tear
+finally escaping the corner of her eye and beginning to trace
+slowly down her flushed cheek. Camera: medium two-shot
+framing the guard lifting Rein, her dangling boots, his
+raised fist. Lighting: cold fluorescent overhead, hard shadow
+under the guard's brow.
+```
+**zh:**
+```
+SHOT 3——Rein 的绊倒（室内过道，撞击的深度慢动作）：
+约实时速度 30% 的深度慢动作，与本序列统一节奏一致。来自 <<<image_3>>> 的保安，脸此刻因暴怒完全发紫，被咬的手腕流血，朝〔Roco from 占位符缺损〕的 Roco 前扑——Roco 正以慢细节踉跄后退，血从新鼻伤以两道细流沿脸流下，试图逃脱。从一侧两排货架之间，〔Rein from 占位符缺损〕的 Rein——尽管朋友刚遭遇可怕的事，仍沉默而算计，脸上是冷峻的专注，眼眯起，下颌绷紧——突然迈出，在缓慢精确延展的动作中朝脚踝高度猛伸腿。保安的厚重靴子在缓慢拉伸的细节中踢在她的小腿上。他的脸在深度延展的震惊中转变——眼猛地睁大，嘴张成惊讶的 O 形，眉毛高高扬起，瞬间拉伸成一段美好漫长的、恍然大悟的停顿，每一次肌肉变化都清晰可见。他庞大的身躯在深度慢悬停中腾空，双臂缓缓如风车乱挥，脸震惊而拉伸，躯干的沉重质量在慢细节中可见地向前翻转。他以深度拉伸的闷响【向前砸在】地砖上，以慢细节滑行两英尺，低层货架的货品在他四周缓慢散落弹跳——罐子在拉伸的弧中逐个滚动，包装袋在慢速旋转中翻着跟头，几件物品以各自拉伸的节拍砸向地砖。Roco 在前方急停转身，血仍从鼻中以慢细流流下，脸通红，以拉伸的节奏喘息，眼透过血缓慢眨动。Lulu 与 Rein 并排站在一侧——Lulu 的脸是恐怖与解脱交织的拉伸细节，眼湿润缓慢眨动，Rein 的脸是冷峻的满意，胸膛缓慢起伏，下颌咬动。相机：中宽景捕捉保安整体的摔落在画面内，Roco 带血的脸在前景可见。布光：冷荧光，保安砸地时硬阴影。
+
+SHOT 4——保安抓 Rein（室内，恢复，深度慢动作）：
+约实时速度 30% 的深度慢动作，与本序列统一节奏一致。来自 <<<image_3>>> 的保安以深度沉重的慢努力从地砖上撑起身——他的脸因愤怒与屈辱发紫，眼布满血丝而狂乱，下颌咬动，汗珠从谢顶以慢可见的汗珠滴落，透过龇着的牙粗重地呼吸，太阳穴静脉以拉伸的节奏明显搏动。他看到 Rein 最近。他扑过去、双手在缓慢延展的细节中抓住她黑连帽衫的前襟，以慢弧把她的小身体提离地面半截，她的运动鞋以慢细节离开地砖。Rein 的脸在深度拉伸的时间里转变——她冷静的从容瓦解，眼因突然的恐惧猛地睁大，嘴张开，唇颤抖，新泪即刻在下眼睑涌出，快速眨动。她的运动鞋缓缓悬晃。她抽气，胸膛起伏——一声无言的急促吸气，没有名字、没有字词，只是一声深度拉伸的恐慌抽气。来自〔占位符缺损〕的 Roco——仍从鼻子流血，血沿下巴流到连帽衫上、成慢细流——开始以慢细节冲来相助，他的脸是透过血的一张愤怒面具，眼透过红色冒火，龇牙，头发飞舞，双手攥成拳。保安拉回拳头以缓慢蓄势的威胁击向 Rein，脸阴沉扭曲，唇从齿间后收。Rein 的脸在深度拉伸的恐惧中僵持这个瞬间——眼锁定逼近的拳头，身体绷紧，一滴泪终于从她眼角溢出、开始沿她泛红的脸颊缓慢滑下。相机：中景双人框取保安举起 Rein、她悬晃的靴子、他举起的拳头。布光：头顶冷荧光，保安眉下硬阴影。
+```
+
+### SHOT 5 · 酒瓶 · 击倒（含收尾定格）
+
+**source:**
+```
+SHOT 5 — THE BOTTLE (interior, knockout, deep slow motion):
+Deep slow motion held at approximately 30 percent of real
+speed matching the sequence's uniform tempo. From behind the
+guard, Jax from <<<image_5>>> has charged in silently holding the
+single glass beer bottle from his earlier stolen load, gripped
+in both hands above his head, his face fierce and tear-
+streaked — eyes red-rimmed and wet, tears tracking slowly
+down his cheeks in individually visible trails, mouth open in
+a wordless battle cry of pure rage stretched in deep audio,
+jaw clenched hard, nostrils flared, the yellow streak in his
+hair flying. Jax swings the bottle down in slow building arc
+with all his small body weight onto the back of the guard's
+bald head. The moment of impact stretches into deeply
+extended time — Jax's face contorted in the effort of the
+swing, every muscle visible, sweat flying from his temple in
+suspended slow droplets. The bottle SHATTERS on the bald
+skull, glass fragments spraying outward in slow individual
+trajectories, beer foam exploding in suspended droplets, each
+glass shard catching the fluorescent light in distinct flares.
+The guard's face slackens in slow detail — his eyes rolling
+back into his head, eyelids fluttering closed in stretched
+detail, mouth going slack, jaw dropping open, all the rage
+draining from his features in a deeply extended stretched
+moment, the muscle tension visibly releasing. His hands
+release Rein in slow detail. His knees buckle. His heavy body
+collapses face-down onto the tile in deep slow heavy descent
+with a deeply stretched whump. He does not move. Rein drops
+onto her feet in slow recovery, gasping, her face wet with
+tears, eyes blinking slowly, chest heaving in stretched
+rhythm. Roco arrives, panting hard, his face still streaked
+with the fresh blood from the fridge wound, the gash across
+his nose still weeping red, eyes blinking slowly as he takes
+in the scene. Lulu stands behind them, eyes wide and welling,
+mouth slightly open, breathing slowly. The four children
+stand around the fallen guard in stunned deeply slowed
+silence — every face alive with exhaustion, adrenaline, and
+shock, every breath visible. Roco lifts his hand to his
+bloodied nose slowly, touches the wound with his fingertips
+in slow detail, looks at the red on his fingers in deeply
+stretched time, blinks again slowly, then looks up at his
+friends. His eyes are wet. His jaw works slowly. He does not
+cry out, does not speak — just breathes through his teeth in
+stretched ragged silence. Camera: medium-wide static shot
+framing all four children and the fallen guard in one tableau.
+Roco foreground touching his bloodied nose, Jax center with
+the broken bottleneck still in his hand and tears on his
+cheeks, Rein and Lulu background breathing hard. Lighting:
+cold fluorescent overhead, brief practical sparkle from the
+breaking glass amplified by deep slow motion into individual
+flares from each fragment, blood on Roco's face catches
+fluorescent light wet and dark.
+```
+**zh:**
+```
+SHOT 5——酒瓶（室内，击倒，深度慢动作）：
+约实时速度 30% 的深度慢动作，与本序列统一节奏一致。从保安身后，来自 <<<image_5>>> 的 Jax 无声地冲入，手持他早前偷来的那只玻璃啤酒瓶，双手举过头顶，脸凶狠、泪痕斑斑——眼框发红湿润，泪沿双颊以颗颗可见的痕迹缓慢滑下，嘴张开发出纯怒的无言战吼、在深音频中被拉伸，下颌咬紧，鼻孔翕动，头发中的黄挑染飞舞。Jax 以全部小体重把酒瓶以缓慢蓄势的弧挥下，砸在保安谢顶后脑上。撞击瞬间拉伸成深度延展的时间——Jax 的脸因挥击用力而扭曲，每一块肌肉可见，汗珠以悬停的慢液滴从太阳穴飞甩。酒瓶在谢顶上【炸碎】，玻璃碎片以各自缓慢的轨迹向外飞溅，啤酒泡沫以悬停的液滴爆开，每一片玻璃碎渣以分明的耀斑承接荧光。保安的脸以慢细节松弛——眼珠翻向脑内，眼皮以拉伸的细节轻颤闭拢，嘴松弛，下巴垂落打张，所有愤怒在深度延展的拉伸瞬间从他脸上流失，肌肉张力可见地释放。他以慢细节松开 Rein。膝盖弯曲。沉重身体在深度缓慢沉重下降中面部朝下【塌落】在地砖上，深度拉伸的闷响。他不动。Rein 在缓慢恢复中双脚落下，抽气，脸被泪水打湿，眼缓慢眨动，胸膛以拉伸的节奏起伏。Roco 赶到，喘着粗气，脸仍布满冰柜伤的新鲜血，鼻上的割口仍在渗红，眼缓慢眨动扫视现场。Lulu 站在他们身后，眼睁大、泪光盈满，嘴微张，缓慢呼吸。四个孩子以呆怔的深度放慢的静默站在倒下的保安四周——每张脸都因疲惫、肾上腺素与震惊而鲜活，每一次呼吸都可见。Roco 缓缓把手举向他流血的鼻子，指尖以慢细节触碰伤口，在深度拉伸的时间里看着手指上的红色，又缓缓眨了眨眼，然后抬头看向朋友。他的眼湿润。下颌缓慢开合。他不哭喊、不说话——只是透过牙关在拉伸的粗粝静默中呼吸。相机：中宽静态镜头，把四个孩子与倒下的保安框进一个定格画面。Roco 在前景触碰他流血的鼻子，Jax 居中、手里仍握着砸碎的瓶颈、双颊带泪，Rein 与 Lulu 在背景里粗重呼吸。布光：头顶冷荧光，玻璃碎裂的短暂实拍闪光被深度慢动作放大成每片碎片的分明耀斑，Roco 脸上的血湿润而暗地承接荧光。
+```
+
+### OVERALL SLOW MOTION / LIGHTING / CAMERA ARC · 慢动作/布光/镜头弧总述
+
+**source:**
+```
+OVERALL SLOW MOTION ARC: The entire sequence is held in
+uniform deep cinematic slow motion at approximately 30 percent
+of real speed across all five shots — a single sustained
+tempo creating an epic ten-second meditation on childhood
+violence. Every moment, every breath, every drop of blood and
+sweat and beer foam, every shard of broken glass moves at the
+same deeply extended pace. The uniform tempo creates
+continuous emotional weight rather than rhythmic peaks and
+valleys. All slow motion is naturalistic and cinematic, never
+stylized bullet-time, never freeze-frame, never strobing.
+
+OVERALL LIGHTING ARC: All five shots interior cold fluorescent,
+with warm amber spill from the open front door in Shot 1, and
+the additional cold internal glow of the broken fridge
+throwing icy light onto Roco's face in Shot 2. Hard shadows
+under the guard's brow throughout — Deakins-style menace.
+Atmospheric haze. Color palette 60:30:10 — dominant cold
+white-green fluorescent, secondary navy of guard's uniform,
+accent the wet red of Roco's nose blood from Shot 2 onwards
+and the fresh red of the bite wound on the guard's wrist, plus
+the bright spilled candy on the tile floor in Shot 1.
+
+OVERALL CAMERA RHYTHM: Five distinct camera setups. Shot 1
+medium-wide entrance with eyes locked and bite. Shot 2 medium
+shot of the fridge slam with hard cut to bloodied face. Shot 3
+medium-wide trip and fall. Shot 4 medium two-shot of Rein
+lifted. Shot 5 medium-wide locked-off tableau. Hard cuts
+between shots.
+```
+**zh:**
+```
+慢动作弧总述：整个序列在全部五个镜头中统一以约实时速度 30% 的深度电影慢动作——单一持续的节奏，营造一场关于童暴力的史诗式十秒沉思。每一瞬间、每一次呼吸、每一滴血、汗与啤酒泡沫、每一片碎玻璃，都以同样深度延展的节奏运动。统一节奏创造持续的情绪重量，而非节律的峰谷。所有慢动作都是自然主义的电影感，绝非风格化子弹时间、绝非凡格、绝无频闪。
+
+布光弧总述：五个镜头均为室内冷荧光，Shot 1 有开着的正门泻入的暖琥珀光，Shot 2 另有碎裂冰箱的内部冷光把冰冷的光投到 Roco 脸上。全片保安眉下硬阴影——Deakins 式的险恶。大气雾霾。色板 60:30:10——以冷白绿荧光为主，藏青保安制服次级，点缀从 Shot 2 起 Roco 鼻血的湿润红、保安腕上咬伤的新鲜红，外加 Shot 1 地砖上鲜艳的散落糖果。
+
+镜头节奏总述：五个不同机位。Shot 1 中宽入口、视线锁定与咬。Shot 2 中景冰箱撞击、硬切到血脸。Shot 3 中宽绊倒与摔落。Shot 4 中景双人、Rein 被举起。Shot 5 中宽锁定的定格画面。镜头间硬切。
+```
+
+### AUDIO · 音频
+
+**source:**
+```
+AUDIO: Diegetic environmental SFX and natural breath only,
+all deeply stretched naturally to match the uniform deep slow
+motion visuals — no spoken words anywhere, only non-verbal
+vocal sounds, body sounds, and environmental SFX. All audio
+pitched slightly lower from the deep time stretch but still
+clearly readable. Allowed sounds — Shot 1: deep slow pounding
+running footsteps of three children on tile, the deeply
+stretched BANG of the door swinging again, Lulu's wordless
+growl of struggle stretched in deep slow motion, the muffled
+deeply stretched thuds of her small fists striking the
+guard's chest and forearms, the soft impact of her boot
+kicking his shin, fabric tearing slightly under her grip
+stretched, the guard's grunt of irritation at the resistance,
+Roco's slow grunt of effort as he leaps stretched, the wet
+stretched impact of his teeth on the guard's wrist, the
+guard's wordless raw guttural roar of pain stretched into a
+much deeper longer bellow — no words, no language, just
+animal sound, Lulu's stretched gasp as she tears free, slow
+fabric scuffling, the soft crunch of spilled candy wrappers
+underfoot. Shot 2: the guard's furious wordless second roar
+at the bite stretched in deep audio, the deeply stretched
+thud of his hand grabbing Roco's hair, Roco's small grunt of
+pain from the hair pull stretched, the deep stretched whump
+of the boy's face hitting the fridge glass, the sharp musical
+crackle of glass fracturing in deep extended detail with each
+crack individually audible, the slow grinding sound of the
+face being dragged sideways across the cracked surface
+stretched, Roco's sharp silent hiss of breath through clenched
+teeth as he is shoved backward, his deeply stretched ragged
+breathing through the pain. Shot 3: deeply stretched guard
+footsteps, the hard crack of his boot catching Rein's shin
+stretched into a much deeper impact, the slow windmilling
+clatter, the deeply stretched whump of his body hitting tile,
+products spilling and bouncing slowly on the floor in distinct
+deeply rhythmic taps, Roco's slow ragged panting through
+bloodied lips. Shot 4: the guard's deeply slowed furious
+breathing, the slow fabric snap of him grabbing Rein's hoodie
+stretched, Rein's wordless sharp gasp of panic stretched in
+deep slow motion, Roco's slowed running footsteps with the
+wet sound of blood dripping. Shot 5: silent fast running
+footsteps from Jax behind deeply slowed, his wordless battle
+cry of rage stretched much lower in pitch from the deep time
+stretch — no words, no language, just raw vocal fury, the
+loud bright crash of the glass bottle shattering on bone
+stretched into a deeply extended explosion of glass, the
+metallic spray of glass fragments hitting tile in distinct
+individual clinks, the deeply stretched whump of the guard's
+body collapsing onto the floor, sudden held silence, then
+four sets of slow ragged child breathing, Roco's wet
+breathing through his bleeding nose stretched. No music of
+any kind across the entire sequence. No score. No soundtrack.
+No background music. No instrumental tones. No ambient
+drones. No emotional underscore. No tension-building audio.
+No cinematic music cues. No dialogue. No spoken words from
+any character. No voiceover. No subtitles.
+```
+**zh:**
+```
+音频：仅叙事内环境音效与自然呼吸，全部自然深度拉伸以匹配统一的深度慢动作画面——任何地方都无台词，只有非语言的发声、身体声与环境音效。所有音频因深度时间拉伸而声调略低、但仍清晰可辨。允许的声音——Shot 1：三个孩子在地砖上的深度缓慢沉重奔跑脚步、门再次摆动的深度拉伸砰响、Lulu 在深度慢动作中被拉伸的无言挣扎低吼、她小拳头击打保安胸口与前臂的闷沉拉伸闷响、她靴子踢小腿的轻柔撞击、布料在她抓握下被拉伸的轻微撕裂、保安因反抗而发出的烦躁咕哝、Roco 腾起时被拉伸的缓慢发力闷哼、他牙齿咬上保安手腕的湿润拉伸撞击、保安被拉伸成更低沉更长的无言原始喉音痛吼——无字词、无语言、只有兽性之声、Lulu 挣脱时的拉伸抽气、缓慢的布料摩擦、脚底散落糖果包装纸的轻柔脆响。Shot 2：保安因被咬而盛怒的无言第二声吼（在深音频中拉伸）、他手抓 Roco 头发的深度拉伸闷响、Roco 因扯发而发出的细小疼痛闷哼（被拉伸）、男孩的脸撞上冰箱玻璃的深度拉伸闷响、玻璃在深度延展细节中碎裂的尖锐清脆（每一道裂纹都各自清晰可闻）、脸被沿碎裂表面横向拖拽的缓慢磨擦声（被拉伸）、Roco 被向后推时透过牙缝的尖锐无声冷气、他挺过疼痛的深度拉伸粗粝呼吸。Shot 3：深度拉伸的保安脚步、靴子踢到 Rein 小腿的硬响（被拉伸成更沉的撞击）、缓慢的风车乱挥杂响、身体砸地砖的深度拉伸闷响、货品以分明而深具韵律的敲击在地上缓慢散落弹跳、Roco 透过染血嘴唇的缓慢粗粝喘息。Shot 4：保安深度放慢的盛怒呼吸、他抓 Rein 连帽衫的缓慢布料啪响（被拉伸）、Rein 在深度慢动作中被拉伸的无言恐慌急吸气、Roco 放慢的奔跑脚步混着血液滴落的湿声。Shot 5：Jax 从身后冲来的无声快速脚步（被深度放慢）、他因深度时间拉伸而声调降得更低的愤然无言战吼——无字词、无语言、只有原始的声音怒火、玻璃瓶在骨上碎裂的响亮清脆（被拉伸成一次深度延展的玻璃爆炸）、玻璃碎片落地砖的金属喷溅（分明的砰砰声）、保安身体砸向地面的深度拉伸闷响、骤然持续的静默、而后四组缓慢粗粝的孩童呼吸、Roco 透过流血的鼻子被拉伸的湿润呼吸。整个序列任何地方都无音乐。无配乐。无原声。无背景音乐。无器乐音调。无环境低鸣。无情绪配乐。无制造张力的音频。无电影音乐提示。无对白。无任何角色的台词。无旁白。无字幕。
+```
+
+### CONSTRAINTS · 约束
+
+**source:**
+```
+CONSTRAINTS: Stable smooth footage across all 5 shots in
+uniform deep slow motion. Maintain identical faces and
+clothing for the guard from <<<image_3>>>, Lulu from <<<image_4>>>, Jax
+from <<<image_5>>>, Rein from , and Roco from in
+every shot they appear in — no identity drift. Maintain
+interior layout from . CRITICAL CONTINUITY RULE FOR
+ROCO: In Shot 1, Roco's face is completely clean and
+uninjured — no red bandage, no scar, no mark on his nose.
+The bandage from his reference image must NOT appear
+in Shot 1. The wound appears on the bridge of his nose during
+Shot 2 — a clean horizontal red gash exactly across the
+bridge of the nose from being dragged across the cracked
+fridge glass — and remains visible with fresh wet blood
+running down his face for the rest of the sequence in Shots
+3, 4, and 5. The blood is realistic but contained — the gash
+is a thin clean horizontal line about three centimeters long
+exactly on the bridge of the nose, in the precise position
+of the red bandage in his older reference sheets, blood
+welling and running in two thin streams down both sides of
+his face, dripping from his chin onto his hoodie. Not
+gushing or pooling, but clearly visible and continuously
+fresh. CRITICAL DIALOGUE RULE: There is no spoken dialogue
+anywhere in this sequence. No words from any character. The
+guard's roars in Shots 1 and 2, Rein's gasp in Shot 4, Jax's
+battle cry in Shot 5, and Lulu's growl of struggle in Shot 1
+are all purely non-verbal vocal sounds — no language, no
+names, no words, just raw emotional sound, all deeply
+stretched in pitch and length from the slow motion. Roco does
+not cry out when his face is slammed into the glass or when
+his nose is cut — only a sharp silent hiss of breath through
+clenched teeth, and ragged wet breathing afterward. The
+emotional story is told entirely through bodies, faces,
+breath, and non-verbal sounds. CRITICAL EYES-LOCKED RULE FOR
+SHOT 1: When the three children enter the store, all three
+must visibly fix their gaze on the guard simultaneously —
+Roco, Jax, and Rein all looking at him in unison as they
+sprint forward. Their eyes do not scan the room, do not look
+at Lulu first, do not search — they go straight to the guard
+and lock on him. CRITICAL LULU-FIGHTS RULE FOR SHOT 1: Lulu
+must be actively fighting the guard during the entry, not
+standing passive in his grip. She thrashes her body, swings
+her small fists at his chest and forearms, kicks at his
+shins, twists violently to break free, bares her teeth in a
+wordless growl of struggle. Her stolen products are already
+on the floor at her feet from earlier, scattered. CRITICAL
+BITE RULE FOR SHOT 1: The bite is a key moment of the
+sequence. Roco's small face is fully visible with his teeth
+clamped onto the back of the guard's wrist, the wrist skin
+pinched between his teeth, the muscle of his small jaw
+working to hold the bite. The bite shows teeth on skin and a
+clear bite mark with small bleeding — no torn flesh, no
+graphic gore, but the bite is clearly held and visible for
+an extended slow-motion beat. CRITICAL FRIDGE-WOUND RULE FOR
+SHOT 2: This is the most violent moment of the sequence and
+a key story beat — the origin of Roco's permanent nose
+bandage. The guard grabs Roco by the hair after the bite as
+revenge. He swings the boy's body forward and slams his face
+into the glass door of a cold fridge. The glass cracks and
+spider-webs but does not fully shatter inward — it cracks
+where the face hits. Then in the same continuous motion the
+guard drags the boy's face sideways across the cracked glass,
+the sharp shards scoring a clean horizontal cut precisely
+across the bridge of the nose. The cut must be exactly
+horizontal, exactly on the nasal bridge, in the same position
+where the red bandage will later appear in older reference
+images. The camera does NOT show graphic flesh tearing — we
+see the glass cracking, we see the face pressed against the
+glass moving sideways, then we cut to the aftermath: Roco
+shoved back, hands rising to his bloodied face, the
+horizontal gash already there, blood already running. The
+cut is a clean thin horizontal line across the bridge of the
+nose, not a gaping wound. Realistic but restrained. CRITICAL
+FACIAL PERFORMANCE RULE: Every face in every shot must read
+as a living breathing human being — never frozen, never
+statue-like, never with the dead AI stare. Constant micro-
+movement is required as specified in the MICRO-PERFORMANCE
+LAYER. The eyes must always be focused on the relevant point
+of action — never blank, never staring into empty space,
+never unfocused. In the deep slow motion these micro-
+movements stretch into clearly visible expressive beats.
+CRITICAL UNIFORM SLOW MOTION RULE: The slow motion must be
+uniformly held at approximately 30 percent of real speed
+across all five shots — no shot speeds up, no shot slows
+further. NOT stylized bullet-time, NOT freeze-frame, NOT
+strobing high-shutter slow motion. The slow motion must read
+as emotional weight and physical consequence, not as visual
+effect. Hair, fabric, glass fragments, beer foam, falling
+products, dropping body, swinging fists, blood drops, sweat
+beads all move with proper inertia and gravity through the
+deeply slowed time. CRITICAL VIOLENCE RULES: Lulu's struggle
+in Shot 1 is the size and strength of a 10-year-old child —
+small fists, small kicks, no real damage done to the adult
+guard, just frantic resistance. The guard's grip on her arms
+must look firm and adult-strong but not cruel. The bite in
+Shot 1 shows teeth on skin with small bleeding — clearly
+visible bite, no torn flesh, no graphic wound. The fridge
+slam and drag in Shot 2 is shown without graphic gore — the
+glass cracks, the face moves across the cracked surface,
+then we cut to the aftermath of a clean horizontal cut
+across the bridge of the nose. No shards in the eye, no deep
+mutilation, no graphic mess. The trip in Shot 3 is clean
+physical fall — no graphic injury to the guard from the
+fall. The bottle in Shot 5 hits the back of the bald head
+from behind — no visible blood on the guard's head from the
+bottle, no graphic head wound shown, just the shatter, the
+eye-roll, and the body drop. Roco's nose blood from Shot 2
+onwards is realistic but restrained — a thin horizontal gash
+precisely across the nose bridge, blood running in two
+streams down his face, dripping from chin onto hoodie, but
+not gushing or pooling. Anatomically correct child and adult
+proportions. Realistic gravity on cloth, hair, falling
+glass, falling body, spilled products, swinging fists, blood
+drops through deep slow motion. The guard moves with
+appropriate physical mass throughout. The grip on Rein's
+hoodie in Shot 4 must look hard but not cruel. Hard cuts
+between the 5 shots, no transitions, no fades, no dissolves.
+Strictly no music, no score, no soundtrack, no instrumental
+audio of any kind throughout — only diegetic environmental
+sound and non-verbal vocal sounds from the location.
+```
+**zh:**
+```
+约束：全部 5 个镜头画面稳定平滑、统一深度慢动作。保安来自 <<<image_3>>>、Lulu 来自 <<<image_4>>>、Jax 来自 <<<image_5>>>、Rein 来自〔占位符缺损〕、Roco 来自〔占位符缺损〕，在他们出现的每个镜头中保持相同面容与衣着——无身份漂移。维持〔占位符缺损〕的店内布局。ROCO 关键连续性规则：在 Shot 1 中，Roco 的脸完全干净无伤——无红创可贴、无疤痕、鼻上无任何痕迹。他参考图中的创可贴【绝不允许】出现在 Shot 1。伤口在 Shot 2 中出现于他鼻梁上——一道恰好横贯鼻梁的干净水平红裂口（因沿碎裂玻璃被拖拽所致）——并在 Shot 3、4、5 的其余序列中保持可见、新鲜湿润的血沿脸流下。血真实但克制——裂口是一条约三厘米长、恰好落在鼻梁上、位于他更早期参考表中红创可贴精确位置的细净水平线，血涌出、以两道细流沿脸两侧流下，从下巴滴到连帽衫上。不是涌流或积聚，但清晰可见、持续新鲜。关键对白规则：本序列任何地方都无对白。任何角色都无字词。保安在 Shot 1 与 2 的吼叫、Rein 在 Shot 4 的抽气、Jax 在 Shot 5 的战吼、Lulu 在 Shot 1 的挣扎低吼都是纯粹非语言的发声——无语言、无名字、无字词，只有原始的情绪之声，全部因慢动作而在音高与长度上被深度拉伸。Roco 的脸被撞向玻璃时、鼻子被划伤时都不哭喊——只有透过咬紧牙缝的尖锐无声冷气，其后是粗粝的湿润呼吸。情感故事完全通过身体、面孔、呼吸与非语言声音讲述。SHOT 1 关键视线锁定规则：三个孩子进入店内时，三人必须明显地同时把视线定在保安身上——Roco、Jax、Rein 在冲刺向前时齐刷刷看向他。他们的眼不扫视房间、不先看 Lulu、不搜寻——径直看向保安并锁定他。SHOT 1 关键 Lulu-反抗规则：进场过程中 Lulu 必须主动反抗保安，而非被动地待在他抓握里。她甩动身体、小拳头挥向他的胸口与前臂、踢向他小腿、剧烈扭动以挣脱、龇牙发出无言挣扎低吼。她偷来的货品早已散落在脚边的地上。SHOT 1 关键咬合规则：这次咬合是序列的关键瞬间。Roco 的小脸完全可见、牙咬在保安手腕背面，腕皮肤被咬在齿间，他小下颌的肌肉发力以维持咬合。咬合展现牙齿咬皮肤与一道带少量出血的清晰咬痕——无撕裂的肉、无血腥，但咬合清晰保持、在一个延展的慢动作节拍中可见。SHOT 2 关键冰柜伤口规则：这是序列最暴力的瞬间、也是关键剧情节点——Roco 永久鼻创可贴的起源。保安在咬腕之后抓住 Roco 的头发作为报复。他把男孩的身体向前甩、脸撞向冷柜的玻璃门。玻璃裂纹成蛛网但未完全向内碎裂——在脸撞击处裂开。随即在同一连续动作中保安把男孩的脸沿碎裂玻璃横向拖拽，锐利碎片精确地在鼻梁上划出一道干净的水平割口。割口必须【完全水平】、恰好落在鼻梁上、位于更早期参考图中红创可贴后来出现的位置。镜头【不】展现血腥的血肉撕裂——我们看到玻璃碎裂、看到脸被按着侧移，然后切到事后的画面：Roco 被向后推、双手举向血脸，水平裂口已经在那里，血已经在流。割口是横贯鼻梁的一道干净细水平线，而非豁开的伤口。真实但克制。关键面部表演规则：每个镜头中的每张脸都必须读作活生生的呼吸中的人——绝不冻结、绝不如雕像、绝不出现死气沉沉的 AI 空洞凝视。必须按微表演层的规格持续微动作。眼必须始终聚焦于动作的相关点——绝不茫然、绝不凝视虚空、绝不失焦。在深度慢动作中这些微动作拉伸成清晰可见的表情节拍。关键统一慢动作规则：慢动作必须统一保持约实时速度 30%、贯穿全部五个镜头——无镜头加速、无镜头进一步放慢。非风格化子弹时间、非定格、非频闪高速快门慢动作。慢动作必须读作情绪重量与物理后果，而非视觉效果。头发、织物、玻璃碎片、啤酒泡沫、坠落货品、倒下身体、挥动拳头、血滴、汗珠，都以正确的惯性与重力穿越深度放慢的时间。关键暴力规则：Lulu 在 Shot 1 的挣扎是 10 岁孩童的体型与力量——小拳头、小脚踢，对成人保安不造成实质伤害，只是疯狂的抵抗。保安抓她手臂的抓握必须看起来坚定、有成人力量，但非残忍。Shot 1 的咬合展现牙齿咬皮肤带少量出血——清晰可见的咬痕，无撕裂的肉、无血腥伤口。Shot 2 的冰柜撞击与拖拽无血腥地呈现——玻璃碎裂，脸在碎裂表面移动，然后我们切到鼻梁上一道干净水平割口的事后画面。无碎片入眼、无深度损毁、无血腥混乱。Shot 3 的绊倒是干净的物理摔倒——摔倒对保安无血腥伤害。Shot 5 的酒瓶从身后击中谢顶后脑——保安头部因酒瓶无可见血、无血腥头部伤，只有碎裂、眼珠上翻与身体倒下。从 Shot 2 起的鼻血真实但克制——一道精确横贯鼻梁的细水平裂口，血以两道细流沿脸流下、从下巴滴到连帽衫，但非涌流或积聚。孩童与成人解剖学比例正确。布料、头发、坠落玻璃、倒下身体、散落货品、挥动拳头、血滴在深度慢动作中重力真实。保安全程以恰当的物理质量移动。Shot 4 抓 Rein 连帽衫的抓握必须看起来强硬但非残忍。5 个镜头间硬切，无转场、无淡入淡出、无叠化。全程严格无音乐、无配乐、无原声、无任何器乐音频——只有来自场景的叙事内环境声与非语言发声。
+```
+
+---
+
+## 备注
+
+- 本批 5 个 job_set（索引 21–25）文案逐字节相同。为五镜头慢动作营救序列，与「柜台棱拖拽」版本（索引 10–20）属同一情节的不同讲述：此处 Roco 的永久鼻梁伤源自被【甩向冰箱玻璃门并沿碎玻璃横向拖拽】所划出的一道水平割口。源文本存在占位符缺损：多处 `Roco from ` / `Jax from ` / `Rein from ` 后引用丢失；本文件【原样转录】不补改。头部映射：`<<<image_1>>>`=保安、`<<<image_2>>>`=Lulu、`<<<image_3>>>`=Jax、`<<<image_4>>>`=Rein、`<<<image_5>>>`=Roco（起始无伤）、`<<<image_6>>>`=店内。
+
+- 术语：`contré-jour → 逆光`、`hard cut → 硬切`、`diegetic → 叙事内`、`slow motion → 慢动作`、`in medias res → 故事中途`、`hands-free → 空手` 等，均待评审入库（v0.1→v0.2）。
+- 图片占位符 `<<<image_N>>>`、技术词（`seedance_2_0` / `cinematic_studio_video_3_5`、模型名）不译。
+- translation_status: **draft**（复核后转 reviewed）。
