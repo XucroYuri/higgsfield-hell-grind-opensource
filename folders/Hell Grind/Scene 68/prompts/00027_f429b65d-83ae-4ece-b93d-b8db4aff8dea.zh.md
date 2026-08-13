@@ -1,0 +1,267 @@
+# prompt 对照
+
+## 元数据
+- job_set_id: f429b65d-83ae-4ece-b93d-b8db4aff8dea
+- job_type: seedance_2_0
+- source_path: folders/Hell Grind/Scene 68/prompts/00027.txt
+- folder_official_name: Scene 68
+- translation_status: draft
+- glossary_version: v0.1
+
+## 原文 (source)
+
+[CAMERA]
+⚠️ CAMERA OPERATION — HEAVY HANDHELD, BODY-PRESENT, OPERATOR CHASING: the camera is clearly carried on a human body — operator's gait, breath, weight transfer all visible in the frame's micro-motion. Frame is ALWAYS ALIVE in the operator's hands, never locked off, never on a tripod, never on a gimbal-smooth float. Reference operation: SAVING PRIVATE RYAN battlefield, CHILDREN OF MEN one-takes, THE REVENANT chase sequences, ROGUE ONE corridor handheld. Operator MOVES with the action — runs when the actor runs (matched gait, frame trembling on each footfall), drops when the actor drops, holds his weight low when the action goes to ground. Constant subtle reframing as he tracks the performer. Every frame has visible handheld signature: small unpredictable jitters, drift correction, weight settling. Camera operation is RAW and PHYSICAL — never aerial, never sweeping crane, never stabilized. ⚠️ BACKGROUND BLUR, f/2.0 ⚠️
+
+⚠️ LOW KEY LIGHTNING. HIGH CONTRAST !!!. 
+⚠️ CRITICAL SPATIAL CONSTRAINT — DISTANCE FROM DOOR 
+
+The three characters (Jaxx, Roco, Rein) are positioned EXACTLY ONE
+METER away from the carved stone wall with the recessed Hindu-
+Buddhist doorway. The door is directly behind them at arm's reach.
+
+- Distance from characters' backs to the wall: 1 meter (approximately
+ one body width, no more).
+- The carved doorway must fill the entire background of the frame.
+- The relief carvings on the wall must be clearly readable in soft
+ focus directly behind the characters.
+- The candles burning at the base of the wall must be visible right
+ behind their feet.
+- There is NO empty space, NO corridor, NO mid-ground between the
+ characters and the wall.
+- Camera is in front of the characters; characters are between camera
+ and the wall.
+- If Roco is lying face down with his head toward camera, his FEET
+ are roughly at the base of the wall (1 meter behind his head when
+ prone, 1 meter behind his back when standing). ⚠️
+
+[NEGATIVE FOR DISTANCE]
+not far from the wall, not in the middle of a large hall, no deep
+background, no long corridor behind them, the wall is not in the
+distance, the wall is not blurred out beyond recognition, characters
+are not standing in open space, characters are not 3+ meters from
+the wall, the door is not a distant feature — it is right behind them.
+
+
+Composition: rule of thirds + golden ratio. The descending slab anchors the deep frame as a vertical / dropping graphic block, the gap underneath as the dramatic focal aperture.
+
+⚠️ COLOR PALETTE — INHERITED FROM REFERENCE  wet stone reading as cold neutral grey-black where unlit. Do NOT impose a teal/orange Hollywood grade, do NOT push toward green, do NOT add blue daylight. Faithful to the location reference.
+Multi-shot sequence connected by hard cuts, 12 seconds total,
+anamorphic 2.39:1, 35mm film grain, shallow-to-medium depth of field,
+in the style of Denis Villeneuve's "Dune" — sacred scale and intimate
+observation. Three internal shots separated by clean hard cuts.
+
+[CHARACTERS — CONSISTENT ACROSS ALL SHOTS]
+<<<image_1>>> - ROCO: messy shaggy black hair, faint mustache, dust on face, small
+ red adhesive bandage strip on nose, dark weathered tactical jacket
+ with shevron panels, dark cargo pants, red bandana on right wrist,
+ fingerless gloves, red bear keychain on back belt.
+<<<image_2>>> - JAXX: bleached blonde hair, dark skin, clear safety goggles on
+ forehead, dark tactical jacket with gray panels, olive cargo pants,
+ fingerless gloves.
+<<<image_3>>> - REIN: silver-and-black bobbed hair, scar on right cheekbone, dark
+ gray cropped tactical jacket, black turtleneck, dark wide cargo
+ pants, thigh holster.
+All dusty.
+
+Single continuous shot, 12 seconds total, anamorphic 2.39:1, 35mm, f/1.8. 
+film grain, medium depth of field, in the style of Denis Villeneuve's
+"Dune" — sacred scale and intimate observation. No cuts.
+LOW KEY LIGHTNING. HIGH CONTRAST. 
+
+[LOCATION]
+Cave-temple interior. The frame is dominated by a massive ornate
+carved stone doorway built into the rough rock wall. The doorway has
+a tall recessed rectangular opening of weathered stone, framed by an
+elaborate carved arched header at the top with curling spiral
+ornaments and intricate Hindu-Buddhist style relief work. Heavy
+carved stone pilasters flank the doorway. A single low stone step
+runs along the base of the door. Two small clay oil lamp candles sit
+on the floor at the bottom corners of the doorway frame (purely
+environmental, do NOT cast warm light on the characters).
+
+[CRITICAL DISTANCE — RIGHT AT THE DOOR]
+The three characters are PRESSED RIGHT UP AGAINST the doorway —
+their backs are LITERALLY TOUCHING or within 20–40 cm of the carved
+stone door frame. They are standing/lying ON THE STONE STEP at the
+base of the door. The carved relief of the doorway frames them
+directly behind their heads and shoulders. The decorative arched
+header is visible above them in the upper part of the frame. There
+is NO gap between them and the door — they are at the threshold.
+
+[CAMERA]
+Active organic handheld, anamorphic 35mm wide lens, MEDIUM SHOT
+positioned directly in front of the three characters, slight low
+angle. Medium depth of field — characters sharp, the carved doorway
+behind them in soft focus but every relief detail clearly readable.
+
+[LIGHT — STRICT, NEUTRAL ONLY]
+LOW KEY LIGHTNING. HIGH CONTRAST. 
+Lighting on the characters is NEUTRAL NATURAL WHITE only — clean
+daylight-balanced ambient (~5500–6000K), soft and even, falling
+from above and slightly in front. NO warm tones on faces, jackets,
+or skin. NO orange, NO amber, NO golden glow on the characters.
+The two oil lamp candles at the door base are present in the frame
+as practicals but their warm glow does NOT reach or color the
+characters — they only flicker locally at the floor corners and on
+the lower stone of the door frame. Background of the carved door
+sits in cool blue-gray shadow. Overall palette: cold blue-gray and
+neutral white, no warmth on bodies. Dust drifting through the
+neutral light.
+
+[STAGING — STRICT]
+ROCO lies in the CENTER of the frame, FACE DOWN on his stomach on
+the stone step right in front of the doorway, HEAD POINTED TOWARD
+CAMERA (head closest to lens, feet pointing toward the door, his
+boots almost touching the carved stone of the door frame).
+JAXX stands/crouches on screen-RIGHT of frame, beside Roco, his
+shoulder almost brushing the right pilaster of the doorway.
+REIN stands/crouches on screen-LEFT of frame, beside Roco, her
+shoulder almost brushing the left pilaster of the doorway, with the
+skateboard in her LEFT hand throughout the entire shot — she does
+not put it down.
+
+[ROCO STATE]
+Roco is conscious and aware. He rises on his own power but assisted
+by Jaxx and Rein. He is in pain — winces, slow movements, favoring
+his ribs — but functional. His dominant emotion is deep exhaustion:
+heavy eyelids, slow blinking, slack jaw, slow breathing, dust on his
+sweaty face. Not unconscious, not limp, not dramatic — just very,
+very tired and sore.
+
+[ACTION]
+0.0s — Open on Roco face down on the stone step right at the foot
+ of the carved doorway, head closest to camera, feet near the door
+ frame. The ornate carved door fills the entire background directly
+ behind the group. Jaxx stands on screen-right beside Roco against
+ the right pilaster, Rein stands on screen-left beside Roco against
+ the left pilaster with skateboard in her left hand. Both look down
+ at Roco in silence, lit by neutral white ambient.
+2.5s — Roco stirs, plants his palms on the stone, slowly pushes his
+ torso up off the step with a tired grimace, head still toward
+ camera. Jaxx and Rein crouch down on either side in silence.
+5.0s — Roco gets one knee under himself, exhales heavily, winces
+ from the pain. Jaxx slips a hand under Roco's right armpit. Rein
+ hooks her free right hand under Roco's left armpit, skateboard
+ still in her left.
+7.5s — Together they help Roco rise — he does most of the work with
+ his own legs, Jaxx and Rein steady him and lift to take weight off
+ his side. Roco's face shows tired strain, eyes half-closed. As he
+ comes up he turns slightly so the three end up facing camera in a
+ loose line, the carved doorway right behind their heads and
+ shoulders.
+10.0s — Roco stands fully on his own feet between them, posture
+ slumped from exhaustion but steady. Jaxx gives Roco a quiet
+ friendly clap on the shoulder with his free hand. Roco gives a
+ slow tired nod, eyes heavy. No one speaks.
+12.0s — Final frame: medium shot of all three pressed right against
+ the carved doorway under clean neutral white light — Jaxx
+ screen-right, Roco center upright with deeply tired eyes, Rein
+ screen-left with the skateboard. The decorative carved header
+ arches directly above their heads. Dust falls from Roco's jacket.
+ Two oil lamps still glow locally at the corners of the door at
+ floor level but do not warm the characters.
+
+[SOUND — DIEGETIC ONLY, NO DIALOGUE]
+No music, no spoken words. Soft crackle of the two candle flames,
+distant drip of water, low ambient cave resonance, creak of tactical
+gear, Roco's heavy tired breathing and quiet pained grunt as he
+pushes himself up, soft scuff of boots on the stone step, soft thump
+of Jaxx's hand clapping Roco's shoulder, their measured breathing.
+
+[NEGATIVE]
+no music, NO DIALOGUE, no speech, Jaxx does not speak, Rein does
+not speak, Roco does not speak, NO WARM LIGHT on characters, no
+orange light on characters, no amber light on characters, no golden
+glow on faces, no candle warmth on skin, no warm rim light on
+jackets, no fire light on bodies, characters are lit only by neutral
+natural white ambient, no slow motion, no smooth gimbal, no aerial
+shot, no cuts, no fades, no dissolves, no other people, no monk, no
+statue, no glowing red lines, no transformation, no weapons drawn,
+no combat, the carved doorway must be RIGHT BEHIND the characters,
+characters are NOT in open space, no empty mid-ground between
+characters and the door, no wide hall behind them, characters are
+ON the stone step at the threshold, Rein never puts the skateboard
+down, Jaxx is always on screen-right, Rein is always on screen-left,
+Roco's head always points TOWARD camera while he is on the floor,
+Roco is never lying on his back, Roco starts face down on his
+stomach, Roco is conscious and rises mostly under his own power
+with assistance, Roco is not limp, Roco is not unconscious, Roco is
+not being dragged, no removal of red nose bandage, no text, no
+captions, no logos.
+
+## 中文对照 (zh)
+
+[CAMERA]（摄影机）
+⚠️ CAMERA OPERATION —— 重型手持摄影，机身在场、操机员追逐：摄影机显然背负在人体上——操机员的步态、呼吸、重心转移全部可见于画面的细微抖动之中。画面在操机员手中始终是「活的」，绝不锁死机位、绝不架在三脚架上、绝不做云台般的平滑漂浮。参考操作：〈拯救大兵瑞恩〉战场、〈人类之子〉一镜到底、〈荒野猎人〉追逐段落、〈侠盗一号〉走廊手持。操机员随着动作移动——演员跑他就跑（步态同步，每一下落足画面都颤动）、演员趴他就趴、动作转入地面时他把重心压得很低。追踪表演者时持续有不易察觉的重新取景（reframing）。每一帧都有可见的手持签名：细小的不可预测抖动、漂移校正、重心沉定。摄影机操作是 RAW 而 PHYSICAL（原始而物理）的——绝无航拍、绝无摇臂大扫、绝无稳定器。
+
+⚠️ BACKGROUND BLUR，f/2.0（背景虚化，f/2.0）⚠️
+
+⚠️ 低调布光（LOW KEY LIGHTNING）。高反差（HIGH CONTRAST）！！！
+
+⚠️ 关键空间约束 —— 距门的距离
+
+三名角色（JAXX、ROCO、REIN）被放置在与那面带凹进式印度-佛教（Hindu-Buddhist）门龛的雕刻石墙**恰好相差一米**的位置。门就在他们正后方，一伸手臂可及。
+
+- 角色后背到墙的距离：1 米（大约一个身宽，绝不多）。
+- 雕刻门龛必须填满整幅画面的背景。
+- 墙上浮雕必须清晰可辨，并虚焦柔和地直接落在角色正后方。
+- 墙脚燃烧的蜡烛必须直接出现在他们脚后方，可见。
+- 角色与墙面之间**没有**空当、**没有**走廊、**没有**中景地带。
+- 摄影机在角色前方；角色在摄影机与墙面之间。
+- 若 ROCO 俯卧且头朝摄影机，他的**双脚**大约在墙脚（俯卧时约在脑后 1 米，站立时约在背后 1 米）。⚠️
+
+[NEGATIVE FOR DISTANCE]（距离的反面清单）
+不要离墙太远、不要站在大厅中央、不要有深邃背景、身后不要有长走廊、墙不在远处、墙不能虚化到认不出、角色不能站在开放空间中、角色不能离墙 3 米以上、门不是一个远景特征——它就紧贴在他们身后。
+
+Composition（构图）：三分法 + 黄金比例。下坠的板式体（descending slab）作为一垂直/下落的图形块锚定深邃画面，其下方缝隙作为戏剧性的焦点孔径。
+
+⚠️ 色彩基调 —— 承自参考。未照明处湿石读作冷中性灰黑。**不要**强加青橙好莱坞调色、**不要**推向绿色、**不要**添加蓝色日光。忠实于场景地点的参考。
+
+多镜头序列由硬切（hard cuts）连接，总时长 12 秒，变形宽银幕 2.39:1，35mm 胶片颗粒，浅-中等景深，丹尼斯·维伦纽瓦式「沙丘」风格——神圣尺度与亲密观察并存。三个内部镜头以干净的硬切分隔。
+
+[CHARACTERS — CONSISTENT ACROSS ALL SHOTS]（角色——所有镜头一致）
+<<<image_1>>> - ROCO：凌乱蓬松的黑发、淡淡的胡须、脸上带灰、鼻梁贴一条红色小创可贴（adhesive bandage strip）、深色风化的战术夹克带雪佛龙（chevron）面板、深色工装裤、右手腕绑红色头巾、露指手套、后腰带上挂红色小熊钥匙扣。
+<<<image_2>>> - JAXX：漂白金发、深色皮肤、额头上架透明护目镜（safety goggles）、深色战术夹克带灰色面板、橄榄色工装裤、露指手套。
+<<<image_3>>> - REIN：银黑波波头、右颧骨有道疤、深灰色短款战术夹克、黑色高领衫、深色宽松工装裤、大腿枪套。
+
+全都沾满灰尘。
+
+单一连续镜头，总时长 12 秒，变形宽银幕 2.39:1，35mm，f/1.8，胶片颗粒，中等景深，丹尼斯·维伦纽瓦式「沙丘」风格——神圣尺度与亲密观察并存。无剪辑。
+低调布光（LOW KEY LIGHTNING）。高反差（HIGH CONTRAST）。
+
+[LOCATION]（场景地点）
+洞窟-寺庙内部。画面由一扇嵌在粗糙岩壁中的巨型华丽雕刻石门主导。门有一道高挑凹进的矩形开口（风化石材），顶部由一道繁复雕花的拱形门楣（arched header）框起——带卷曲螺旋纹饰与繁复的印度-佛教风格浮雕。沉重的雕花石壁柱（pilasters）立于门两侧。门脚基座处有一级低矮的石阶。门框底部两侧墙角各放一盏小小的陶土油灯蜡烛（纯环境元素，**不要**把暖光投到角色身上）。
+
+[CRITICAL DISTANCE — RIGHT AT THE DOOR]（关键距离——正贴门边）
+三名角色**紧紧压贴**在门边——他们的背**确实碰触**或离雕花石门框仅 20–40 cm。他们立在/卧在门脚的石阶上。门的浮雕直接在他们头肩后方框住他们。装饰性的拱形门楣在他们上方的画面上半部可见。他们与门之间**没有**空隙——他们就踩在门槛（threshold）上。
+
+[CAMERA]（摄影机）
+主动式有机手持，变形宽银幕 35mm 广角镜头，中景（MEDIUM SHOT）置于三名角色正前方，轻微低角度。中等景深——角色清晰，身后的雕花门虚焦柔和但每一处浮雕细节都清晰可辨。
+
+[LIGHT — STRICT, NEUTRAL ONLY]（灯光——硬规则，仅中性）
+低调布光（LOW KEY LIGHTNING）。高反差（HIGH CONTRAST）。
+落在角色上的是**中性自然白光**——干净的日光平衡环境光（约 5500–6000K），柔和而均匀，自上略偏前方落下。面部、夹克或皮肤上**没有**任何暖调。角色上**没有**橙色、**没有**琥珀色、**没有**金色光辉。门脚两盏油灯蜡烛作为实用光源在画面中可见，但它们的暖光**不会**触及或染上角色——只在墙角地面上与门框下部石材上就地闪烁。雕花门的背景落在冷蓝灰阴影中。整体基调：冷蓝灰与中性白，身体上无暖意。微尘在色温中性的光线里飘浮。
+
+[STAGING — STRICT]（站位——硬规则）
+ROCO 卧于画面**中央**，在门楣正前方石阶上**俯卧**（face down）趴在肚子上，**头朝向摄影机**（头离镜头最近，脚指向门，靴子几乎碰到门框的雕刻石材）。
+JAXX 站在/蹲在画面**右侧**，在 ROCO 身旁，肩几乎擦到门框右壁柱。
+REIN 站在/蹲在画面**左侧**，在 ROCO 身旁，肩几乎擦到门框左壁柱，整段镜头**左手**一直拿着滑板——她不放下。
+
+[ROCO STATE]（ROCO 状态）
+ROCO 意识清醒。他靠自己的力量起身，但由 JAXX 与 REIN 搀扶。他很疼——皱眉、动作缓慢、护着自己的肋骨——但还能行动。他的主导情绪是深深的疲惫：眼皮沉重、眨眼缓慢、下巴松弛、呼吸缓慢、汗湿的脸上沾灰。不是失去意识、不是绵软无力、不是戏剧化——只是非常、非常疲惫而酸痛。
+
+[ACTION]（动作）
+0.0s——开场落在 ROCO 俯卧在雕花石门前的石阶上，头离摄影机最近，脚贴近门框。华丽的雕花门直接填满整组人正后方的背景。JAXX 站在画面右侧 ROCO 身旁抵着右壁柱，REIN 站在画面左侧 ROCO 身旁抵着左壁柱、左手拿滑板。两人都沉默地看着 ROCO，被中性自然白光所照。
+2.5s——ROCO 动了动，双掌撑在石上，带着疲惫的苦笑把上半身慢慢从台阶撑起来，头仍朝向摄影机。JAXX 与 REIN 在两侧沉默蹲下。
+5.0s——ROCO 单膝撑起，重重呼出一口气，因疼痛而皱眉。JAXX 一只手滑到 ROCO 右腋下。REIN 用空着的右手勾住 ROCO 左腋下，滑板仍在她左手。
+7.5s——他们一起帮 ROCO 起身——他主要靠自己的双腿发力，JAXX 与 REIN 稳住他并从侧面分担重量把他撑起。ROCO 脸上是疲惫的紧张，眼睛半闭。起身时他微微转身，使三人最终松散地排成一排面向摄影机，雕花石门就紧贴在他们头肩后方。
+10.0s——ROCO 在两人之间用自己的双脚完全站直，姿势因疲惫而垮塌但稳住了。JAXX 用空余的手在 ROCO 肩上安静友好地拍了一下。ROCO 慢吞吞、疲惫地点了下头，眼神沉重。无人说话。
+12.0s——末帧：中景，三人紧贴雕花石门，置于干净的中性自然白光下——JAXX 画面右侧，ROCO 居中直立、眼神深重疲惫，REIN 画面左侧、手持滑板。装饰性拱形门楣直接拱在他们头顶上方。灰尘从 ROCO 夹克上簌簌落下。两盏油灯仍在地面层的门角就地发着微光，但不给角色取暖。
+
+[SOUND — DIEGETIC ONLY, NO DIALOGUE]（声音——仅剧情内音，无对白）
+无音乐、无台词。两簇蜡烛火焰的细碎噼啪声、远处滴水声、低沉的洞窟环境共鸣、战术装备的吱嘎声、ROCO 起身时沉重疲惫的呼吸与安静的痛哼、靴子在石阶上轻微的沙沙声、JAXX 手掌拍 ROCO 肩头的一声轻响、他们克制的呼吸。
+
+[NEGATIVE]（反面清单）
+无音乐、无对白、无言语，JAXX 不开口，REIN 不开口，ROCO 不开口，角色上无暖光，角色上无橙光，角色上无琥珀光，面部无金色辉光，皮肤上无烛暖，夹克上无暖色轮廓光，身体上无火光，角色仅被中性自然白光环境所照，无慢动作，无平滑云台，无航拍镜头，无剪辑，无淡入淡出，无溶接，无其他人，无僧人，无雕像，无发光红线，无变身，无拔武器，无战斗，雕花石门必须**紧贴**在角色正后方，角色**不在**开放空间中，角色与门之间无空的一般中景地带，身后无宽阔大厅，角色**立在**门槛的石阶上，REIN 绝不放下滑板，JAXX 始终在画面右侧，REIN 始终在画面左侧，ROCO 在地面时头始终指向**摄影机**，ROCO 绝不仰卧，ROCO 开场俯卧在肚子上，ROCO 意识清醒且主要靠自身之力起身、有人搀扶，ROCO 不绵软，ROCO 不失去意识，ROCO 不被拖行，不得摘除红色鼻贴，无文字，无字幕，无标识。
+
