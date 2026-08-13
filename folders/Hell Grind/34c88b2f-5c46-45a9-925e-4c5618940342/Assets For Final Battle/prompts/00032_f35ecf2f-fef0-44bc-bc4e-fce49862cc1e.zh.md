@@ -1,0 +1,391 @@
+# prompt 对照
+
+## 元数据
+- job_set_id: f35ecf2f-fef0-44bc-bc4e-fce49862cc1e
+- job_type: nano_banana_2
+- source_path: folders/Hell Grind/34c88b2f-5c46-45a9-925e-4c5618940342/Assets For Final Battle/prompts/00032.txt
+- folder_official_name: Assets For Final Battle
+- translation_status: draft
+- glossary_version: v0.1
+- dedupe_note: 唯一 prompt #7（3 个 job_set 共用）
+
+## 原文 (source)
+
+Edit this winter landscape image. Five changes in this edit, all 
+applied together: change the camera angle to a diagonal three-
+quarter side view, remove the foreground rocky mound, change the 
+sky to dark dramatic storm sky with light breaks, add distant 
+background fires from old battle aftermath, and add a heavy 
+snowfall blizzard with wind. Enhance the cinematic detail throughout 
+with natural soft cinematic quality. Preserve the original 
+atmospheric haze quality of the input exactly. Preserve the tree 
+EXACTLY as it is in the input — every single detail of the tree 
+must remain identical, one to one match.
+
+CRITICAL TREE PRESERVATION — ONE TO ONE MATCH:
+The tree in the input image must be preserved EXACTLY as it is, 
+one to one match with the input. Every single detail of the tree 
+stays identical:
+
+   • The exact same tree shape, silhouette, and overall form
+   • The exact same trunk shape, twist, thickness, and character
+   • The exact same branch structure — every single branch in the 
+     same position, the same shape, the same length, the same curve
+   • The exact same canopy shape and spread
+   • The exact same leaf distribution — every cluster of dried red 
+     leaves in the same position with the same density
+   • The exact same dried red leaves color and arrangement
+   • The exact same exposed root system at the base
+   • The exact same bark texture and weathered character
+   • The exact same dimensional volume of every element
+
+The tree is shown from the new diagonal three-quarter angle, but 
+the tree itself remains the exact same tree, one to one identical 
+to the input. Only the viewing angle changes, the tree itself does 
+not change at all. Do NOT redraw the tree. Do NOT change any 
+branch position. Do NOT add or remove leaves.
+
+CHANGE 1 — CAMERA ANGLE TO DIAGONAL THREE-QUARTER SIDE VIEW:
+The camera moves sideways approximately 35-45 degrees around the 
+tree, now pointing at the tree from the side-front diagonal. The 
+tree itself remains identical to the input — only the viewing 
+angle around the tree changes:
+
+   • The same tree seen from a diagonal angle showing its front 
+     and one side simultaneously
+   • The same branches reveal depth and thickness from the new 
+     angle but in the same positions
+   • One side of the same trunk visible alongside the front
+   • The same exposed roots seen from a side-front angle
+   • The same wind-shaped canopy now angled in the frame
+   • The horizon line and background atmosphere reposition slightly
+
+Like a documentary cinematographer walked 35 steps to one side and 
+re-framed the same exact tree from a new angle.
+
+CHANGE 2 — REMOVE THE FOREGROUND ROCKY MOUND:
+The prominent rocky hill mound dominating the left foreground is 
+removed from the close foreground or shifted far back into the 
+middle distance. The new foreground is open snow ground extending 
+toward the tree, no large prominent rocky mound right in front of 
+camera. The foreground area is clean open snow with small dried 
+red bushes and ornamental grasses scattered, the eye flows from 
+open snow back to the tree.
+
+CHANGE 3 — DARK DRAMATIC STORM SKY WITH LIGHT BREAKS:
+Replace the current sky with a dark dramatic storm overcast sky — 
+heavy dark storm clouds dominating the upper portion of the frame 
+in deep dark grey to near-black tones, dense oppressive cloud 
+cover, dramatic moody storm atmosphere. The sky reads as a dramatic 
+natural storm sky — heavy dark clouds, NOT smoke from fires, NOT 
+pollution-darkened, just naturally dark dramatic storm clouds.
+
+LIGHT BREAKS THROUGH THE DARK STORM CLOUDS:
+Through the dark storm clouds, there are visible openings and 
+breaks where lighter pale sky shows through — natural cracks and 
+gaps in the cloud cover where pale neutral light filters through 
+from above. These light breaks are essential — they create dramatic 
+contrast between the dark heavy storm clouds and the lighter sky 
+visible through the openings. Multiple breaks scattered across the 
+sky composition, NOT uniformly black.
+
+Cloud structure: Dark heavy storm clouds with natural volumetric 
+form, layered cloud masses, dimensional depth, soft natural cloud 
+edges where the breaks open, organic cloud texture. Storm clouds 
+with natural volume, NOT a wall of smoke, NOT thick opaque pollution.
+
+Tonality: Very dark grey to near-black storm clouds dominating 
+most of the sky, with pale neutral grey-white light visible 
+through the breaks, creating high tonal contrast. Cold dark moody 
+overall palette.
+
+NOT a calm sky, NOT a chill sky, NOT a uniformly dark sky, NOT a 
+flat dark sky, NOT a smoke-dominated sky.
+
+CHANGE 4 — DISTANT BACKGROUND FIRES FROM OLD BATTLE AFTERMATH:
+Add subtle distant fires in the deep background near the horizon — 
+fires from a battle that happened long ago, calm sustained burn. 
+The fires appear as long horizontal lines of low burning flames 
+stretching across portions of the deep background, like trails 
+where fuel spread linearly across the ground and continues to 
+smolder. Low horizontal lines of orange-red flame visible far back 
+near the horizon, NOT vertical, NOT campfires, NOT compact patches.
+
+Two or three horizontal fire lines distributed asymmetrically in 
+the deep background:
+   • One longer line on one side of the frame
+   • One shorter line in another part of the deep background
+   • Optionally one fainter line near the horizon
+
+Distant in scale, softened by atmospheric haze and the falling snow 
+of the blizzard. ONLY in the deep background near the horizon, NOT 
+in foreground, NOT in middle ground.
+
+Fire smoke is SUBTLE — only very faint thin smoke wisps rising 
+slowly from the fire lines, dissolving quickly into the existing 
+atmospheric haze and blizzard snow, NOT large smoke columns, NOT 
+dramatic dense smoke. The fires are barely visible warm glows 
+through the falling snow at the deep horizon. Snow around fires 
+stays clean white, no scorched ground.
+
+CHANGE 5 — ADD HEAVY SNOWFALL BLIZZARD WITH WIND:
+Add a heavy winter blizzard to the scene — intense snowfall and 
+wind-driven snow streaks filling the air. The blizzard transforms 
+the atmosphere with active falling snow throughout the frame.
+
+Snow particles in the air:
+   • Countless snow particles streaking diagonally across the frame 
+     from wind-driven motion
+   • Visible wind-driven snow streaks creating diagonal motion blur 
+     across foreground and middle ground
+   • Snow particles of varying sizes — closer to camera larger and 
+     more visible, farther smaller and softer
+   • The air thick with snow flurries reducing visibility into the 
+     deep distance
+   • Snow density compounds the existing atmospheric haze making 
+     the distant horizon and fires fade further into the storm
+
+Snow accumulation on the scene:
+   • More snow accumulating on the tree branches, dried red bushes, 
+     and ornamental grasses
+   • Deeper snow on the ground than the input
+   • Wind-sculpted snow ridges and drifts across open ground
+   • Snow building against rocks and at the tree base
+
+Wind atmosphere:
+   • Visible wind direction in the diagonal snow streaks
+   • Wind-blown snow drift visible at the surface
+   • The wind also affects the storm clouds above giving them 
+     motion and turbulence
+
+The blizzard combined with the dark storm sky creates a fully 
+oppressive winter battlefield atmosphere — heavy storm clouds 
+above, falling snow throughout the air, deeper snow on the ground, 
+distant fires barely visible through the blizzard at the horizon.
+
+PRESERVE THE ATMOSPHERIC HAZE EXACTLY AS THE ORIGINAL INPUT:
+The atmospheric haze and soft fog quality of the original input 
+must remain EXACTLY as it is — same gentle atmospheric softness 
+across the deep distance, same depth-of-distance fade, same cool 
+cinematic atmospheric quality. The blizzard adds additional snow 
+density to the air but the underlying atmospheric haze of the 
+original is preserved beneath the blizzard layer. Do NOT remove 
+the haze, do NOT replace it with only blizzard, the haze and the 
+blizzard are layered together.
+
+ENHANCE DETAIL WITH NATURAL CINEMATIC QUALITY (not over-sharpened):
+Natural detailed quality of a real anamorphic cinema frame — 
+detailed but with soft natural falloff, organic photographic 
+quality, NOT digitally crisp or over-sharpened. Like a Roger 
+Deakins anamorphic frame on Kodak motion picture film — detail 
+through soft anamorphic optics and organic film grain, natural 
+micro-contrast not digital edge sharpness.
+
+Tree: leaves and branches at the same exact positions as input, 
+just shown from new angle with natural snow accumulation, soft 
+natural anamorphic edges, ONE TO ONE match to input shape.
+
+Foreground: snow with natural texture and deeper drift detail, 
+dried red bushes peeking through accumulated snow, ornamental 
+grasses bent by wind with snow on stems, rocks with snow on top.
+
+Background through the haze and blizzard: far elements naturally 
+softened by atmospheric perspective compounded with falling snow 
+density, distant fires read as faint warm glows barely visible 
+through the storm.
+
+Sky cloud quality: dark heavy storm clouds with soft volumetric 
+structure, natural cloud and vapor texture, light breaks rendered 
+with soft natural edges, cloud movement showing storm wind activity.
+
+Snow particles quality: organic falling snow with natural variation 
+in size and motion, sharp particles in foreground softening into 
+the depth, natural snow streak motion blur from wind, NOT uniform 
+particle pattern, NOT artificial snow effect, NOT confetti-like 
+particles.
+
+PRESERVE EXACTLY:
+— The tree identity ONE TO ONE — same exact tree, just shown from 
+  new angle with snow accumulation
+— Vegetation character (bushes, grasses) with snow accumulation 
+  added
+— Snow appearance with deeper accumulation but still clean white 
+  natural snow
+— Atmospheric haze and fog quality (preserved beneath blizzard 
+  layer)
+— Lighting direction and quality on the foreground
+— Color grade and palette of foreground and tree
+— Aspect ratio
+— Cinematic mood
+
+DO NOT:
+— Do NOT redraw the tree, ONE TO ONE match to input
+— Do NOT change the tree shape, silhouette, or character
+— Do NOT keep the large foreground rocky mound
+— Do NOT change the snow color (still clean white, no dirt)
+— Do NOT remove the atmospheric haze (haze + blizzard layered)
+— Do NOT make the image clearer than the original input
+— Do NOT make the sky calm or chill
+— Do NOT make the sky uniformly dark without breaks
+— Do NOT make the sky look like smoke pollution
+— Do NOT add large fire smoke columns
+— Do NOT add fire close to camera
+— Do NOT add foreground or middle ground fires
+— Do NOT make snow particles uniform or artificial
+— Do NOT make blizzard cartoon-like or stylized
+— Do NOT pull phantom shapes from the haze, clouds, or blizzard
+— Do NOT over-sharpen any element
+— Do NOT make the image digitally crisp
+
+The result: same winter plateau location with the SAME EXACT TREE 
+preserved one to one from the input (just viewed from new angle), 
+foreground mound removed, dark dramatic storm overcast sky with 
+light breaks, distant horizontal background fire lines barely 
+visible through the storm, AND a heavy snowfall blizzard with 
+wind-driven snow streaks throughout the air and deeper snow 
+accumulation on the ground. Natural cinematic detail throughout, 
+original atmospheric haze preserved beneath the blizzard layer.
+
+Photorealistic, real practical photography quality, ARRI Alexa LF 
+Panavision Primo anamorphic 35mm at T2.0, Roger Deakins 
+cinematography, organic 35mm Kodak film grain, real heavy snowfall 
+and blizzard effects, natural cinematic detail and soft anamorphic 
+falloff, real cinema reference quality with original atmospheric 
+haze preserved. Not CGI, not stylized, not over-sharpened, not 
+digitally crisp, not haze removed, not redrawn tree, not calm sky, 
+not smoke-dominated sky, not foreground fires, not artificial 
+snow effect, not cartoon blizzard, soft natural cinematic 
+anamorphic quality with tree preserved one to one, three-quarter 
+angle, mound removed, dark storm sky with light breaks, distant 
+horizontal background fires, heavy realistic blizzard with wind, 
+and original haze preserved.
+
+## 中文对照 (zh)
+
+编辑这张冬日风景图。本次共五项修改，一并应用：把机位改为斜向四分之三侧视角、移除前景的岩石土丘、把天空改为带光隙的深色戏剧性风暴天、添加来自旧日战事余烬的远处背景火焰，以及加入一场伴着狂风的厚重降雪暴风雪。全程以自然柔和的电影质感增强画面细节。严格保留输入图的原有大气雾霭质感。把树严格保留为输入图中的原样——树的每一个细节都必须保持一致，逐点匹配。
+
+树的关键保全——逐点匹配：
+输入图中的树必须以原样严格保留，与输入逐点匹配。树的每一个细节都保持一致：
+
+   • 完全相同的树形、剪影与整体轮廓
+   • 完全相同的干形、扭曲、粗细与性格
+   • 完全相同的枝干结构——每一根枝条都在相同位置、相同形状、相同长度、相同曲度
+   • 完全相同的树冠形状与展开范围
+   • 完全相同的叶片分布——每一簇干枯红叶都在相同位置、相同疏密
+   • 完全相同的干枯红叶颜色与排布
+   • 基部完全相同的裸露根系
+   • 完全相同的树皮纹理与风化性格
+   • 每个元素的完全相同体积维度
+
+树以新的斜向四分之三角度呈现，但树本身仍是原来那棵树，与输入逐点一致。只有观察角度变化，树本身完全不变。不要重画树。不要改变任何枝条的位置。不要增删叶片。
+
+修改 1——改为斜向四分之三侧视角：
+机位横向移动约 35-45 度绕树而转，如今从侧前方斜向对着树。树本身保持与输入一致——只有环绕树的观察角度变化：
+
+   • 同一棵树从斜向角度观看，同时显示其正面与一个侧面
+   • 同一枝条从新角度显现出深浅与粗细，但仍在相同位置
+   • 同一树干的一个侧面与正面同时可见
+   • 同一裸露根系从侧前方角度观看
+   • 同一迎风树冠如今在画面中倾斜
+   • 地平线与背景氛围略微重排
+
+好比一位纪实摄影师向一侧走了 35 步，从新角度重新框住同一棵树。
+
+修改 2——移除前景岩石土丘：
+占据左前景的那个醒目岩石土丘，从近前景中被移除，或远远推到中距离处。新的前景是向树延伸的开阔雪地，镜头正前方不再有大块醒目的岩石土丘。前景区域是干干净净的开阔积雪，点缀着零星的干枯红叶小灌木与观赏性草丛，视线从开阔雪地自然流向树。
+
+修改 3——带光隙的深色戏剧性风暴天：
+把当前天空替换为深色戏剧性的风暴阴天——浓重的深色风暴云占据画面上半部，自深灰到近黑的色调，大量压抑的云层覆盖，戏剧性的幽暗风暴氛围。天空读作一场戏剧性的自然风暴天——厚重的暗云，而非火烧产生的烟、亦非污染的暗沉，只是自然而然地深色、戏剧性的风暴云。
+
+黑暗风暴云中的天光缝隙：
+透过深色风暴云，可见开口与缝隙处露出较淡的苍白天空——云层中自然的裂口与空隙，上方的淡中性光从中滤下。这些光隙至关重要——它们在深重风暴云与透过开口可见的较亮天空之间制造出强烈反差。整个天空构图中散布多处缝隙，绝非均匀漆黑。
+
+云的构造：深色厚重风暴云，具备自然的体积形态、层叠的云簇、维度上的纵深、以及云隙开启处柔和自然的云缘，有机的云质纹理。具备自然体量的风暴云，绝非一堵烟墙、绝非浓重不透明的人为污染。
+
+明暗调性：极深的灰到近黑的风暴云占据天空大部分，光隙中透出淡中性灰白的亮光，形成极高的明暗反差。整体冷峻幽暗的色调。
+
+绝非平静的云、绝非清冷的云、绝非均匀皆暗的云、绝非平坦死黑的云、绝非烟尘主导的云。
+
+修改 4——来自旧日战事余烬的远处背景火焰：
+在近地平的深远背景中，添加微妙而遥远的火焰——一场很久以前发生的战斗留下此后持续静燃的余烬火。这些火表现为一道道低燃火焰的水平长线，横贯深远背景的若干段落，如同燃料沿地面呈直线蔓延、仍在持续阴燃的轨迹。橙色转红的低矮火焰线在遥远近地平线处可见，绝非竖直形、绝非篝火、绝非紧凑的斑块。
+
+两条或三条水平火线不对称地分布在深远背景中：
+   • 画面一侧较长的一条线
+   • 深远背景另一处较短的一条线
+   • 可选地，地平线附近一条更淡的线
+
+尺度上遥不可及，被大气雾霭与暴风雪的落雪柔化。只出现在近地平线的深远背景中，绝不出现在前景、绝不出现在中景。
+
+火烟是克制的——只有极淡的细烟缕从火线上缓缓升起，很快散入现有的大气雾霭与暴风雪之雪中，绝非巨大的烟柱、绝非戏剧性浓烟。这些火在深邃地平线的纷飞落雪中只是勉强可见的模糊暖光。火旁的积雪保持洁净纯白，没有烧焦的土面。
+
+修改 5——加入伴着狂风的厚重降雪暴风雪：
+为场景加入一场厚重的冬季暴风雪——肆虐的降雪与风驱雪条充塞空气。暴风雪以贯穿整个画面的活跃落雪改变了氛围。
+
+空气中的雪粒：
+   • 无数雪粒由风驱动斜划过画面
+   • 可见的风驱雪条，在前后景中拉出斜向运动模糊
+   • 大小不一的雪粒——离镜头近的更大更清晰，远的更小更柔
+   • 空气被雪飞充塞，能见度被压入深远距离
+   • 雪密度叠加现有大气雾霭，使远方地平线与火光在风暴中愈发遥远
+
+场景上的积雪：
+   • 树的枝条、干枯红叶灌木、观赏性草丛上堆积更多雪
+   • 地面积雪比输入深
+   • 开阔地面上风雕的雪脊与雪堆
+   • 雪堆在岩石上、堆在树基处
+
+风的大气氛围：
+   • 斜向雪条中可见风向
+   • 地表可见被风吹动的雪尘
+   • 狂风同样影响上方风暴云，赋予其运动与湍动
+
+这场暴风雪与深色风暴天叠加，营造出一种完全压抑的冬季战场氛围——上方是厚重的风暴云，空气里满是落雪，地面积雪更深，远处火光在地平线处的暴风雪中勉强可见。
+
+严格按原始输入保留大气雾霭：
+原始输入中大气雾霭与柔和薄雾的质感必须保持原样——深远处同样和缓的大气柔和度、同样的距离衰减、同样冷峻的电影大气质感。暴风雪为空气增添了额外的雪密度，但原始的大气雾霭仍被保存在暴风雪层之下。不要移除雾霭，不要用暴风雪单独替代它，雾与暴风雪层层叠加。
+
+以自然电影感增强细节（不过度锐化）：
+真实变形宽银幕（anamorphic）电影画面的自然细腻质感——有细节但带着柔和自然的衰减、有机的照片质感，绝非数字化的锐利或过度锐化。如同摄于柯达（Kodak）电影胶片上的一帧 Roger Deakins 变形镜头画面——细节经由柔和的变形宽银幕光学与有机胶片颗粒呈现，自然的微反差而非数字边缘锐度。
+
+树：叶片与枝条保持在输入中的相同位置，只是从新角度观看并覆着自然的积雪，柔和自然的变形边缘，与输入形状逐点一致。
+
+前景：积雪有自然纹理与更深的飘移细节，干枯红叶灌木自积雪中探出，观赏性草丛被风压弯、茎上带雪，岩巅覆雪。
+
+透过雾霭与暴风雪的后景：远物被大气透视叠加落雪密度自然柔化，远处火光读作几乎消失在风暴中的模糊暖光。
+
+天空云的质感：深色厚重风暴云带柔软体积结构、天然云与汽的纹理，光隙以柔和自然的边缘渲染，云的运动显示出风暴波浪的活动。
+
+雪粒的质感：有机的落雪，大小与运动自然变化，前景锐利的雪粒在纵深中渐柔，狂风带出自然的雪条运动模糊，绝非均匀的粒子图案、绝非人工雪效果、绝非彩纸屑般的粒子。
+
+严格保留：
+— 树的身份逐点一致——完全相同的那棵树，只是从新角度并覆着积雪观看
+— 覆着积雪的植被性格（灌木、草丛）
+— 积雪外观更深，但仍是洁净纯白的自然雪
+— 大气雾霭与薄雾质感（保留在暴风雪层之下）
+— 前景光线的方向与质感
+— 前景与树的色调与配色
+— 宽高比
+— 电影氛围
+
+不要：
+— 不要重画树，与输入逐点一致
+— 不要改变树的形状、剪影或性格
+— 不要保留前景那个大块岩石土丘
+— 不要改变雪的颜色（仍是洁净纯白、无尘土）
+— 不要移除大气雾霭（雾 + 暴风雪层层叠加）
+— 不要让画面比原始输入更清晰
+— 不要让天空平静或清冷
+— 不要让天空无光隙地均匀皆暗
+— 不要让天空看起来像烟污染
+— 不要从火焰添加巨大的烟柱
+— 不要在镜头近处加火
+— 不要在前景或中景加火
+— 不要让雪粒均匀或人工化
+— 不要让暴风雪卡通化或风格化
+— 不要从雾霭、云或暴风雪中拉扯出幻影形状
+— 不要过度锐化任何元素
+— 不要让画面数字化地锐利
+
+结果：同一冬日高原位置，具有与输入逐点一致、严格保留的同一棵树（只是从新角度观看），前景土丘已被移除，带光隙的深色戏剧性风暴阴天，远方水平背景火线在风暴中勉强可见，再加上一场贯穿整个空气的厚重降雪暴风雪与狂风驱动的雪条，地面上积雪更深的雪。全程自然电影细节，原始大气雾霭保留在暴风雪层之下。
+
+写实摄影、真实的实拍照片质感，ARRI Alexa LF、Panavision Primo 变形宽银幕 35mm、T2.0，Roger Deakins 电影摄影，有机 35mm 柯达胶片颗粒，真实厚重的降雪与暴风雪效果，自然的电影细节与柔和变形衰减，保留原始大气雾霭的真实影院参考质感。绝非 CGI、绝非风格化、绝非过度锐化、绝非数字锐利、绝非雾霭被移除、绝非重画的树、绝非平静的天空、绝非烟主导的天空、绝非前景火、绝非人工雪效果、绝非卡通风雪，以逐点保全树木、四分之三角度、移除土丘、带光隙的深色风暴天、远处水平背景火、厚重写实的伴风暴风雪、并保留原始雾霭的自然柔和电影变形质感。
