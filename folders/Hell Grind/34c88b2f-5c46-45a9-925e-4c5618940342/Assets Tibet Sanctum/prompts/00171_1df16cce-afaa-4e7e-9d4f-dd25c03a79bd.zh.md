@@ -1,0 +1,18 @@
+# prompt 对照
+
+## 元数据
+- job_set_id: 1df16cce-afaa-4e7e-9d4f-dd25c03a79bd
+- job_type: nano_banana_2
+- source_path: folders/Hell Grind/34c88b2f-5c46-45a9-925e-4c5618940342/Assets Tibet Sanctum/prompts/00171_1df16cce-afaa-4e7e-9d4f-dd25c03a79bd.txt
+- folder_official_name: Assets Tibet Sanctum
+- translation_status: draft
+- glossary_version: v0.1
+- dedupe_note: 唯一 prompt #49（4 个 job_set 共用：170,171,172,173）
+
+## 原文 (source)
+
+Add Shield to his right hand made from that crystal. Make it like the part of his hand
+
+## 中文对照 (zh)
+
+用那颗水晶为他右手加一面盾。做成他手的一部分。
