@@ -1,0 +1,72 @@
+# prompt 对照
+
+## 元数据
+- job_set_id: c6d13cdc-ca2c-4a09-bcce-3bebf52ab9c1
+- job_type: seedance_2_0
+- source_path: folders/Hell Grind/Scene 50/prompts/00542_c6d13cdc-ca2c-4a09-bcce-3bebf52ab9c1.txt
+- folder_official_name: Scene 50
+- translation_status: draft
+- glossary_version: v0.1
+
+## 原文 (source)
+
+Narrow ancient stone corridor, trap activation sequence, 15 seconds.
+
+VISUAL STYLE: handheld cinematography with subtle, controlled camera shake — the camera alive in the operator's hands but never frenetic, breathing rather than jerking. Long-lens telephoto at f/1.2 aperture with extreme shallow depth of field. Lens imperfections — visible dust on lens, halation from torch flames, chromatic aberration on edges, occasional gentle focus drift, faint film grain. Anamorphic 2.39:1. Heavily desaturated palette with warm torch accents, no flares. Dramatic chiaroscuro from torches only. Camera is alive but composed — micro-shake constant, organic operator presence, NO jittery jerks.
+
+LOCATION: tight ancient stone corridor, two meters wide. Behind — fresh rubble collapse. Ahead — distant glowing gateway. Lit iron torches on both walls. Ten stone ports embedded in walls (five left, five right), currently sealed.
+
+CHARACTERS:
+— Rain (<<<image_2>>>): silver-blonde hair, scar by eye, fresh cut on temple, grey hooded jacket, dusty. Hoverboard under arm, glowing tablet in hand. Walking ahead, leading.
+— Jax (<<<image_3>>>): yellow buzzcut, dark skin, clear glasses, dark jacket, dusty. Walking in the middle.
+— Roco (<<<image_4>>>): dark messy hair, mustache, red bandage on nose, dark jacket, dusty. Hoverboard under arm. Walking at the rear, scanning constantly.
+
+Shot 1 (0–3s): Handheld long-lens shot from a low angle behind the team, looking forward down the corridor. Rain leads several meters ahead, sharp in focus, her silhouette walking toward the distant gateway. Jax walks in the middle ground, slightly out of focus. Roco closer to camera in the foreground, partially in soft bokeh, his shoulder filling the lower right of frame. Telephoto compression flattens the depth, all three stacked on different focal planes. Lit torches on both walls render as halated bokeh orbs along the corridor edges. Camera tracks slowly behind them, micro-shake from operator walking with the team, lens alive. Atmospheric haze thick. Footsteps echoing.
+
+Shot 2 (3–6s): Hard cut to handheld long-lens close-up of Roco walking forward, three-quarter angle. Camera tracks with him at his pace, micro-shake gentle and alive. Hard torch light slashes across his features, half his face in coal-black shadow. His eyes scan methodically — looking up toward the carved ceiling, then to the side along the wall, then DOWN toward the floor ahead. Focus pulls subtly past his face into the deep background where Rain's silhouette walks ahead in soft bokeh. As his eyes lock onto something on the floor near her feet, his expression sharpens — recognition. He shouts, voice sharp and warning: "Rein!"
+
+Shot 3 (6–7.5s): Handheld long-lens close-up of Rain's face, three-quarter angle, mid-step. Camera close, subtle shake. Her head WHIPS to look back over her shoulder at the sound of Roco's voice — focus drifts subtly with the head movement then catches her eye. Mouth slightly open. She freezes mid-stride, weight shifting onto her front foot. Caught off-guard.
+
+Shot 4 (7.5–10s): Hard cut to handheld extreme close-up at floor level, camera inches from a single stone tile. Subtle shake — operator low and close. Shallow focus on the tile surface. Rain's boot descends from above and lands on it. The tile DEPRESSES one centimeter with a faint dull CLICK. Dust sifts from the seam, particles glowing in passing torch light. Hold on the sunken tile. A deep mechanical groan begins inside the walls, building.
+
+Shot 5 (10–11.5s): Handheld long-lens close-up of Rain's face, three-quarter angle. Camera close, subtle shake. Her eyes drop to her foot in soft foreground bokeh — she has just registered what she stepped on. The realization travels across her face: eyes widening, jaw tightening, breath catching. The mechanical groan continues building. She is frozen.
+
+Shot 6 (11.5–13s): Hard cut to handheld extreme close-up of one stone wall port. Camera close, subtle shake. The carved cover GRINDS open with a heavy mechanical clack. Camera registers the impact with a single gentle jolt — not a jerk, just a presence-shift. Dust EXPLODES from the seam outward, particles flying past the lens. From off-frame in all directions, the simultaneous mechanical clacks of nine more ports opening at once.
+
+Shot 7 (13–14s): Handheld long-lens close-up of Roco mid-scream, voice cracking: "DOWN!" Hard torch light slashes across his face. Subtle shake. He launches forward into frame. Focus pulls past Roco to Jax visible in the deep background — Jax dropping to the floor on his own, arms over his head, hitting wet stone hard. Two falls captured at different focal planes.
+
+Shot 8 (14–15s): Handheld long-lens close-up of Rain's face, three-quarter angle. Subtle shake. From off-frame, Roco's body CRASHES into her — his shoulder slamming into her midsection, his arm wrapping around her — both bodies driven down out of frame together. Camera follows the fall with a controlled tilt-down. As they fall, dozens of arrows EXPLODE from the wall ports — sharp wooden whooshes filling the air, motion-blur streaks slicing across the lower frame.
+
+no music. sfx only — slow footsteps echoing on wet stone (three sets at different distances), torches crackling, faint electronic hum from Rain's tablet, controlled tactical breathing from Roco, "Rein!" sharp warning, Rain's footstep stopping mid-stride, boot pressing on stone, faint dull CLICK of depressed tile, dust sifting from seam, deep mechanical groan beginning within walls, ten stone covers grinding open simultaneously with heavy clacks, "DOWN!" raw scream, Jax's body hitting wet stone hard, Roco's running footsteps, body tackle impact as Roco crashes into Rain, both crashing to floor together, hoverboards clattering, tablet skidding, dozens of arrows whooshing through air at full real-time speed.
+
+## 中文对照 (zh)
+
+狭长古石廊，陷阱激活序列，15 秒。
+
+视觉风格（VISUAL STYLE）：手持摄影、细微受控镜头晃动——摄影机在操机员手中鲜活、但绝不狂乱、是呼吸而非猛震。长焦远摄 f/1.2 光圈、极端浅景深。镜头瑕疵——镜上可见的尘、火炬火焰光晕（halation）、边缘色差、偶发柔和漂焦、微淡胶片颗粒。变形宽银幕 2.39:1。高度去饱和调色板、暖火炬点缀、无耀光（flare）。仅火炬的戏剧性明暗对照（chiaroscuro）。摄影机鲜活而从容——微颤恒定、有机操机员临场感、绝无慌张猛震。
+
+地点（LOCATION）：狭促古石廊、两米宽。身后——新鲜碎石坍堆。前方——远处发光的入口。两侧墙点亮的铁制火把。墙内嵌十处石壁龛（左侧五处、右侧五处）、目前封合。
+
+角色（CHARACTERS）：
+— Rain（<<<image_2>>>）：银金发、眼旁疤痕、太阳穴新割口、灰连帽夹克、蒙尘。腋下夹着滑板、手持发光平板。向前走、领队。
+— Jax（<<<image_3>>>）：黄色平头、深肤色、透明护目镜、深色夹克、蒙尘。走在中段。
+— Roco（<<<image_4>>>）：深色凌乱发、胡须、鼻上红绷带、深色夹克、蒙尘。腋下夹着滑板。走在队尾、不断扫视。
+
+镜头 1（0-3s）：自团队身后的低角度手持长焦镜头、朝前顺走廊望去。Rain 领先数米、锐焦、她的剪影朝远处入口走去。Jax 走在中景、略失焦。Roco 更靠机位在前景、部分在柔光斑中、他的肩填满画面右下。长焦压缩压平纵深、三人叠于不同焦平面。两侧墙点亮的火把沿走廊边缘渲染为带光晕光斑球。机位缓慢跟于他们身后、微颤来自随队行走的操机员、镜头鲜活。大气雾霾浓。脚步声回荡。
+
+镜头 2（3-6s）：硬切至向前行走的 Roco 的手持长焦特写、三分之四角度。机位以他步速跟他、微颤柔和而鲜活。硬火炬光斜劈过他的五官、半张脸在煤黑阴影里。他的眼有条理地扫视——向上看雕花天花板、再沿墙向侧看、再向下看前方地面。焦点微妙地拉过他、落入深处背景中 Rain 在柔光斑中向前行走的剪影。当他的眼锁定她脚边地面上某物时、他的表情骤锐——认出。他喊、声音尖锐而警示：「Rein!」
+
+镜头 3（6-7.5s）：Rain 面部的手持长焦特写、三分之四角度、行步中。机位近、细微晃动。听到 Roco 声音、她的头猛地转回头后看——焦点随转头动作微妙漂移、随后摄住她的眼。嘴微张。她在半步中僵住、重量挪上前脚。措手不及。
+
+镜头 4（7.5-10s）：硬切至地面高度的手持极特写、机位距一块单石砖仅数寸。细微晃动——操机员低而近。砖面浅焦。Rain 的靴自上方落下、踩在砖上。砖下陷一厘米、带一声微弱的沉闷咔哒（CLICK）。尘自砖缝筛落、微粒在掠过的火把光中发亮。端在下陷砖上。墙内开始一声深沉机械吟哦、积聚着。
+
+镜头 5（10-11.5s）：Rain 面部的手持长焦特写、三分之四角度。机位近、细微晃动。她的眼垂向她脚边柔软前景光斑中的脚——她刚刚才认出自己踩到了什么。恍然漫过她的脸：眼睁大、下颌收紧、气息卡住。机械吟哦继续积聚。她僵住了。
+
+镜头 6（11.5-13s）：硬切至一面石墙壁龛的手持极特写。机位近、细微晃动。雕花盖板带一声沉重机械咔哒磨开。机位以一次温和的轻震捕捉撞击——绝非猛震、只是临场感移位。尘自接缝向外爆出、微粒掠过镜头。自出画处四面八方、另九处壁龛同时开启的机械咔哒齐鸣。
+
+镜头 7（13-14s）：Roco 尖叫中途的手持长焦特写、嗓音崩裂：「DOWN!（趴下!）」硬火炬光斜劈过他的脸。细微晃动。他向前扑入画面。焦点拉过 Roco、落到深景中可见的 Jax 身上——Jax 自行倒向地面、双手抱头、重重撞上湿石。两处坠落摄于不同焦平面。
+
+镜头 8（14-15s）：Rain 面部的手持长焦特写、三分之四角度。细微晃动。自出画处、Roco 的身体撞入她怀中——他的肩撞进她的腹部、手臂环住她——两具身体一起被带出画。机位以受控的向下仰倾（tilt-down）跟随坠落。在他们坠落时、几十支箭自墙壁龛炸射而出——锐利木质嗖声充满空气、运动模糊的箭痕划过画面下部。
+
+无音乐。仅音效（SFX only）——三个不同距离位置在湿石上缓慢回荡的脚步声、火把噼啪、Rain 平板微弱电子嗡鸣、Roco 受控的战术呼吸、尖锐警示「Rein!」、Rain 在半步中停下脚步、靴压石、下陷砖的微弱沉闷咔哒（CLICK）、尘自砖缝筛落、墙内开始的深沉机械吟哦、十处石盖板带沉重咔哒同时磨开、「DOWN!（趴下!）」粗嘎尖叫、Jax 身体重撞湿石、Roco 奔跑的脚步、Roco 撞上 Rain 时身体扑撞的撞击、两人一起撞落地、滑板哗啦、平板打滑、几十支箭以全实时速度穿空嗖鸣。
+
